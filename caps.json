@@ -1,4 +1,112 @@
 [{
+      "id": "bec_us_green_lime_rusty_01",
+      "brand": "Beck's",
+      "series": "Green lime design",
+      "image": "images/Beck's/bec_us_green_lime_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with green lime design"
+    },
+    {
+      "id": "bec_us_green_lime_rusty_02",
+      "brand": "Beck's",
+      "series": "Green lime design",
+      "image": "images/Beck's/bec_us_green_lime_rusty_02.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with green lime design"
+    },
+    {
+      "id": "bec_us_green_shield_vintage_01",
+      "brand": "Beck's",
+      "series": "Shield logo vintage",
+      "image": "images/Beck's/bec_us_green_shield_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1994",
+      "description": "Vintage Beck's cap with blue-red shield logo"
+    },
+    {
+      "id": "bec_us_green_shield_rusty_01",
+      "brand": "Beck's",
+      "series": "Shield logo",
+      "image": "images/Beck's/bec_us_green_shield_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with green shield logo"
+    },
+    {
+      "id": "bec_us_green_shield_level7_rusty_01",
+      "brand": "Beck's",
+      "series": "Shield logo Level7",
+      "image": "images/Beck's/bec_us_green_shield_level7_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with Level7 shield logo"
+    },
+    {
+      "id": "bec_us_green_citrus_rusty_01",
+      "brand": "Beck's",
+      "series": "Citrus design",
+      "image": "images/Beck's/bec_us_green_citrus_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with citrus design"
+    },
+    {
+      "id": "bec_us_green_citrus_vintage_01",
+      "brand": "Beck's",
+      "series": "Citrus design vintage",
+      "image": "images/Beck's/bec_us_green_citrus_vintage_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Vintage Beck's cap with citrus design"
+    },
+    {
+      "id": "bec_us_green_brew_rusty_01",
+      "brand": "Beck's",
+      "series": "Brew design",
+      "image": "images/Beck's/bec_us_green_brew_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with brew design"
+    },
+    {
+      "id": "bec_us_green_brew_vintage_01",
+      "brand": "Beck's",
+      "series": "Brew design vintage",
+      "image": "images/Beck's/bec_us_green_brew_vintage_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Vintage Beck's cap with brew design"
+    },
+    {
+      "id": "bec_us_green_orange_rusty_01",
+      "brand": "Beck's",
+      "series": "Orange citrus design",
+      "image": "images/Beck's/bec_us_green_orange_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with orange citrus design"
+    },
+    {
+      "id": "bec_us_green_non_alc_rusty_01",
+      "brand": "Beck's",
+      "series": "Non-alcoholic design",
+      "image": "images/Beck's/bec_us_green_non_alc_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with non-alcoholic design"
+    },
+    {
+      "id": "bec_us_green_shield_key_rusty_01",
+      "brand": "Beck's",
+      "series": "Shield key design",
+      "image": "images/Beck's/bec_us_green_shield_key_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with shield key design"
+    },
+  {
   "id": "coke_kr_rimtext_korean_02",
   "brand": "Coca-Cola",
   "series": "Korea rim text (clean)",
