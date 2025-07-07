@@ -18,6 +18,51 @@
     "description": null
   },
   {
+  "id": "coke_en_vegextracts_block_01",
+  "brand": "Coca-Cola",
+  "series": "UK ingredients block",
+  "image": "images/coke_en_vegextracts_block_01.jpg",
+  "country": "GB",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_en_vegextracts_block_02",
+  "brand": "Coca-Cola",
+  "series": "UK ingredients block",
+  "image": "images/coke_en_vegextracts_block_02.jpg",
+  "country": "GB",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_en_rimtext_ingr_01",
+  "brand": "Coca-Cola",
+  "series": "UK rim ingredients",
+  "image": "images/coke_en_rimtext_ingredients_01.jpg",
+  "country": "GB",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_bg_1996_cyrillic_01",
+  "brand": "Coca-Cola",
+  "series": "Bulgaria 1996 Cyrillic",
+  "image": "images/coke_bg_1996_cyrillic_01.jpg",
+  "country": "BG",
+  "year": 1996,
+  "description": null
+},
+{
+  "id": "coke_en_rimtext_logo_01",
+  "brand": "Coca-Cola",
+  "series": "UK rim text logo-only",
+  "image": "images/coke_en_rimtext_logoonly_01.jpg",
+  "country": "GB",
+  "year": null,
+  "description": null
+},
+  {
     "id": "fanta_es_limon_blue_01",
     "brand": "Fanta",
     "series": "Limón – Spain",
