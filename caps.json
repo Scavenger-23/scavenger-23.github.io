@@ -698,5 +698,95 @@
       "country": "US",
       "year": null,
       "description": null
+    },
+  {
+      "id": "spr_us_green_logo_clean_01",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_clean_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Clean Sprite cap with green logo"
+    },
+    {
+      "id": "spr_us_green_logo_worn_01",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_worn_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Worn Sprite cap with green logo"
+    },
+    {
+      "id": "spr_us_green_logo_variant_01",
+      "brand": "Sprite",
+      "series": "Green logo variant",
+      "image": "images/Sprite/spr_us_green_logo_variant_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Variant Sprite cap with green logo"
+    },
+    {
+      "id": "spr_us_green_fizz_clean_01",
+      "brand": "Sprite",
+      "series": "Fizz design",
+      "image": "images/Sprite/spr_us_green_fizz_clean_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Clean Sprite cap with fizz design"
+    },
+    {
+      "id": "spr_us_green_fizz_worn_01",
+      "brand": "Sprite",
+      "series": "Fizz design",
+      "image": "images/Sprite/spr_us_green_fizz_worn_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Worn Sprite cap with fizz design"
+    },
+    {
+      "id": "spr_us_green_fizz_variant_01",
+      "brand": "Sprite",
+      "series": "Fizz design variant",
+      "image": "images/Sprite/spr_us_green_fizz_variant_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Variant Sprite cap with fizz design"
+    },
+    {
+      "id": "spr_us_green_seal_clean_01",
+      "brand": "Sprite",
+      "series": "Seal design",
+      "image": "images/Sprite/spr_us_green_seal_clean_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Clean Sprite cap with seal design"
+    },
+    {
+      "id": "spr_us_green_seal_worn_01",
+      "brand": "Sprite",
+      "series": "Seal design",
+      "image": "images/Sprite/spr_us_green_seal_worn_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Worn Sprite cap with seal design"
+    },
+    {
+      "id": "spr_us_green_seal_variant_01",
+      "brand": "Sprite",
+      "series": "Seal design variant",
+      "image": "images/Sprite/spr_us_green_seal_variant_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Variant Sprite cap with seal design"
+    },
+    {
+      "id": "spr_us_green_recycle_clean_01",
+      "brand": "Sprite",
+      "series": "Recycle symbol",
+      "image": "images/Sprite/spr_us_green_recycle_clean_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Clean Sprite cap with recycle symbol"
     }
 ]
