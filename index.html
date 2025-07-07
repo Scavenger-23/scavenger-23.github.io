@@ -2,20 +2,43 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Crown‑Cap Collection</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>Crown-Cap Collection</title>
+
+  <!-- You’re not using an external stylesheet any more, so I dropped the link.
+       If you do have style.css with extra rules, keep the line below. -->
+  <!-- <link rel="stylesheet" href="style.css" /> -->
+
   <style>
-    body { font-family: system-ui, sans-serif; margin: 2rem; max-width: 960px; }
-    h1 { margin-bottom: 1rem; }
-    #controls { margin-bottom: 1rem; }
-    .grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
-    figure { margin: 0; text-align: center; }
-    img { width: 100%; border-radius: 6px; }
-    figcaption { font-size: 0.8rem; margin-top: 0.4rem; }
+    /* basic page */
+    body        { font-family: system-ui, sans-serif; margin: 2rem; max-width: 960px; }
+    h1          { margin-bottom: 1rem; }
+    #controls   { margin-bottom: 1rem; }
+
+    /* responsive grid of figures */
+    .grid {
+      display: grid;
+      gap: 1rem;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    }
+
+    figure      { margin: 0; text-align: center; }
+    img         { width: 100%; border-radius: 6px; transition: transform .2s; }
+    figcaption  { font-size: 0.8rem; margin-top: 0.4rem; }
+
+    /* --- hover zoom effect --- */
+    figure:hover img {
+      transform: scale(1.4);
+      z-index: 10;
+    }
+
+    /* optional: make thumbnails larger on phones (≤600 px) */
+    @media (max-width: 600px) {
+      .grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+    }
   </style>
 </head>
 <body>
-  <h1>My Crown‑Cap Album</h1>
+  <h1>My Crown-Cap Album</h1>
 
   <div id="controls">
     <label for="brandFilter">Brand:</label>
