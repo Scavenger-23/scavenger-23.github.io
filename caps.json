@@ -1,4 +1,112 @@
 [{
+      "id": "red_pl_pink_swirl_vintage_01",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redds/red_pl_pink_swirl_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Redd's cap with pink swirl design"
+    },
+    {
+      "id": "red_pl_pink_emblem_rusty_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redds/red_pl_pink_emblem_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Redd's cap with pink emblem logo"
+    },
+    {
+      "id": "red_pl_red_swirl_vintage_02",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redds/red_pl_red_swirl_vintage_02.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Redd's cap with red swirl design"
+    },
+    {
+      "id": "red_pl_red_emblem_faded_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redds/red_pl_red_emblem_faded_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Faded Redd's cap with red emblem logo"
+    },
+    {
+      "id": "red_pl_green_swirl_rusty_01",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redds/red_pl_green_swirl_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Redd's cap with green swirl design"
+    },
+    {
+      "id": "red_pl_green_emblem_vintage_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redds/red_pl_green_emblem_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Redd's cap with green emblem logo"
+    },
+    {
+      "id": "red_pl_white_swirl_faded_01",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redds/red_pl_white_swirl_faded_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Faded Redd's cap with white swirl design"
+    },
+    {
+      "id": "red_pl_white_emblem_rusty_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redds/red_pl_white_emblem_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Redd's cap with white emblem logo"
+    },
+    {
+      "id": "red_pl_gold_swirl_vintage_01",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redds/red_pl_gold_swirl_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Redd's cap with gold swirl design"
+    },
+    {
+      "id": "red_pl_gold_emblem_worn_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redds/red_pl_gold_emblem_worn_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Worn Redd's cap with gold emblem logo"
+    },
+    {
+      "id": "red_pl_orange_swirl_worn_01",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redds/red_pl_orange_swirl_worn_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Worn Redd's cap with orange swirl design"
+    },
+    {
+      "id": "red_pl_orange_emblem_rusty_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redds/red_pl_orange_emblem_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Redd's cap with orange emblem logo"
+    },
+      {
       "id": "lom_pl_green_pilsner_vintage_01",
       "brand": "Łomża",
       "series": "Pilsner design",
