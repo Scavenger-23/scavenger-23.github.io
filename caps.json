@@ -439,6 +439,51 @@
       "year": null,
       "description": "Rusty Beck's cap with shield key design"
     },
+{
+    "id": "coca_signature_pink_01",
+    "brand": "Coca-Cola",
+    "series": "Signature Mixers – Pink",
+    "image": "images/Coca-Cola/coca_signature_pink_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coca_signature_gold_01",
+    "brand": "Coca-Cola",
+    "series": "Signature Mixers – Gold",
+    "image": "images/Coca-Cola/coca_signature_gold_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coca_signature_rose_01",
+    "brand": "Coca-Cola",
+    "series": "Signature Mixers – Rose",
+    "image": "images/Coca-Cola/coca_signature_rose_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coca_signature_green_01",
+    "brand": "Coca-Cola",
+    "series": "Signature Mixers – Green",
+    "image": "images/Coca-Cola/coca_signature_green_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coca_misc_recycle_01",
+    "brand": "Coca-Cola",
+    "series": "Miscellaneous",
+    "image": "images/Coca-Cola/coca_misc_recycle_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": "Please Recycle Me cap, likely promotional"
+  },
   {
   "id": "coke_kr_rimtext_korean_02",
   "brand": "Coca-Cola",
