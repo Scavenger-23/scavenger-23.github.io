@@ -6,4 +6,12 @@
   "image": "images/coke_zero_red.jpg",
   "country": "DK",
   "year": 2024
+}, {
+  "id": "coke_dk_250ml_2024",
+  "brand": "Coca-Cola",
+  "series": "Denmark 250 ml promo",
+  "design": "Coca Cola Zero, red and white",
+  "image": "images/coke_zero_white.jpg",
+  "country": "DK",
+  "year": 2024
 }]
