@@ -879,6 +879,42 @@
     "year": null,
     "description": null
   },
+      {
+    "id": "lech_red_wild_animals_01",
+    "brand": "Lech",
+    "series": "Red Wild Animals",
+    "image": "images/Lech/lech_red_wild_animals_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_free_red_01",
+    "brand": "Lech",
+    "series": "Lech Free Red",
+    "image": "images/Lech/lech_free_red_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_free_blue_01",
+    "brand": "Lech",
+    "series": "Lech Free Blue",
+    "image": "images/Lech/lech_free_blue_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_yellow_wild_animals_01",
+    "brand": "Lech",
+    "series": "Yellow Wild Animals",
+    "image": "images/Lech/lech_yellow_wild_animals_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
   {
     "id": "lech_pl_qr_zobacz_koncerty_01",
     "brand": "Lech",
