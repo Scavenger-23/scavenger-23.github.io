@@ -338,5 +338,59 @@
   "country": "ID",
   "year": null,
   "description": null
-}
+},
+  {
+    "id": "fanta_ru_exotic_white_01",
+    "brand": "Fanta",
+    "series": "Exotic – Russia white splash",
+    "image": "images/Fanta/fanta_ru_exotic_white_01.jpg",
+    "country": "RU",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_sc_orange_triangle_01",
+    "brand": "Fanta",
+    "series": "Orange – Seychelles white triangle",
+    "image": "images/Fanta/fanta_sc_orange_triangle_01.jpg",
+    "country": "SC",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_or_plain_logo_01",
+    "brand": "Fanta",
+    "series": "Orange – plain logo",
+    "image": "images/Fanta/fanta_or_plain_logo_01.jpg",
+    "country": null,
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_ru_orange_splash_white_01",
+    "brand": "Fanta",
+    "series": "Orange splash – Russia white",
+    "image": "images/Fanta/fanta_ru_orange_splash_white_01.jpg",
+    "country": "RU",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_id_orange_full_01",
+    "brand": "Fanta",
+    "series": "Orange – Indonesia full-orange cap (FT-042)",
+    "image": "images/Fanta/fanta_id_orange_full_01.jpg",
+    "country": "ID",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_ar_pink_block_01",
+    "brand": "Fanta",
+    "series": "Pink cap – Arabic ingredients block",
+    "image": "images/Fanta/fanta_ar_pink_block_01.jpg",
+    "country": null,
+    "year": null,
+    "description": null
+  }
 ]
