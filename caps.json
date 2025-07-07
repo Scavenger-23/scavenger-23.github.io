@@ -1,4 +1,121 @@
 [{
+      "id": "lom_pl_green_pilsner_vintage_01",
+      "brand": "Łomża",
+      "series": "Pilsner design",
+      "image": "images/Lomza/lom_pl_green_pilsner_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with pilsner design"
+    },
+    {
+      "id": "lom_pl_green_pilsner_rustic_01",
+      "brand": "Łomża",
+      "series": "Pilsner design",
+      "image": "images/Lomza/lom_pl_green_pilsner_rustic_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rustic Łomża cap with pilsner design"
+    },
+    {
+      "id": "lom_pl_green_ale_shiny_01",
+      "brand": "Łomża",
+      "series": "Ale design",
+      "image": "images/Lomza/lom_pl_green_ale_shiny_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Shiny Łomża cap with ale design"
+    },
+    {
+      "id": "lom_pl_green_lager_vintage_01",
+      "brand": "Łomża",
+      "series": "Lager design",
+      "image": "images/Lomza/lom_pl_green_lager_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with lager design"
+    },
+    {
+      "id": "lom_pl_green_lager_rustic_01",
+      "brand": "Łomża",
+      "series": "Lager design",
+      "image": "images/Lomza/lom_pl_green_lager_rustic_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rustic Łomża cap with lager design"
+    },
+    {
+      "id": "lom_pl_green_craft_shiny_01",
+      "brand": "Łomża",
+      "series": "Craft design",
+      "image": "images/Lomza/lom_pl_green_craft_shiny_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Shiny Łomża cap with craft design"
+    },
+    {
+      "id": "lom_pl_green_stag_vintage_01",
+      "brand": "Łomża",
+      "series": "Stag emblem",
+      "image": "images/Lomza/lom_pl_green_stag_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with stag emblem"
+    },
+    {
+      "id": "lom_pl_green_stag_rusty_01",
+      "brand": "Łomża",
+      "series": "Stag emblem",
+      "image": "images/Lomza/lom_pl_green_stag_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Łomża cap with stag emblem"
+    },
+    {
+      "id": "lom_pl_green_gold_vintage_01",
+      "brand": "Łomża",
+      "series": "Gold design",
+      "image": "images/Lomza/lom_pl_green_gold_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with gold design"
+    },
+    {
+      "id": "lom_pl_green_wildlife_rustic_01",
+      "brand": "Łomža",
+      "series": "Wildlife design",
+      "image": "images/Lomza/lom_pl_green_wildlife_rustic_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rustic Łomża cap with wildlife design"
+    },
+    {
+      "id": "lom_pl_green_fullbodied_vintage_01",
+      "brand": "Łomża",
+      "series": "Full-bodied design",
+      "image": "images/Lomza/lom_pl_green_fullbodied_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with full-bodied design"
+    },
+    {
+      "id": "lom_pl_green_light_shiny_01",
+      "brand": "Łomża",
+      "series": "Light design",
+      "image": "images/Lomza/lom_pl_green_light_shiny_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Shiny Łomża cap with light design"
+    },
+    {
+      "id": "lom_pl_green_stag_antler_rusty_01",
+      "brand": "Łomża",
+      "series": "Stag antler emblem",
+      "image": "images/Lomza/lom_pl_green_stag_antler_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Łomża cap with stag antler emblem"
+    },
+      {
       "id": "eic_de_green_oak_vintage_01",
       "brand": "Eichbaum",
       "series": "Oak tree emblem vintage",
