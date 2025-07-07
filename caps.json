@@ -1,5 +1,86 @@
 [
   {
+    "id": "oko_pl_palony_redgoat_01",
+    "brand": "Okocim",
+    "series": "Palone",
+    "image": "images/Okocim/oko_pl_palony_redgoat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with red-orange circle and goat silhouette, gold OKOCIM Palone text"
+  },
+  {
+    "id": "oko_pl_jasne_pelne_green_01",
+    "brand": "Okocim",
+    "series": "Jasne Pełne",
+    "image": "images/Okocim/oko_pl_jasne_pelne_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Worn metallic-green cap, silver band, black OKOCIM logo, white Jasne Pełne text"
+  },
+  {
+    "id": "oko_pl_promo_zwyciezca_01",
+    "brand": "Okocim",
+    "series": "Promocja – Zwycięzca",
+    "image": "images/Okocim/oko_pl_promo_zwyciezca_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green-red promotional cap, goat crest, slogan “Zwycięzca bierze więcej!”"
+  },
+  {
+    "id": "oko_pl_green_carbon_goat_01",
+    "brand": "Okocim",
+    "series": "Premium Lager (carbon)",
+    "image": "images/Okocim/oko_pl_green_carbon_goat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Metallic-green cap with carbon-fibre pattern and embossed goat silhouette"
+  },
+  {
+    "id": "oko_pl_classic_green_wheat_01",
+    "brand": "Okocim",
+    "series": "Classic – Green",
+    "image": "images/Okocim/oko_pl_classic_green_wheat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green cap, gold OKOCIM logotype, wheat sprig and red goat crest"
+  },
+  {
+    "id": "oko_pl_classic_yellow_wheat_01",
+    "brand": "Okocim",
+    "series": "Classic – Yellow",
+    "image": "images/Okocim/oko_pl_classic_yellow_wheat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap variant with gold OKOCIM lettering, wheat sprig & crest"
+  },
+  {
+    "id": "oko_pl_black_banner_minimal_01",
+    "brand": "Okocim",
+    "series": "Black Banner",
+    "image": "images/Okocim/oko_pl_black_banner_minimal_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gloss-black cap, white OKOCIM banner and red goat crest, minimal lower half"
+  },
+  {
+    "id": "oko_pl_classic_black_wheat_01",
+    "brand": "Okocim",
+    "series": "Classic – Black",
+    "image": "images/Okocim/oko_pl_classic_black_wheat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with full gold OKOCIM logo, wheat wreath and red crest"
+  },
+  {
+    "id": "oko_pl_radler_yellow_01",
+    "brand": "Okocim",
+    "series": "Radler",
+    "image": "images/Okocim/oko_pl_radler_yellow_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Speckled yellow cap, OKOCIM banner and green script “Radler”"
+  },
+  {
     "id": "grolsch_nl_premium_pilsner_white_01",
     "brand": "Grolsch",
     "series": "Premium Pilsner",
