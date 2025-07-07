@@ -248,5 +248,96 @@
     "country": null,
     "year": null,
     "description": null
-  }
+  },
+  {
+  "id": "fanta_or_uk_block_01",
+  "brand": "Fanta",
+  "series": "Orange – UK ingredients block",
+  "image": "images/Fanta/fanta_or_uk_block_01.jpg",
+  "country": "GB",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_or_id_halal_01",
+  "brand": "Fanta",
+  "series": "Orange – Indonesia Halal rim text",
+  "image": "images/Fanta/fanta_or_id_halal_01.jpg",
+  "country": "ID",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_sw_id_halal_01",
+  "brand": "Fanta",
+  "series": "Soda Water – Indonesia Halal",
+  "image": "images/Fanta/fanta_sw_id_halal_01.jpg",
+  "country": "ID",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_st_id_promo_1500_01",
+  "brand": "Fanta",
+  "series": "Strawberry – Rp 1500 promo",
+  "image": "images/Fanta/fanta_st_id_promo_1500_01.jpg",
+  "country": "ID",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_white_pineapple_01",
+  "brand": "Fanta",
+  "series": "Pineapple – Korea white",
+  "image": "images/Fanta/fanta_kr_white_pineapple_01.jpg",
+  "country": "KR",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_white_pineapple_355_01",
+  "brand": "Fanta",
+  "series": "Pineapple – Korea 355 ml",
+  "image": "images/Fanta/fanta_kr_white_pineapple_355_01.jpg",
+  "country": "KR",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_orange_355_clean_01",
+  "brand": "Fanta",
+  "series": "Orange – Korea 355 ml (clean)",
+  "image": "images/Fanta/fanta_kr_orange_355_clean_01.jpg",
+  "country": "KR",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_orange_355_worn_01",
+  "brand": "Fanta",
+  "series": "Orange – Korea 355 ml (worn)",
+  "image": "images/Fanta/fanta_kr_orange_355_worn_01.jpg",
+  "country": "KR",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_blue_logo_01",
+  "brand": "Fanta",
+  "series": "Blue logo only – Korea",
+  "image": "images/Fanta/fanta_kr_blue_logo_01.jpg",
+  "country": "KR",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_st_id_promo_1300_01",
+  "brand": "Fanta",
+  "series": "Strawberry – Rp 1300 promo",
+  "image": "images/Fanta/fanta_st_id_promo_1300_01.jpg",
+  "country": "ID",
+  "year": null,
+  "description": null
+}
+]
 ]
