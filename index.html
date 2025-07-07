@@ -5,32 +5,45 @@
   <title>Crown-Cap Collection</title>
 
   <style>
-    /* page layout */
-    body        { font-family: system-ui, sans-serif; margin: 2rem; }
+    /* ---------- CSS variables for light/dark ---------- */
+    :root{
+      --bg:  #ffffff;
+      --text:#000000;
+    }
+    body.dark{
+      --bg: #121212;
+      --text:#e5e5e5;
+    }
+
+    /* ---------- basic layout ---------- */
+    body        { background:var(--bg); color:var(--text);
+                  font-family: system-ui, sans-serif; margin: 2rem; }
     h1          { margin-bottom: 1rem; }
-    #controls   { margin-bottom: 1rem; }
+    #controls   { margin-bottom: 1rem; display:flex; flex-wrap:wrap; gap:.5rem; }
+    #controls input{ padding:.2rem .4rem; }
 
-    /* 10-column thumbnail grid */
-    .grid {
-      display: grid;
-      gap: 1rem;
-      grid-template-columns: repeat(10, 1fr);   /* fixed 10 per row */
+    /* 10-column grid on wide screens */
+    .grid{ display:grid; gap:1rem; grid-template-columns:repeat(10,1fr); }
+    figure{ margin:0; text-align:center; }
+    img   { width:100%; border-radius:6px; transition:transform .2s; cursor:pointer; }
+    figcaption{ display:none; }
+
+    figure:hover img{ transform:scale(1.4); z-index:10; }
+
+    /* phones: 2 columns */
+    @media (max-width:600px){
+      .grid{ grid-template-columns:repeat(2,1fr); }
     }
 
-    figure      { margin: 0; text-align: center; }
-    img         { width: 100%; border-radius: 6px; transition: transform .2s; }
-    figcaption  { display: none; }               /* keep data, hide text */
+    /* ---------- modal (click-to-zoom) ---------- */
+    #modal{ position:fixed; inset:0; background:rgba(0,0,0,.8);
+            display:none; align-items:center; justify-content:center; z-index:100; }
+    #modal img{ max-width:90%; max-height:90%; border-radius:8px; }
+    #modal .close{ position:absolute; top:1rem; right:1rem;
+                   font-size:2rem; color:#fff; cursor:pointer; }
 
-    /* hover zoom */
-    figure:hover img {
-      transform: scale(1.4);
-      z-index: 10;
-    }
-
-    /* phones: 2 columns for readability */
-    @media (max-width: 600px) {
-      .grid { grid-template-columns: repeat(2, 1fr); }
-    }
+    /* small button styles */
+    button.toggle{ border:none; background:none; font-size:1.4rem; cursor:pointer; }
   </style>
 </head>
 <body>
@@ -38,13 +51,22 @@
 
   <div id="controls">
     <label for="brandFilter">Brand:</label>
-    <select id="brandFilter">
-      <option value="">All</option>
-    </select>
-    <span id="brandCount"></span>  <!-- live count badge -->
+    <select id="brandFilter"><option value="">All</option></select>
+
+    <input id="searchBox" type="search" placeholder="Search…" />
+
+    <button id="themeToggle" class="toggle" title="Toggle dark mode">🌙</button>
+
+    <span id="brandCount"></span>
   </div>
 
   <main id="gallery" class="grid"></main>
+
+  <!-- zoom modal -->
+  <div id="modal">
+    <span class="close">×</span>
+    <img alt="">
+  </div>
 
   <script src="script.js"></script>
 </body>
