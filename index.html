@@ -5,12 +5,12 @@
   <title>Crown-Cap Collection</title>
 
   <style>
-    /* basic layout */
+    /* page layout */
     body        { font-family: system-ui, sans-serif; margin: 2rem; }
     h1          { margin-bottom: 1rem; }
     #controls   { margin-bottom: 1rem; }
 
-    /* 10-column grid */
+    /* 10-column thumbnail grid */
     .grid {
       display: grid;
       gap: 1rem;
@@ -19,7 +19,7 @@
 
     figure      { margin: 0; text-align: center; }
     img         { width: 100%; border-radius: 6px; transition: transform .2s; }
-    figcaption  { display:none; }
+    figcaption  { display: none; }               /* keep data, hide text */
 
     /* hover zoom */
     figure:hover img {
@@ -27,7 +27,7 @@
       z-index: 10;
     }
 
-    /* on screens ≤ 600 px: 2 columns so items stay readable */
+    /* phones: 2 columns for readability */
     @media (max-width: 600px) {
       .grid { grid-template-columns: repeat(2, 1fr); }
     }
@@ -41,6 +41,7 @@
     <select id="brandFilter">
       <option value="">All</option>
     </select>
+    <span id="brandCount"></span>  <!-- live count badge -->
   </div>
 
   <main id="gallery" class="grid"></main>
