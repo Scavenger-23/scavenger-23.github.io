@@ -4,36 +4,32 @@
   <meta charset="UTF-8" />
   <title>Crown-Cap Collection</title>
 
-  <!-- You’re not using an external stylesheet any more, so I dropped the link.
-       If you do have style.css with extra rules, keep the line below. -->
-  <!-- <link rel="stylesheet" href="style.css" /> -->
-
   <style>
-    /* basic page */
-    body        { font-family: system-ui, sans-serif; margin: 2rem; max-width: 960px; }
+    /* basic layout */
+    body        { font-family: system-ui, sans-serif; margin: 2rem; }
     h1          { margin-bottom: 1rem; }
     #controls   { margin-bottom: 1rem; }
 
-    /* responsive grid of figures */
+    /* 10-column grid */
     .grid {
       display: grid;
       gap: 1rem;
-      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      grid-template-columns: repeat(10, 1fr);   /* fixed 10 per row */
     }
 
     figure      { margin: 0; text-align: center; }
     img         { width: 100%; border-radius: 6px; transition: transform .2s; }
     figcaption  { font-size: 0.8rem; margin-top: 0.4rem; }
 
-    /* --- hover zoom effect --- */
+    /* hover zoom */
     figure:hover img {
       transform: scale(1.4);
       z-index: 10;
     }
 
-    /* optional: make thumbnails larger on phones (≤600 px) */
+    /* on screens ≤ 600 px: 2 columns so items stay readable */
     @media (max-width: 600px) {
-      .grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+      .grid { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
 </head>
