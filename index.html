@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Crown-Cap Collection</title>
+  <title>Bottle Cap Collection</title>
 
   <style>
     /* ---------- CSS variables for light/dark ---------- */
@@ -17,7 +17,7 @@
 
     /* ---------- basic layout ---------- */
     body        { background:var(--bg); color:var(--text);
-                  font-family: system-ui, sans-serif; margin: 2rem; }
+                  font-family: system-ui, sans-serif; margin: 2rem; margin-left:200px; }
     h1          { margin-bottom: 1rem; }
     #controls   { margin-bottom: 1rem; display:flex; flex-wrap:wrap; gap:.5rem; }
     #controls input{ padding:.2rem .4rem; }
@@ -44,30 +44,84 @@
 
     /* small button styles */
     button.toggle{ border:none; background:none; font-size:1.4rem; cursor:pointer; }
+
+    /* ---------- sidebar styles ---------- */
+    #sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 180px;
+      height: 100vh;
+      background: var(--bg);
+      padding: 1rem;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.2);
+      overflow-y: auto;
+      z-index: 20;
+    }
+
+    #sidebar h3 {
+      margin-top: 0;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: .5rem;
+    }
+
+    #sidebar ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    #sidebar ul li {
+      margin-bottom: 0.5rem;
+    }
+
+    #sidebar ul li a {
+      color: var(--text);
+      text-decoration: none;
+      display: block;
+      padding: .2rem 0;
+      transition: .2s;
+    }
+
+    #sidebar ul li a:hover {
+      color: #007bff;
+    }
   </style>
 </head>
 <body>
-  <h1>Bottle Cap Collection. Upload in Progress...</h1>
 
-  <div id="controls">
-    <label for="brandFilter">Brand:</label>
-    <select id="brandFilter"><option value="">All</option></select>
+<div id="sidebar">
+  <h3>Brands</h3>
+  <ul id="brandList">
+    <li><a href="#">Żywiec</a></li>
+    <li><a href="#">Specjal</a></li>
+    <li><a href="#">Grolsch</a></li>
+    <li><a href="#">Okocim</a></li>
+    <li><a href="#">Schweppes</a></li>
+  </ul>
+</div>
 
-    <input id="searchBox" type="search" placeholder="Search…" />
+<h1>Bottle Cap Collection. Upload in Progress...</h1>
 
-    <button id="themeToggle" class="toggle" title="Toggle dark mode">🌙</button>
+<div id="controls">
+  <label for="brandFilter">Brand:</label>
+  <select id="brandFilter"><option value="">All</option></select>
 
-    <span id="brandCount"></span>
-  </div>
+  <input id="searchBox" type="search" placeholder="Search…" />
 
-  <main id="gallery" class="grid"></main>
+  <button id="themeToggle" class="toggle" title="Toggle dark mode">🌙</button>
 
-  <!-- zoom modal -->
-  <div id="modal">
-    <span class="close">×</span>
-    <img alt="">
-  </div>
+  <span id="brandCount"></span>
+</div>
 
-  <script src="script.js"></script>
+<main id="gallery" class="grid"></main>
+
+<!-- zoom modal -->
+<div id="modal">
+  <span class="close">×</span>
+  <img alt="">
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
