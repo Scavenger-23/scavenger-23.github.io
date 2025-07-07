@@ -5,7 +5,8 @@
     "series": "Denmark 250 ml promo",
     "image": "images/coke_zero_red.jpg",
     "country": "DK",
-    "year": null
+    "year": null,
+    "description": null
   },
   {
     "id": "coke_dk_250ml_whitescript_01",
@@ -13,7 +14,8 @@
     "series": "Denmark 250 ml promo",
     "image": "images/coke_zero_white.jpg",
     "country": "DK",
-    "year": null
+    "year": null,
+    "description": null
   },
   {
     "id": "fanta_es_limon_blue_01",
@@ -21,6 +23,7 @@
     "series": "Limón – Spain",
     "image": "images/fanta_es_limon_blue_01.jpg",
     "country": "ES",
-    "year": null
+    "year": null,
+    "description": null
   }
 ]
