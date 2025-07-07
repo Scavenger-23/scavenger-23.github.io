@@ -1,4 +1,31 @@
 [{
+  "id": "coke_kr_rimtext_korean_02",
+  "brand": "Coca-Cola",
+  "series": "Korea rim text (clean)",
+  "image": "images/Coca-Cola/coke_kr_rimtext_korean_02.jpg",
+  "country": "KR",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_red_since1886_01",
+  "brand": "Coca-Cola",
+  "series": "Since 1886 promo",
+  "image": "images/Coca-Cola/coke_red_since1886_01.jpg",
+  "country": null,
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_kr_rimtext_korean_03",
+  "brand": "Coca-Cola",
+  "series": "Korea rim text (worn)",
+  "image": "images/Coca-Cola/coke_kr_rimtext_korean_03.jpg",
+  "country": "KR",
+  "year": null,
+  "description": null
+},
+  {
   "id": "coke_id_halal_rimtext_01",
   "brand": "Coca-Cola",
   "series": "Indonesia Halal rim text",
