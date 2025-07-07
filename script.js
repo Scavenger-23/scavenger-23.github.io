@@ -66,7 +66,7 @@ function renderGallery(caps) {
 
   const filtered = caps.filter(c => {
     const matchesBrand = !brand || c.brand === brand;
-    const hay = (c.id + c.series + c.country).toLowerCase();
+    const hay = (c.id + c.brand + c.series + c.country + (c.description||'')).toLowerCase();
     const matchesTerm  = !term || hay.includes(term);
     return matchesBrand && matchesTerm;
   });
