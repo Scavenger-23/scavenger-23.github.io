@@ -788,5 +788,59 @@
       "country": "US",
       "year": null,
       "description": "Clean Sprite cap with recycle symbol"
+    },
+    {
+      "id": "spr_us_green_logo_clean_02",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_clean_02.jpg",
+      "country": "US",
+      "year": "1994",
+      "description": "Clean Sprite cap with green logo and vintage 1994 design"
+    },
+    {
+      "id": "spr_us_green_lemonlime_worn_01",
+      "brand": "Sprite",
+      "series": "Lemon-lime design",
+      "image": "images/Sprite/spr_us_green_lemonlime_worn_01.jpg",
+      "country": "Poland",
+      "year": "2018",
+      "description": "Worn Sprite cap with lemon-lime design and Poland distributor info"
+    },
+    {
+      "id": "spr_us_green_logo_vintage_01",
+      "brand": "Sprite",
+      "series": "Green logo vintage",
+      "image": "images/Sprite/spr_us_green_logo_vintage_01.jpg",
+      "country": "US",
+      "year": "1994",
+      "description": "Vintage Sprite cap with green logo and blue-yellow colors"
+    },
+    {
+      "id": "spr_us_green_logo_clean_03",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_clean_03.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Clean Sprite cap with green logo and certification mark"
+    },
+    {
+      "id": "spr_us_green_lemonlime_clean_01",
+      "brand": "Sprite",
+      "series": "Lemon-lime design",
+      "image": "images/Sprite/spr_us_green_lemonlime_clean_01.jpg",
+      "country": "Poland",
+      "year": "2018",
+      "description": "Clean Sprite cap with lemon-lime design and Poland distributor info"
+    },
+    {
+      "id": "spr_us_green_logo_worn_02",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_worn_02.jpg",
+      "country": "US",
+      "year": null,
+      "description": "Worn Sprite cap with green logo"
     }
 ]
