@@ -1,158 +1,148 @@
 /* =====================================================================
-   Bottle-Cap Gallery – full rewrite
+   Bottle-Cap Gallery  –  full script
    ===================================================================== */
 
-/* ---------------------------------------------------------------------
-   0.  Globals
-   --------------------------------------------------------------------- */
-let caps      = [];               // full data set
-let activeBrand = '';             // current brand filter ('' = all)
+/* 0. globals --------------------------------------------------------- */
+let caps = [];          // full data
+let activeBrand = '';   // filter state
 
-/* ---------------------------------------------------------------------
-   1.  Bootstrapping – fetch JSON, build UI, first render
-   --------------------------------------------------------------------- */
+/* 1. boot ------------------------------------------------------------ */
 (async function init () {
   try {
-    const res = await fetch('caps.json');
-    caps      = await res.json();
+    const r = await fetch('caps.json');
+    caps    = await r.json();
 
-    const brands = [...new Set(caps.map(c => c.brand).filter(Boolean))].sort();
-    buildBrandUI(brands);           // sidebar  +  <select>
-    hookEventListeners();           // all UI listeners
-    restoreTheme();                 // dark / light mode from storage
-    renderGallery();                // initial grid
-  } catch (err) {
-    console.error(err);
+    buildBrandUI();          // sidebar + dropdown with counts
+    hookListeners();         // events
+    restoreTheme();          // dark / light preference
+    renderGallery();         // first draw
+  } catch (e) {
+    console.error(e);
     document.getElementById('gallery').textContent = 'Failed to load caps.json';
   }
 })();
 
-/* ---------------------------------------------------------------------
-   2.  Build sidebar list  +  <select> options (with counts)
-   --------------------------------------------------------------------- */
-function buildBrandUI (brands) {
+/* 2. build UI -------------------------------------------------------- */
+function buildBrandUI () {
   const select = document.getElementById('brandFilter');
   const list   = document.getElementById('brandList');
+  const total  = caps.length;
 
-  /* counts for dropdown */
-  const counts = {};
-  caps.forEach(c => counts[c.brand] = (counts[c.brand] || 0) + 1);
+  /* write grand total */
+  document.getElementById('totalCount').textContent = `(${total})`;
 
-  brands.forEach(b => {
-    // <option>
+  /* counts per brand */
+  const map = {};
+  caps.forEach(c => map[c.brand] = (map[c.brand] || 0) + 1);
+
+  Object.keys(map).sort().forEach(brand => {
+    const n = map[brand];
+
+    /* dropdown option */
     const opt = document.createElement('option');
-    opt.value = b;
-    opt.textContent = `${b} (${counts[b]})`;
+    opt.value = brand;  opt.textContent = `${brand} (${n})`;
     select.appendChild(opt);
 
-    // sidebar link
+    /* sidebar item */
     const li = document.createElement('li');
-    const a  = document.createElement('a');
-    a.href           = '#';
-    a.textContent    = b;
-    a.dataset.brand  = b;
-    li.appendChild(a);
+    li.innerHTML = `<a href=\"#\" data-brand=\"${brand}\">${brand} (${n})</a>`;
     list.appendChild(li);
   });
 }
 
-/* ---------------------------------------------------------------------
-   3.  Event listeners   (brand filter, search, theme, modal)
-   --------------------------------------------------------------------- */
-function hookEventListeners () {
-  /* -- brand dropdown -- */
+/* 3. listeners ------------------------------------------------------- */
+function hookListeners () {
+  /* dropdown */
   document.getElementById('brandFilter')
           .addEventListener('change', e => setBrand(e.target.value));
 
-  /* -- sidebar clicks -- */
+  /* sidebar clicks */
   document.getElementById('brandList')
-          .addEventListener('click', e => {
-            if (e.target.tagName === 'A') {
+          .addEventListener('click', e=>{
+            if(e.target.tagName==='A'){
               e.preventDefault();
               setBrand(e.target.dataset.brand);
             }
           });
 
-  /* -- search box -- */
+  /* search */
   document.getElementById('searchBox')
           .addEventListener('input', renderGallery);
 
-  /* -- dark-mode toggle -- */
-  document.getElementById('themeToggle')
-          .addEventListener('click', () => {
-            document.body.classList.toggle('dark');
-            localStorage.setItem('theme',
-              document.body.classList.contains('dark') ? 'dark' : 'light');
-            syncThemeIcon();
-          });
+  /* dark / light toggle */
+  document.getElementById('themeToggle').onclick = () => {
+    document.body.classList.toggle('dark');
+    localStorage.setItem('theme',
+      document.body.classList.contains('dark') ? 'dark' : 'light');
+    syncThemeIcon();
+  };
 
-  /* -- modal close (click X or backdrop) -- */
+  /* modal */
   const modal = document.getElementById('modal');
   modal.querySelector('.close').onclick = closeModal;
-  modal.addEventListener('click', e => { if (e.target === modal) closeModal(); });
-  window.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+  modal.addEventListener('click', e => { if(e.target===modal) closeModal(); });
+  window.addEventListener('keydown', e => { if(e.key==='Escape') closeModal(); });
 }
 
-/* helper: set current brand and refresh UI */
+/* helper ------------------------------------------------------------- */
 function setBrand (brand) {
   activeBrand = brand;
-  /* dropdown */
   document.getElementById('brandFilter').value = brand;
+
   /* sidebar highlight */
   document.querySelectorAll('#brandList a').forEach(a =>
     a.classList.toggle('active', a.dataset.brand === brand));
+
   renderGallery();
 }
 
-/* ---------------------------------------------------------------------
-   4.  Gallery rendering (brand + search filters)
-   --------------------------------------------------------------------- */
+/* 4. render ---------------------------------------------------------- */
 function renderGallery () {
-  const term     = document.getElementById('searchBox').value.trim().toLowerCase();
-  const gallery  = document.getElementById('gallery');
-  const counter  = document.getElementById('brandCount');
+  const term   = document.getElementById('searchBox').value.trim().toLowerCase();
+  const grid   = document.getElementById('gallery');
+  const badge  = document.getElementById('brandCount');
 
-  gallery.innerHTML = '';
+  grid.innerHTML = '';
 
-  const shown = caps.filter(c => {
+  const show = caps.filter(c => {
     const okBrand = !activeBrand || c.brand === activeBrand;
-    const hay     = (c.id + c.brand + c.series + c.country + (c.description||''))
-                      .toLowerCase();
+    const hay = (c.id + c.brand + c.series + c.country + (c.description||'')).toLowerCase();
     return okBrand && (!term || hay.includes(term));
   });
 
-  shown.forEach(cap => {
+  show.forEach(cap=>{
     const fig = document.createElement('figure');
     fig.innerHTML = `
-      <img src="${cap.image}" alt="">
+      <img src=\"${cap.image}\" loading=\"lazy\" alt=\"\"
+           title=\"${cap.series} – ${cap.country||''} ${cap.year||''}\">
       <figcaption>${cap.brand}<br>${cap.series}</figcaption>`;
     fig.querySelector('img').onclick = () => openModal(cap.image);
-    gallery.appendChild(fig);
+    grid.appendChild(fig);
   });
 
-  counter.textContent = `– showing ${shown.length}`;
+  badge.textContent = `– showing ${show.length}`;
 }
 
-/* ---------------------------------------------------------------------
-   5.  Modal helpers
-   --------------------------------------------------------------------- */
-function openModal (src) {
-  const modal = document.getElementById('modal');
-  modal.style.display = 'flex';
-  modal.querySelector('img').src = src;
+/* 5. modal ----------------------------------------------------------- */
+function openModal (src){
+  const m = document.getElementById('modal');
+  m.querySelector('img').src = src;
+  m.style.display = 'flex';
 }
-function closeModal () {
+function closeModal (){
   document.getElementById('modal').style.display = 'none';
 }
 
-/* ---------------------------------------------------------------------
-   6.  Theme helpers
-   --------------------------------------------------------------------- */
-function restoreTheme () {
-  if (localStorage.getItem('theme') === 'dark') document.body.classList.add('dark');
+/* 6. theme helpers --------------------------------------------------- */
+function restoreTheme (){
+  if(localStorage.getItem('theme')==='dark' ||
+     (!localStorage.getItem('theme') &&
+      window.matchMedia('(prefers-color-scheme: dark)').matches)){
+    document.body.classList.add('dark');
+  }
   syncThemeIcon();
 }
-function syncThemeIcon () {
+function syncThemeIcon (){
   document.getElementById('themeToggle').textContent =
     document.body.classList.contains('dark') ? '☀️' : '🌙';
 }
