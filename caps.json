@@ -482,5 +482,77 @@
     "country": "PL",
     "year": null,
     "description": null
+  },
+  {
+    "id": "lech_pl_green_fingerprint_01",
+    "brand": "Lech",
+    "series": "Fingerprint swirl – green",
+    "image": "images/Lech/lech_pl_green_fingerprint_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_white_hops_01",
+    "brand": "Lech",
+    "series": "White cap – hops & barley graphic",
+    "image": "images/Lech/lech_pl_white_hops_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_04",
+    "brand": "Lech",
+    "series": "Premium – green (wide banner)",
+    "image": "images/Lech/lech_pl_premium_green_04.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_05",
+    "brand": "Lech",
+    "series": "Premium – green (silver rim)",
+    "image": "images/Lech/lech_pl_premium_green_05.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_green_splash_01",
+    "brand": "Lech",
+    "series": "Green splash (no tagline)",
+    "image": "images/Lech/lech_pl_green_splash_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_green_splash_02",
+    "brand": "Lech",
+    "series": "Green splash – variant",
+    "image": "images/Lech/lech_pl_green_splash_02.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_free_camo_01",
+    "brand": "Lech",
+    "series": "Free – camo silver",
+    "image": "images/Lech/lech_pl_free_camo_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_lime_slice_01",
+    "brand": "Lech",
+    "series": "Lime slice graphic",
+    "image": "images/Lech/lech_pl_lime_slice_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
   }
 ]
