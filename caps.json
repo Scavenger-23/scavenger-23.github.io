@@ -170,7 +170,7 @@
   "description": null
 },{
   "id": "diet_coke_en_white_block_01",
-  "brand": "Diet Coke",
+  "brand": "Coca-Cola",
   "series": "UK ingredients block",
   "image": "images/Coca-Cola/diet_coke_en_white_block_01.jpg",
   "country": "GB",
@@ -206,7 +206,7 @@
 },
 {
   "id": "coke_light_silver_logo_01",
-  "brand": "Coca-Cola Light",
+  "brand": "Coca-Cola",
   "series": "Silver logo",
   "image": "images/Coca-Cola/coke_light_silver_logo_01.jpg",
   "country": null,
