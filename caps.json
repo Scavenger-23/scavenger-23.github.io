@@ -392,5 +392,96 @@
     "country": null,
     "year": null,
     "description": null
+  },
+  [
+  {
+    "id": "lech_pl_qr_zobacz_koncerty_01",
+    "brand": "Lech",
+    "series": "QR – “Zobacz Koncerty” promo",
+    "image": "images/Lech/lech_pl_qr_zobacz_koncerty_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_01",
+    "brand": "Lech",
+    "series": "Premium – green shield",
+    "image": "images/Lech/lech_pl_premium_green_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_shandy_lemon_camouflage_01",
+    "brand": "Lech",
+    "series": "Shandy – camo lemon splash",
+    "image": "images/Lech/lech_pl_shandy_lemon_camouflage_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_02",
+    "brand": "Lech",
+    "series": "Premium – green (silver rim)",
+    "image": "images/Lech/lech_pl_premium_green_02.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_shandy_lemon_slice_01",
+    "brand": "Lech",
+    "series": "Shandy – lemon slice",
+    "image": "images/Lech/lech_pl_shandy_lemon_slice_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_qr_chcesz_wiecej_01",
+    "brand": "Lech",
+    "series": "QR – “Chcesz więcej?” promo",
+    "image": "images/Lech/lech_pl_qr_chcesz_wiecej_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_03",
+    "brand": "Lech",
+    "series": "Premium – green (newer logo)",
+    "image": "images/Lech/lech_pl_premium_green_03.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_shandy_dry_orange_01",
+    "brand": "Lech",
+    "series": "Shandy – Dry Orange (scratched)",
+    "image": "images/Lech/lech_pl_shandy_dry_orange_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_party_pack_green_01",
+    "brand": "Lech",
+    "series": "Green party-pack crate graphic",
+    "image": "images/Lech/lech_pl_party_pack_green_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_free_silver_01",
+    "brand": "Lech",
+    "series": "Free – non-alcoholic silver",
+    "image": "images/Lech/lech_pl_free_silver_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
   }
 ]
