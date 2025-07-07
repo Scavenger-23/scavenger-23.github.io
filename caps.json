@@ -554,5 +554,95 @@
     "country": "PL",
     "year": null,
     "description": null
-  }
+  },
+  {
+      "id": "bud_us_red_crown_clean_01",
+      "brand": "Budweiser",
+      "series": "Red crown (clean)",
+      "image": "images/Budweiser/bud_us_red_crown_clean_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_crown_worn_01",
+      "brand": "Budweiser",
+      "series": "Red crown (worn)",
+      "image": "images/Budweiser/bud_us_red_crown_worn_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_budjovice_01",
+      "brand": "Budweiser",
+      "series": "Budějovice crest",
+      "image": "images/Budweiser/bud_us_red_budjovice_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_bowtie_clean_01",
+      "brand": "Budweiser",
+      "series": "Red bowtie (clean)",
+      "image": "images/Budweiser/bud_us_red_bowtie_clean_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_bowtie_worn_01",
+      "brand": "Budweiser",
+      "series": "Red bowtie (worn)",
+      "image": "images/Budweiser/bud_us_red_bowtie_worn_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_king_beers_01",
+      "brand": "Budweiser",
+      "series": "King of Beers (vintage)",
+      "image": "images/Budweiser/bud_us_red_king_beers_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_since1876_01",
+      "brand": "Budweiser",
+      "series": "Since 1876 (vintage)",
+      "image": "images/Budweiser/bud_us_red_since1876_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_crown_variant_01",
+      "brand": "Budweiser",
+      "series": "Red crown variant (clean)",
+      "image": "images/Budweiser/bud_us_red_crown_variant_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_bowtie_variant_01",
+      "brand": "Budweiser",
+      "series": "Red bowtie variant (worn)",
+      "image": "images/Budweiser/bud_us_red_bowtie_variant_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_king_beers_variant_01",
+      "brand": "Budweiser",
+      "series": "King of Beers variant (vintage)",
+      "image": "images/Budweiser/bud_us_red_king_beers_variant_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    }
 ]
