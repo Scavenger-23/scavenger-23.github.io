@@ -1,5 +1,77 @@
 [
   {
+    "id": "schweppes_red_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_red_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Red Schweppes cap with classic logo in white"
+  },
+  {
+    "id": "schweppes_bitter_lemon_blue_01",
+    "brand": "Schweppes",
+    "series": "Bitter Lemon",
+    "image": "images/Schweppes/schweppes_bitter_lemon_blue_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Light blue Schweppes Bitter Lemon cap"
+  },
+  {
+    "id": "schweppes_black_gold_01",
+    "brand": "Schweppes",
+    "series": "Premium Mixer",
+    "image": "images/Schweppes/schweppes_black_gold_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Black Schweppes cap with gold logo"
+  },
+  {
+    "id": "schweppes_soda_yellow_spanish_01",
+    "brand": "Schweppes",
+    "series": "Soda",
+    "image": "images/Schweppes/schweppes_soda_yellow_spanish_01.jpg",
+    "country": "Colombia",
+    "year": 2010,
+    "description": "Yellow Schweppes Soda cap with Spanish text, made in Colombia"
+  },
+  {
+    "id": "schweppes_yellow_black_logo_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_yellow_black_logo_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Yellow Schweppes cap with black logo"
+  },
+  {
+    "id": "schweppes_white_black_logo_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_white_black_logo_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "White Schweppes cap with black logo"
+  },
+  {
+    "id": "schweppes_light_blue_black_logo_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_light_blue_black_logo_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Light blue Schweppes cap with black logo"
+  },
+  {
+    "id": "schweppes_yellow_black_logo_variant_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_yellow_black_logo_variant_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Another variant of yellow Schweppes cap with black logo"
+  },
+  {
     "id": "oko_pl_palony_redgoat_01",
     "brand": "Okocim",
     "series": "Palone",
