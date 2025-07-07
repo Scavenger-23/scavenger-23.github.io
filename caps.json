@@ -1,4 +1,94 @@
-[{
+[
+  {
+    "id": "specjal_pl_black_plain_01",
+    "brand": "Specjal",
+    "series": "Plain logo",
+    "image": "images/Specjal/specjal_pl_black_plain_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Matte-black Specjal cap with simple white logotype and gold trim"
+  },
+  {
+    "id": "specjal_pl_gold_miliony_promo_01",
+    "brand": "Specjal",
+    "series": "Promo – “Miliony piw”",
+    "image": "images/Specjal/specjal_pl_gold_miliony_promo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold-rim Specjal cap – slogan “Miliony piw do wygrania!” (“Millions of beers to win”)"
+  },
+  {
+    "id": "specjal_pl_gold_2000000_promo_01",
+    "brand": "Specjal",
+    "series": "Promo – “2 000 000 piw”",
+    "image": "images/Specjal/specjal_pl_gold_2000000_promo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold-rim Specjal prize-draw cap – “2 000 000 PIW DO WYGRANIA!”"
+  },
+  {
+    "id": "specjal_pl_tradycyjnie_gold_01",
+    "brand": "Specjal",
+    "series": "Tradycyjnie",
+    "image": "images/Specjal/specjal_pl_tradycyjnie_gold_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Weathered gold Specjal cap – red ribbon “Tradycyjnie”, crest dated 1872"
+  },
+  {
+    "id": "specjal_pl_red_mocny_01",
+    "brand": "Specjal",
+    "series": "Mocny",
+    "image": "images/Specjal/specjal_pl_red_mocny_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Metallic-red Specjal “Mocny” (strong lager) cap with mug-and-hops emblem"
+  },
+  {
+    "id": "specjal_pl_maroon_plain_01",
+    "brand": "Specjal",
+    "series": "Plain logo (maroon)",
+    "image": "images/Specjal/specjal_pl_maroon_plain_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Deep-maroon Specjal cap, white logotype, no additional graphics"
+  },
+  {
+    "id": "specjal_pl_black_jasny_pelny_01",
+    "brand": "Specjal",
+    "series": "Jasny Pełny",
+    "image": "images/Specjal/specjal_pl_black_jasny_pelny_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black Specjal cap with mug-and-hops crest and red banner “Jasny Pełny”"
+  },
+  {
+    "id": "specjal_pl_black_promo_curved_01",
+    "brand": "Specjal",
+    "series": "Promo – curved banner",
+    "image": "images/Specjal/specjal_pl_black_promo_curved_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black Specjal promo cap – large curved red ribbon “PROMOCJA” beneath logo"
+  },
+  {
+    "id": "specjal_pl_black_greenrim_jasny_pelny_01",
+    "brand": "Specjal",
+    "series": "Jasny Pełny (green trim)",
+    "image": "images/Specjal/specjal_pl_black_greenrim_jasny_pelny_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black Specjal cap with green-gold rim, text “Doskonała receptura” and banner “Jasny Pełny”"
+  },
+  {
+    "id": "specjal_pl_black_promo_mug_01",
+    "brand": "Specjal",
+    "series": "Promo – mug & ribbon",
+    "image": "images/Specjal/specjal_pl_black_promo_mug_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black Specjal cap with mug-and-hops crest and bold red “PROMOCJA” ribbon"
+  },{
     "id": "zywiec_pl_archduke_brewery_white_01",
     "brand": "Żywiec",
     "series": "Archduke Brewery",
