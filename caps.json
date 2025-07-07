@@ -1,5 +1,86 @@
 [
   {
+    "id": "grolsch_nl_premium_pilsner_white_01",
+    "brand": "Grolsch",
+    "series": "Premium Pilsner",
+    "image": "images/Grolsch/grolsch_nl_premium_pilsner_white_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "White cap, red-and-green ring, green script logo, red crest – text “Premium Pilsner”"
+  },
+  {
+    "id": "grolsch_nl_plain_white_redlogo_01",
+    "brand": "Grolsch",
+    "series": "Plain logo",
+    "image": "images/Grolsch/grolsch_nl_plain_white_redlogo_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Minimal white cap with red cursive Grolsch word-mark only"
+  },
+  {
+    "id": "grolsch_nl_premium_lager_camo_01",
+    "brand": "Grolsch",
+    "series": "Premium Lager – camo",
+    "image": "images/Grolsch/grolsch_nl_premium_lager_camo_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Grey ‘camo’ background, green logo, red crest, text “Premium Lager”"
+  },
+  {
+    "id": "grolsch_nl_het_kanon_white_01",
+    "brand": "Grolsch",
+    "series": "Het Kanon",
+    "image": "images/Grolsch/grolsch_nl_het_kanon_white_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Vintage ‘Het Kanon’ strong lager cap – cream background, brown lettering, red ring"
+  },
+  {
+    "id": "grolsch_nl_premium_lager_leaves_01",
+    "brand": "Grolsch",
+    "series": "Premium Lager – leaves",
+    "image": "images/Grolsch/grolsch_nl_premium_lager_leaves_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "White cap with green hop-leaf cluster and red crest, text “Premium Lager”"
+  },
+  {
+    "id": "grolsch_nl_premium_weizen_white_01",
+    "brand": "Grolsch",
+    "series": "Premium Weizen",
+    "image": "images/Grolsch/grolsch_nl_premium_weizen_white_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "White/yellow background, gold logo, red crest, banner “Premium Weizen”"
+  },
+  {
+    "id": "grolsch_nl_lente_bok_green_01",
+    "brand": "Grolsch",
+    "series": "De Jaargetijden – Lente Bok",
+    "image": "images/Grolsch/grolsch_nl_lente_bok_green_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Seasonal cap – green/yellow backdrop, goat head emblem, text “Lente Bok”"
+  },
+  {
+    "id": "grolsch_nl_premium_lager_leaves_02",
+    "brand": "Grolsch",
+    "series": "Premium Lager – leaves (variant)",
+    "image": "images/Grolsch/grolsch_nl_premium_lager_leaves_02.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Similar leaf/crest design but with red script “Premium Lager” beneath logo"
+  },
+  {
+    "id": "grolsch_nl_special_malt_green_01",
+    "brand": "Grolsch",
+    "series": "Special Malt",
+    "image": "images/Grolsch/grolsch_nl_special_malt_green_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Green cap, white script logo, gold rim – non-alcoholic ‘Special Malt’ variant"
+  },
+  {
     "id": "specjal_pl_black_plain_01",
     "brand": "Specjal",
     "series": "Plain logo",
