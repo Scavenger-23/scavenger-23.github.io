@@ -1,93 +1,11 @@
-[
-  {
-    "id": "zywiec_pl_porter_gold_black_01",
-    "brand": "Żywiec",
-    "series": "Crown Logo",
-    "image": "images/Zywiec/zywiec_pl_porter_gold_black_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec Porter cap with black and gold crown design"
-  },
-  {
-    "id": "zywiec_pl_crown_1856_white_blue_01",
-    "brand": "Żywiec",
-    "series": "Crown 1856",
-    "image": "images/Zywiec/zywiec_pl_crown_1856_white_blue_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "White Żywiec cap with crown, blue 1856 label"
-  },
-  {
-    "id": "zywiec_pl_archduke_brewery_white_blue_01",
+[{
+    "id": "zywiec_pl_archduke_brewery_white_01",
     "brand": "Żywiec",
     "series": "Archduke Brewery",
-    "image": "images/Zywiec/zywiec_pl_archduke_brewery_white_blue_01.jpg",
+    "image": "images/Zywiec/zywiec_pl_archduke_brewery_white_01.jpg",
     "country": "Poland",
     "year": null,
-    "description": "Żywiec cap with 'Browar Arcyksiążęcy' and blue ring"
-  },
-  {
-    "id": "zywiec_pl_marcowe_gold_green_01",
-    "brand": "Żywiec",
-    "series": "Crown Logo",
-    "image": "images/Zywiec/zywiec_pl_marcowe_gold_green_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec Marcowe gold cap with green crown design"
-  },
-  {
-    "id": "zywiec_pl_dancers_white_red_shield_01",
-    "brand": "Żywiec",
-    "series": "Dancing Couple",
-    "image": "images/Zywiec/zywiec_pl_dancers_white_red_shield_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec cap with red shield and dancing couple"
-  },
-  {
-    "id": "zywiec_pl_crown_1856_white_blue_02",
-    "brand": "Żywiec",
-    "series": "Crown 1856",
-    "image": "images/Zywiec/zywiec_pl_crown_1856_white_blue_02.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec crown cap, similar to earlier, but more worn"
-  },
-  {
-    "id": "zywiec_pl_dancers_white_tm_01",
-    "brand": "Żywiec",
-    "series": "Dancing Couple",
-    "image": "images/Zywiec/zywiec_pl_dancers_white_tm_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec cap with dancing couple and TM mark"
-  },
-  {
-    "id": "zywiec_pl_dancers_blue_tm_01",
-    "brand": "Żywiec",
-    "series": "Dancing Couple",
-    "image": "images/Zywiec/zywiec_pl_dancers_blue_tm_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec cap with blue rim and dancing couple, TM mark"
-  },
-  {
-    "id": "zywiec_pl_biale_crown_gold_white_01",
-    "brand": "Żywiec",
-    "series": "Crown Logo",
-    "image": "images/Zywiec/zywiec_pl_biale_crown_gold_white_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec Białe cap with gold crown and white rim"
-  },
-  {
-    "id": "zywiec_pl_bock_gold_burgundy_01",
-    "brand": "Żywiec",
-    "series": "Crown Logo",
-    "image": "images/Zywiec/zywiec_pl_bock_gold_burgundy_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec Bock cap with burgundy rim and gold crown"
+    "description": "Żywiec cap – Browar Arcyksiążęcy (clean, white background)"
   },
   {
     "id": "zywiec_pl_archduke_brewery_white_02",
@@ -96,7 +14,88 @@
     "image": "images/Zywiec/zywiec_pl_archduke_brewery_white_02.jpg",
     "country": "Poland",
     "year": null,
-    "description": "Second Żywiec Archduke Brewery cap with wear and spot near text"
+    "description": "Żywiec cap – Archduke Brewery, second (worn) copy"
+  },
+  {
+    "id": "zywiec_pl_biale_gold_white_01",
+    "brand": "Żywiec",
+    "series": "Białe / Crown logo",
+    "image": "images/Zywiec/zywiec_pl_biale_gold_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec Białe cap with gold crown on white field"
+  },
+  {
+    "id": "zywiec_pl_bock_red_gold_01",
+    "brand": "Żywiec",
+    "series": "Bock / Crown logo",
+    "image": "images/Zywiec/zywiec_pl_bock_red_gold_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec Bock cap – red rim, gold crown"
+  },
+  {
+    "id": "zywiec_pl_crown_1856_white_clean_01",
+    "brand": "Żywiec",
+    "series": "Crown 1856",
+    "image": "images/Zywiec/zywiec_pl_crown_1856_white_clean_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Clean white cap with large crown and 1856 banner"
+  },
+  {
+    "id": "zywiec_pl_crown_1856_white_red_blue_01",
+    "brand": "Żywiec",
+    "series": "Crown 1856",
+    "image": "images/Zywiec/zywiec_pl_crown_1856_white_red_blue_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap, red-blue band (version 1) with crown / 1856"
+  },
+  {
+    "id": "zywiec_pl_crown_1856_white_red_blue_02",
+    "brand": "Żywiec",
+    "series": "Crown 1856",
+    "image": "images/Zywiec/zywiec_pl_crown_1856_white_red_blue_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap, red-blue band (version 2, more worn)"
+  },
+  {
+    "id": "zywiec_pl_dancers_traditional_white_01",
+    "brand": "Żywiec",
+    "series": "Dancing Couple",
+    "image": "images/Zywiec/zywiec_pl_dancers_traditional_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec cap – dancing couple TM, white rim"
+  },
+  {
+    "id": "zywiec_pl_dancers_traditional_white_blue_01",
+    "brand": "Żywiec",
+    "series": "Dancing Couple",
+    "image": "images/Zywiec/zywiec_pl_dancers_traditional_white_blue_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec cap – dancing couple, blue rim variant"
+  },
+  {
+    "id": "zywiec_pl_marcowe_gold_green_01",
+    "brand": "Żywiec",
+    "series": "Marcowe / Crown logo",
+    "image": "images/Zywiec/zywiec_pl_marcowe_gold_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec Marcowe cap with green title panel"
+  },
+  {
+    "id": "zywiec_pl_porter_gold_black_01",
+    "brand": "Żywiec",
+    "series": "Porter / Crown logo",
+    "image": "images/Zywiec/zywiec_pl_porter_gold_black_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec Porter cap – black rim, gold crown"
   },
 {
       "id": "red_pl_pink_swirl_vintage_01",
