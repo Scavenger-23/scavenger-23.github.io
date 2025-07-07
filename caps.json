@@ -1,23 +1,5 @@
 [
   {
-    "id": "coke_dk_250ml_redscript_01",
-    "brand": "Coca-Cola",
-    "series": "Denmark 250 ml promo",
-    "image": "images/Coca-Cola/coke_zero_red.jpg",
-    "country": "DK",
-    "year": null,
-    "description": null
-  },
-  {
-    "id": "coke_dk_250ml_whitescript_01",
-    "brand": "Coca-Cola",
-    "series": "Denmark 250 ml promo",
-    "image": "images/Coca-Cola/coke_zero_white.jpg",
-    "country": "DK",
-    "year": null,
-    "description": null
-  },
-  {
     "id": "coke_en_vegextracts_block_01",
     "brand": "Coca-Cola",
     "series": "UK ingredients block",
@@ -59,6 +41,69 @@
     "series": "UK rim text logo-only",
     "image": "images/Coca-Cola/coke_en_rimtext_logoonly_01.jpg",
     "country": "GB",
+    "year": null,
+    "description": null
+  },
+  {
+  "id": "coke_promo_soccerball_red_01",
+  "brand": "Coca-Cola",
+  "series": "Soccer-ball promo",
+  "image": "images/Coca-Cola/coke_promo_soccerball_red_01.jpg",
+  "country": null,
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_ug_unbs_rimtext_01",
+  "brand": "Coca-Cola",
+  "series": "Uganda rim text (UNBS)",
+  "image": "images/Coca-Cola/coke_ug_unbs_rimtext_01.jpg",
+  "country": "UG",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_en_block_1996_02",
+  "brand": "Coca-Cola",
+  "series": "UK ingredients block",
+  "image": "images/Coca-Cola/coke_en_block_1996_02.jpg",
+  "country": "GB",
+  "year": 1996,
+  "description": null
+},
+{
+  "id": "coke_pl_rimtext_hbc_01",
+  "brand": "Coca-Cola",
+  "series": "Poland rim text (HBC)",
+  "image": "images/Coca-Cola/coke_pl_rimtext_hbc_01.jpg",
+  "country": "PL",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_red_plain_logo_01",
+  "brand": "Coca-Cola",
+  "series": "Plain logo, no text",
+  "image": "images/Coca-Cola/coke_red_plain_logo_01.jpg",
+  "country": null,
+  "year": null,
+  "description": null
+},
+  {
+    "id": "coke_dk_250ml_redscript_01",
+    "brand": "Coca-Cola",
+    "series": "Denmark 250 ml promo",
+    "image": "images/Coca-Cola/coke_zero_red.jpg",
+    "country": "DK",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_dk_250ml_whitescript_01",
+    "brand": "Coca-Cola",
+    "series": "Denmark 250 ml promo",
+    "image": "images/Coca-Cola/coke_zero_white.jpg",
+    "country": "DK",
     "year": null,
     "description": null
   },
