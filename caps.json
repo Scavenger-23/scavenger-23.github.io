@@ -1,4 +1,112 @@
 [{
+      "id": "eic_de_green_oak_vintage_01",
+      "brand": "Eichbaum",
+      "series": "Oak tree emblem vintage",
+      "image": "images/Eichbaum/eic_de_green_oak_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1679",
+      "description": "Vintage Eichbaum cap with oak tree emblem"
+    },
+    {
+      "id": "eic_de_green_oak_rustic_01",
+      "brand": "Eichbaum",
+      "series": "Oak tree emblem",
+      "image": "images/Eichbaum/eic_de_green_oak_rustic_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rustic Eichbaum cap with oak tree emblem"
+    },
+    {
+      "id": "eic_de_green_oak_shiny_01",
+      "brand": "Eichbaum",
+      "series": "Oak tree emblem",
+      "image": "images/Eichbaum/eic_de_green_oak_shiny_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Shiny Eichbaum cap with oak tree emblem"
+    },
+    {
+      "id": "eic_de_green_craft_vintage_01",
+      "brand": "Eichbaum",
+      "series": "Craft design vintage",
+      "image": "images/Eichbaum/eic_de_green_craft_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1679",
+      "description": "Vintage Eichbaum cap with craft design"
+    },
+    {
+      "id": "eic_de_green_craft_rustic_01",
+      "brand": "Eichbaum",
+      "series": "Craft design",
+      "image": "images/Eichbaum/eic_de_green_craft_rustic_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rustic Eichbaum cap with craft design"
+    },
+    {
+      "id": "eic_de_green_non_alc_rusty_01",
+      "brand": "Eichbaum",
+      "series": "Non-alcoholic design",
+      "image": "images/Eichbaum/eic_de_green_non_alc_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Eichbaum cap with non-alcoholic design"
+    },
+    {
+      "id": "eic_de_green_non_alc_shiny_01",
+      "brand": "Eichbaum",
+      "series": "Non-alcoholic design",
+      "image": "images/Eichbaum/eic_de_green_non_alc_shiny_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Shiny Eichbaum cap with non-alcoholic design"
+    },
+    {
+      "id": "eic_de_green_premium_vintage_01",
+      "brand": "Eichbaum",
+      "series": "Premium design vintage",
+      "image": "images/Eichbaum/eic_de_green_premium_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1679",
+      "description": "Vintage Eichbaum cap with premium design"
+    },
+    {
+      "id": "eic_de_green_premium_rustic_01",
+      "brand": "Eichbaum",
+      "series": "Premium design",
+      "image": "images/Eichbaum/eic_de_green_premium_rustic_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rustic Eichbaum cap with premium design"
+    },
+    {
+      "id": "eic_de_green_malt_rusty_01",
+      "brand": "Eichbaum",
+      "series": "Malt design",
+      "image": "images/Eichbaum/eic_de_green_malt_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Eichbaum cap with malt design"
+    },
+    {
+      "id": "eic_de_green_kristallweizen_vintage_01",
+      "brand": "Eichbaum",
+      "series": "Kristallweizen design",
+      "image": "images/Eichbaum/eic_de_green_kristallweizen_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1879",
+      "description": "Vintage Eichbaum cap with Kristallweizen design"
+    },
+    {
+      "id": "eic_de_green_oak_1879_rusty_01",
+      "brand": "Eichbaum",
+      "series": "Oak tree emblem 1879",
+      "image": "images/Eichbaum/eic_de_green_oak_1879_rusty_01.jpg",
+      "country": "Germany",
+      "year": "1879",
+      "description": "Rusty Eichbaum cap with oak tree emblem since 1879"
+    },
+      {
       "id": "bec_us_green_lime_rusty_01",
       "brand": "Beck's",
       "series": "Green lime design",
