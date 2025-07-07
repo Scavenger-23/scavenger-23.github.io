@@ -168,6 +168,50 @@
   "country": null,
   "year": null,
   "description": null
+},{
+  "id": "diet_coke_en_white_block_01",
+  "brand": "Diet Coke",
+  "series": "UK ingredients block",
+  "image": "images/Coca-Cola/diet_coke_en_white_block_01.jpg",
+  "country": "GB",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_es_white_rimtext_2012_01",
+  "brand": "Coca-Cola",
+  "series": "Spain white rim text",
+  "image": "images/Coca-Cola/coke_es_white_rimtext_2012_01.jpg",
+  "country": "ES",
+  "year": 2012,
+  "description": null
+},
+{
+  "id": "coke_es_promo_white_2012_01",
+  "brand": "Coca-Cola",
+  "series": "Spain Promoción white",
+  "image": "images/Coca-Cola/coke_es_promo_white_2012_01.jpg",
+  "country": "ES",
+  "year": 2012,
+  "description": null
+},
+{
+  "id": "coke_co_white_block_2010_01",
+  "brand": "Coca-Cola",
+  "series": "Colombia white block",
+  "image": "images/Coca-Cola/coke_co_white_block_2010_01.jpg",
+  "country": "CO",
+  "year": 2010,
+  "description": null
+},
+{
+  "id": "coke_light_silver_logo_01",
+  "brand": "Coca-Cola Light",
+  "series": "Silver logo",
+  "image": "images/Coca-Cola/coke_light_silver_logo_01.jpg",
+  "country": null,
+  "year": null,
+  "description": null
 },
   {
     "id": "coke_dk_250ml_redscript_01",
