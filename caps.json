@@ -1,17 +1,29 @@
-[{
-  "id": "coke_dk_250ml_2024",
-  "brand": "Coca-Cola",
-  "series": "Denmark 250 ml promo",
-  "design": "Coca Cola Zero, red and white",
-  "image": "images/coke_zero_red.jpg",
-  "country": "DK",
-  "year": 2024
-}, {
-  "id": "coke_dk_250ml_2024",
-  "brand": "Coca-Cola",
-  "series": "Denmark 250 ml promo",
-  "design": "Coca Cola Zero, red and white",
-  "image": "images/coke_zero_white.jpg",
-  "country": "DK",
-  "year": 2024
-}]
+[
+  {
+    "id": "coke_dk_250ml_redscript_01",
+    "brand": "Coca-Cola",
+    "series": "Denmark 250 ml promo",
+    "design": "Black background, **red** “Coca-Cola” script, white “zero”",
+    "image": "images/coke_zero_red.jpg",
+    "country": "DK",
+    "year": null
+  },
+  {
+    "id": "coke_dk_250ml_whitescript_01",
+    "brand": "Coca-Cola",
+    "series": "Denmark 250 ml promo",
+    "design": "Glossy black background, **white** “Coca-Cola” script, white “zero™”",
+    "image": "images/coke_zero_white.jpg",
+    "country": "DK",
+    "year": null
+  },
+  {
+    "id": "fanta_es_limon_blue_01",
+    "brand": "Fanta",
+    "series": "Limón – Spain",
+    "design": "Royal-blue background, white “Fanta” logo, yellow “LIMÓN”, Spanish rim text",
+    "image": "images/fanta_es_limon_blue_01.jpg",
+    "country": "ES",
+    "year": null
+  }
+]
