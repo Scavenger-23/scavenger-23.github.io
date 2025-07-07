@@ -1,4 +1,57 @@
-[
+[{
+  "id": "coke_id_halal_rimtext_01",
+  "brand": "Coca-Cola",
+  "series": "Indonesia Halal rim text",
+  "image": "images/Coca-Cola/coke_id_halal_rimtext_01.jpg",
+  "country": "ID",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_ar_block_white_01",
+  "brand": "Coca-Cola",
+  "series": "Arabic logo & ingredients",
+  "image": "images/Coca-Cola/coke_ar_block_white_01.jpg",
+  "country": null,
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_red_plain_clean_02",
+  "brand": "Coca-Cola",
+  "series": "Plain logo (clean)",
+  "image": "images/Coca-Cola/coke_red_plain_clean_02.jpg",
+  "country": null,
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_red_plain_worn_01",
+  "brand": "Coca-Cola",
+  "series": "Plain logo (worn)",
+  "image": "images/Coca-Cola/coke_red_plain_worn_01.jpg",
+  "country": null,
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_bg_250ml_block_01",
+  "brand": "Coca-Cola",
+  "series": "Bulgaria 250 ml block",
+  "image": "images/Coca-Cola/coke_bg_250ml_block_01.jpg",
+  "country": "BG",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_kr_rimtext_korean_01",
+  "brand": "Coca-Cola",
+  "series": "Korea rim text",
+  "image": "images/Coca-Cola/coke_kr_rimtext_korean_01.jpg",
+  "country": "KR",
+  "year": null,
+  "description": null
+},
   {
     "id": "coke_en_vegextracts_block_01",
     "brand": "Coca-Cola",
