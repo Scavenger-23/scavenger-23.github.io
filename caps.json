@@ -644,5 +644,59 @@
       "country": "US",
       "year": null,
       "description": null
+    },
+  {
+      "id": "bud_us_red_global_crest_clean_01",
+      "brand": "Budweiser",
+      "series": "Global crest (clean)",
+      "image": "images/Budweiser/bud_us_red_global_crest_clean_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_worn_01",
+      "brand": "Budweiser",
+      "series": "Global crest (worn)",
+      "image": "images/Budweiser/bud_us_red_global_crest_worn_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_variant_01",
+      "brand": "Budweiser",
+      "series": "Global crest variant (worn)",
+      "image": "images/Budweiser/bud_us_red_global_crest_variant_01.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_worn_02",
+      "brand": "Budweiser",
+      "series": "Global crest (worn, faded)",
+      "image": "images/Budweiser/bud_us_red_global_crest_worn_02.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_clean_02",
+      "brand": "Budweiser",
+      "series": "Global crest (clean, sealed)",
+      "image": "images/Budweiser/bud_us_red_global_crest_clean_02.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_variant_02",
+      "brand": "Budweiser",
+      "series": "Global crest variant (worn, blue mark)",
+      "image": "images/Budweiser/bud_us_red_global_crest_variant_02.jpg",
+      "country": "US",
+      "year": null,
+      "description": null
     }
 ]
