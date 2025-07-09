@@ -1717,7 +1717,43 @@
     "year": null,
     "description": "Red cap with gold-rimmed WARKA logo and text 'A.D. 1478'"
   },
+      {
+    "id": "warka_strong_pl_vintage_01",
+    "brand": "Warka",
+    "series": "Vintage",
+    "image": "images/Warka/warka_strong_pl_vintage_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Rusty silver cap with red star and 'Warka Strong' text, weathered design"
+  },
   {
+    "id": "warka_strong_pl_classic_02",
+    "brand": "Warka",
+    "series": "Classic",
+    "image": "images/Warka/warka_strong_pl_classic_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Silver cap with gold star emblem and 'Warka Strong' text, vintage style"
+  },
+  {
+    "id": "warka_strong_pl_robust_03",
+    "brand": "Warka",
+    "series": "Robust",
+    "image": "images/Warka/warka_strong_pl_robust_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Silver cap with red 'Warka Strong' text and ornate star design"
+  },
+  {
+    "id": "warka_strong_pl_heritage_04",
+    "brand": "Warka",
+    "series": "Heritage",
+    "image": "images/Warka/warka_strong_pl_heritage_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Aged silver cap with gold star and 'Warka Strong' text, rustic patina"
+  }
+,{
     "id": "tat_pl_black_z_charakterem_01",
     "brand": "Tatra",
     "series": "Z Charakterem",
