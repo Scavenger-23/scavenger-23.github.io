@@ -284,8 +284,6 @@
     "year": null,
     "description": "Aged metallic-green cap with large letter 'C' and partial logo remnants"
   },
-
-  /* ——— Tyskie ——— */
   {
     "id": "tys_pl_ksiazece_crown_blue_01",
     "brand": "Tyskie",
@@ -367,8 +365,6 @@
     "year": null,
     "description": "Updated Gronie variant with red banner and large gold crown above 'TYSKIE GRONIE'"
   },
-
-  /* ——— Schweppes ——— */
   {
     "id": "schweppes_red_01",
     "brand": "Schweppes",
@@ -441,11 +437,6 @@
     "year": null,
     "description": "Another variant of yellow Schweppes cap with black logo"
   },
-
-  /* ——— Okocim, Grolsch, Specjal, Redd's, Łomża, Eichbaum, Beck's, Lech, Budweiser etc.
-       (their 'country' fields were already explicit full names so no change was needed) ——— */
-
-  /* ——— Coca-Cola family ——— */
   {
     "id": "coca_signature_pink_01",
     "brand": "Coca-Cola",
@@ -725,8 +716,6 @@
     "year": null,
     "description": null
   },
-
-  /* ——— Fanta ——— */
   {
     "id": "fanta_es_limon_blue_01",
     "brand": "Fanta",
@@ -889,8 +878,6 @@
     "year": null,
     "description": null
   },
-
-  /* ——— Sprite (all to United States) ——— */
   {
     "id": "spr_us_green_logo_clean_01",
     "brand": "Sprite",
@@ -1035,6 +1022,4 @@
     "year": null,
     "description": "Worn Sprite cap with green logo"
   }
-
-  /* ——— Remaining brands (Okocim, Grolsch, Specjal, Beck's, Eichbaum, Lech, Budweiser, Redd's, Łomża etc.) kept their original full-name countries ——— */
 ]
