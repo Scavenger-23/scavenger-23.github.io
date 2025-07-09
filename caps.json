@@ -1,4 +1,49 @@
 [{
+    "id": "har_pol_redpromo_01",
+    "brand": "Harnaś",
+    "series": "Promotional",
+    "image": "images/Harnas/har_pol_redpromo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with white Polish text 'MILIONY PIW! WYGRYWAJ CODZIENNIE'"
+  },
+  {
+    "id": "har_pol_mountainclassic_02",
+    "brand": "Harnaś",
+    "series": "Classic",
+    "image": "images/Harnas/har_pol_mountainclassic_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Silver cap with blue mountains and 'Harnaś Jasne Pełne' logo"
+  },
+  {
+    "id": "har_pol_highlander_03",
+    "brand": "Harnaś",
+    "series": "Illustrated",
+    "image": "images/Harnas/har_pol_highlander_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Cap with highlander warrior illustration and red 'Harnaś' text"
+  },
+  {
+    "id": "har_pol_mountainpromo_04",
+    "brand": "Harnaś",
+    "series": "Promotional",
+    "image": "images/Harnas/har_pol_mountainpromo_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue and red cap with mountain silhouette and text '6 600 000 PIW OD KRÓLA GÓR!'"
+  },
+  {
+    "id": "har_pol_okocimski_05",
+    "brand": "Harnaś",
+    "series": "Classic",
+    "image": "images/Harnas/har_pol_okocimski_05.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Silver cap with 'OKOCIMSKI' over red and yellow 'Harnaś Jasne Pełne' banner"
+  },
+    {
     "id": "kop_swe_blacklime_01",
     "brand": "Kopparberg",
     "series": "Premium",
