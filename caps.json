@@ -1,5 +1,41 @@
 [
   {
+    "id": "miloslaw_pl_pszeniczne_01",
+    "brand": "Miłosław",
+    "series": "Pszeniczne",
+    "image": "images/Miloslaw/miloslaw_pl_pszeniczne_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue cap with 'Browar Fortuna Miłosław Pszeniczne' text"
+  },
+  {
+    "id": "miloslaw_pl_niefiltrowane_02",
+    "brand": "Miłosław",
+    "series": "Niefiltrowane",
+    "image": "images/Miloslaw/miloslaw_pl_niefiltrowane_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with 'Browar Fortuna Miłosław Niefiltrowane' text"
+  },
+  {
+    "id": "miloslaw_pl_pilsner_03",
+    "brand": "Miłosław",
+    "series": "Pilsner",
+    "image": "images/Miloslaw/miloslaw_pl_pilsner_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green cap with 'Browar Fortuna Miłosław Pilsner' text"
+  },
+  {
+    "id": "miloslaw_pl_original_04",
+    "brand": "Miłosław",
+    "series": "Original",
+    "image": "images/Miloslaw/miloslaw_pl_original_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue cap with 'Browar Fortuna Miłosław Original' text"
+  },
+  {
     "id": "holsten_de_export_01",
     "brand": "Holsten",
     "series": "Export",
