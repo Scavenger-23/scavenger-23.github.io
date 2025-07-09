@@ -2000,7 +2000,7 @@
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_red_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Red Schweppes cap with classic logo in white"
   },
@@ -2009,7 +2009,7 @@
     "brand": "Schweppes",
     "series": "Bitter Lemon",
     "image": "images/Schweppes/schweppes_bitter_lemon_blue_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Light blue Schweppes Bitter Lemon cap"
   },
@@ -2018,7 +2018,7 @@
     "brand": "Schweppes",
     "series": "Premium Mixer",
     "image": "images/Schweppes/schweppes_black_gold_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Black Schweppes cap with gold logo"
   },
@@ -2027,7 +2027,7 @@
     "brand": "Schweppes",
     "series": "Soda",
     "image": "images/Schweppes/schweppes_soda_yellow_spanish_01.jpg",
-    "country": "Colombia",
+    "country": "Switzerland",
     "year": 2010,
     "description": "Yellow Schweppes Soda cap with Spanish text, made in Colombia"
   },
@@ -2036,7 +2036,7 @@
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_yellow_black_logo_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Yellow Schweppes cap with black logo"
   },
@@ -2045,7 +2045,7 @@
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_white_black_logo_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "White Schweppes cap with black logo"
   },
@@ -2054,7 +2054,7 @@
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_light_blue_black_logo_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Light blue Schweppes cap with black logo"
   },
@@ -2063,7 +2063,7 @@
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_yellow_black_logo_variant_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Another variant of yellow Schweppes cap with black logo"
   },
