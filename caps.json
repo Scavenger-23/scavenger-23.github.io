@@ -1,5 +1,50 @@
 [
   {
+    "id": "mrn_usa_fruitysilver_01",
+    "brand": "Mirinda",
+    "series": "Fruity",
+    "image": "images/Mirinda/mrn_usa_fruitysilver_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Silver cap with black 'Mirinda Fruity' text, ingredients and RRP USH 800 printed around edges"
+  },
+  {
+    "id": "mrn_usa_orangegreen_02",
+    "brand": "Mirinda",
+    "series": "Orange",
+    "image": "images/Mirinda/mrn_usa_orangegreen_02.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Green cap with orange slice and large 'Mirinda' text in white with green border"
+  },
+  {
+    "id": "mrn_usa_korwhite_03",
+    "brand": "Mirinda",
+    "series": "Orange (Korean)",
+    "image": "images/Mirinda/mrn_usa_korwhite_03.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "White cap with green Korean text, '355 ml (185 kcal)' and nutritional info in Korean"
+  },
+  {
+    "id": "mrn_usa_koryellow_04",
+    "brand": "Mirinda",
+    "series": "Pineapple (Korean)",
+    "image": "images/Mirinda/mrn_usa_koryellow_04.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with green 'Mirinda' logo and Korean text for pineapple flavor and nutritional info"
+  },
+  {
+    "id": "mrn_usa_korwhite_05",
+    "brand": "Mirinda",
+    "series": "Orange (Korean)",
+    "image": "images/Mirinda/mrn_usa_korwhite_05.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "White cap with green 'Mirinda' text, 355 ml (170 kcal), and Korean nutritional values"
+  },
+  {
     "id": "ft_id_blackcurrant10y_01",
     "brand": "Fruit Tea Sosro",
     "series": "Anniversary",
