@@ -1,4 +1,58 @@
 [{
+  "id": "svy_lt_goldbanner_01",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_goldbanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Gold cap with eagle emblem and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_redbanner_02",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_redbanner_02.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Red cap with faded eagle emblem and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_blackbanner_03",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_blackbanner_03.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Black cap with detailed eagle crest and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_rustygold_04",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_rustygold_04.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Rusty gold cap with weathered eagle emblem and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_redwhite_05",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_redwhite_05.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Red and white cap with stylized eagle design and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_fadedblack_06",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_fadedblack_06.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Faded black cap with rust and eagle emblem, white Švyturys 1784 text"
+},
+  {
   "id": "j2o_uk_greenbanner_01",
   "brand": "J2O",
   "series": "Classic",
