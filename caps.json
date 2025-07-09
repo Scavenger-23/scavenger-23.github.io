@@ -1,4 +1,39 @@
-[
+[{
+    "id": "eb_pl_goldcrest_1872_01",
+    "brand": "EB",
+    "series": "Classic",
+    "image": "images/EB/eb_pl_goldcrest_1872_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'EB' text, dual animal crest, and '1872' label; marked 'Original Polish Recipe'"
+  },
+  {
+    "id": "eb_pl_elbrewery_ltd_02",
+    "brand": "EB",
+    "series": "Classic",
+    "image": "images/EB/eb_pl_elbrewery_ltd_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with gold and black rings, red 'EB' text, and inscription 'ELBREWERY CO. LTD'"
+  },
+  {
+    "id": "eb_pl_premium_pils_star_03",
+    "brand": "EB",
+    "series": "Premium Pils",
+    "image": "images/EB/eb_pl_premium_pils_star_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with black and gold rings, red 'EB' and star emblem, labeled 'Poland’s Premium Pils'"
+  },
+  {
+    "id": "eb_pl_gold_original_1872_04",
+    "brand": "EB",
+    "series": "Original",
+    "image": "images/EB/eb_pl_gold_original_1872_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'EB', dual animal crest, and year '1872'; labeled 'Original Recipe'"
+  },
   {
     "id": "css_kor_lemon_green_01",
     "brand": "Cass",
