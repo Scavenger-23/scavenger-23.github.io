@@ -1,4 +1,41 @@
-[{
+[
+  {
+    "id": "fosters_au_radler_01",
+    "brand": "Foster's",
+    "series": "Radler",
+    "image": "images/Fosters/fosters_au_radler_01.jpg",
+    "country": "Australia",
+    "year": null,
+    "description": "Blue cap with yellow 'F' logo and 'Radler' text"
+  },
+  {
+    "id": "fosters_au_gold_02",
+    "brand": "Foster's",
+    "series": "Gold",
+    "image": "images/Fosters/fosters_au_gold_02.jpg",
+    "country": "Australia",
+    "year": null,
+    "description": "Blue cap with yellow 'F' logo and 'Gold' text"
+  },
+  {
+    "id": "fosters_au_premium_03",
+    "brand": "Foster's",
+    "series": "Premium",
+    "image": "images/Fosters/fosters_au_premium_03.jpg",
+    "country": "Australia",
+    "year": null,
+    "description": "Blue cap with yellow 'F' logo and 'Premium' text"
+  },
+  {
+    "id": "fosters_au_original_04",
+    "brand": "Foster's",
+    "series": "Original",
+    "image": "images/Fosters/fosters_au_original_04.jpg",
+    "country": "Australia",
+    "year": null,
+    "description": "Blue cap with yellow 'F' logo and 'Original' text"
+  },
+    {
     "id": "eb_pl_goldcrest_1872_01",
     "brand": "EB",
     "series": "Classic",
