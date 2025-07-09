@@ -1,4 +1,58 @@
 [{
+  "id": "bac_cu_orangebanner_01",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_orangebanner_01.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Orange cap with bat emblem and white Bacardi text"
+},
+{
+  "id": "bac_cu_yellowbanner_02",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_yellowbanner_02.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Yellow cap with faded bat emblem and white Bacardi text"
+},
+{
+  "id": "bac_cu_blackbanner_03",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_blackbanner_03.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Black cap with detailed bat illustration and white Bacardi text"
+},
+{
+  "id": "bac_cu_greenbanner_04",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_greenbanner_04.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Green cap with weathered bat emblem and white Bacardi text"
+},
+{
+  "id": "bac_cu_rustyblack_05",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_rustyblack_05.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Rusty black cap with stylized bat design and white Bacardi text"
+},
+{
+  "id": "bac_cu_orangeblack_06",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_orangeblack_06.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Orange and black cap with rust and bat emblem, white Bacardi text"
+},
+  {
   "id": "zub_pl_greenbanner_01",
   "brand": "Żubr",
   "series": "Classic",
