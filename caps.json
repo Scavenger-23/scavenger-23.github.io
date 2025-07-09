@@ -1,4 +1,39 @@
-[
+[{
+    "id": "kasztelan_pl_biate_01",
+    "brand": "Kasztelan",
+    "series": "Białe",
+    "image": "images/Kasztelan/kasztelan_pl_biate_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Beige cap with red 'Kasztelan Specjaly Białe' text"
+  },
+  {
+    "id": "kasztelan_pl_specjal_02",
+    "brand": "Kasztelan",
+    "series": "Specjal",
+    "image": "images/Kasztelan/kasztelan_pl_specjal_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'Kasztelan Specjal' text and crossed swords"
+  },
+  {
+    "id": "kasztelan_pl_chmielowe_03",
+    "brand": "Kasztelan",
+    "series": "Chmielowe",
+    "image": "images/Kasztelan/kasztelan_pl_chmielowe_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'Kasztelan Chmielowe' text"
+  },
+  {
+    "id": "kasztelan_pl_original_04",
+    "brand": "Kasztelan",
+    "series": "Original",
+    "image": "images/Kasztelan/kasztelan_pl_original_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'Kasztelan' text and 'A.D. 1322' inscription"
+  },
   {
     "id": "miloslaw_pl_pszeniczne_01",
     "brand": "Miłosław",
