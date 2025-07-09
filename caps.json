@@ -1,4 +1,58 @@
-[{
+[
+  {
+    "id": "ksz_pol_goldbrown_01",
+    "brand": "Książęce",
+    "series": "Kolekcja Specjalności",
+    "image": "images/Ksiazece/ksz_pol_goldbrown_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold and brown cap with portrait and text 'KOLEKCJA SPECJALNOŚCI' above 'KSIĄŻĘCE'"
+  },
+  {
+    "id": "ksz_pol_whitewheat_02",
+    "brand": "Książęce",
+    "series": "Pszeniczne",
+    "image": "images/Ksiazece/ksz_pol_whitewheat_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with yellow banner and lions, 'Książęce Pszeniczne' and red TBK crest"
+  },
+  {
+    "id": "ksz_pol_reddishbrown_03",
+    "brand": "Książęce",
+    "series": "Kolekcja Specjalności",
+    "image": "images/Ksiazece/ksz_pol_reddishbrown_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Reddish-brown cap with portrait and 'KSIĄŻĘCE' in bold white text"
+  },
+  {
+    "id": "ksz_pol_mottledwhite_04",
+    "brand": "Książęce",
+    "series": "Kolekcja Specjalności",
+    "image": "images/Ksiazece/ksz_pol_mottledwhite_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Cap with white speckled background, golden portrait and brown base, 'KSIĄŻĘCE'"
+  },
+  {
+    "id": "ksz_pol_agedgold_05",
+    "brand": "Książęce",
+    "series": "Kolekcja Specjalności",
+    "image": "images/Ksiazece/ksz_pol_agedgold_05.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Weathered gold and brown cap with worn logo and 'KOLEKCJA SPECJALNOŚCI'"
+  },
+  {
+    "id": "ksz_pol_bronzegold_06",
+    "brand": "Książęce",
+    "series": "Kolekcja Specjalności",
+    "image": "images/Ksiazece/ksz_pol_bronzegold_06.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Brown and bronze cap with golden portrait and stylized 'KSIĄŻĘCE' text"
+  },{
     "id": "har_pol_redpromo_01",
     "brand": "Harnaś",
     "series": "Promotional",
