@@ -1,4 +1,40 @@
 [{
+    "id": "bsm_pol_bluepromo_01",
+    "brand": "Bosman",
+    "series": "Promocja",
+    "image": "images/Bosman/bsm_pol_bluepromo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue cap with red Bosman logo, white rope border and text 'PROMOCJA 700 000 PIW'"
+  },
+  {
+    "id": "bsm_pol_niefiltrowane_02",
+    "brand": "Bosman",
+    "series": "Niefiltrowane",
+    "image": "images/Bosman/bsm_pol_niefiltrowane_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with blue Bosman logo and handwritten 'Niefiltrowane' above"
+  },
+  {
+    "id": "bsm_pol_specjal_03",
+    "brand": "Bosman",
+    "series": "Specjal",
+    "image": "images/Bosman/bsm_pol_specjal_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green and gold cap with red Bosman logo, green sailboat, and text 'SPECJAL'"
+  },
+  {
+    "id": "bsm_pol_full_04",
+    "brand": "Bosman",
+    "series": "Full",
+    "image": "images/Bosman/bsm_pol_full_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red and gold cap with red sailboat and Bosman logo, 'FULL' in red at the bottom"
+  },
+    {
     "id": "prm_cze_white16_01",
     "brand": "Primátor",
     "series": "16%",
