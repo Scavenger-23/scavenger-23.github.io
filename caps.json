@@ -1,5 +1,41 @@
 [
   {
+    "id": "guinness_ie_malta_01",
+    "brand": "Guinness",
+    "series": "Malta",
+    "image": "images/Guinness/guinness_ie_malta_01.jpg",
+    "country": "Ireland",
+    "year": null,
+    "description": "Yellow cap with red 'Malta' text and Guinness harp logo"
+  },
+  {
+    "id": "guinness_ie_stout_02",
+    "brand": "Guinness",
+    "series": "Stout",
+    "image": "images/Guinness/guinness_ie_stout_02.jpg",
+    "country": "Ireland",
+    "year": null,
+    "description": "Black cap with white 'Guinness' text and harp logo, yellow rim"
+  },
+  {
+    "id": "guinness_ie_original_03",
+    "brand": "Guinness",
+    "series": "Original",
+    "image": "images/Guinness/guinness_ie_original_03.jpg",
+    "country": "Ireland",
+    "year": null,
+    "description": "Black cap with gold 'Guinness' text and harp logo"
+  },
+  {
+    "id": "guinness_ie_extra_04",
+    "brand": "Guinness",
+    "series": "Extra",
+    "image": "images/Guinness/guinness_ie_extra_04.jpg",
+    "country": "Ireland",
+    "year": null,
+    "description": "Black cap with silver 'Guinness' text and harp logo"
+  },
+  {
     "id": "fosters_au_radler_01",
     "brand": "Foster's",
     "series": "Radler",
