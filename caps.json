@@ -1,5 +1,77 @@
 [
   {
+    "id": "tat_pl_black_z_charakterem_01",
+    "brand": "Tatra",
+    "series": "Z Charakterem",
+    "image": "images/Tatra/tat_pl_black_z_charakterem_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with yellow TATRA logo, mountain motif and 'Z CHARAKTEREM' slogan"
+  },
+  {
+    "id": "tat_pl_grzaniec_brown_01",
+    "brand": "Tatra",
+    "series": "Grzaniec",
+    "image": "images/Tatra/tat_pl_grzaniec_brown_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Brown cap with yellow TATRA logo and bold red-white GRZANIEC text"
+  },
+  {
+    "id": "tat_pl_promo_jasne_01",
+    "brand": "Tatra",
+    "series": "Promo – Jasne Pełne",
+    "image": "images/Tatra/tat_pl_promo_jasne_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue-yellow cap with TATRA logo and slogan 'MILIONY PIW SĄ W TATRACH!'"
+  },
+  {
+    "id": "tat_pl_pils_yellow_01",
+    "brand": "Tatra",
+    "series": "Pils",
+    "image": "images/Tatra/tat_pl_pils_yellow_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with red-ringed TATRA Pils logo and mountain sketch"
+  },
+  {
+    "id": "tat_pl_jasne_traditional_01",
+    "brand": "Tatra",
+    "series": "Jasne Pełne",
+    "image": "images/Tatra/tat_pl_jasne_traditional_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with TATRA logo and highlander illustration, text 'Jasne Pełne'"
+  },
+  {
+    "id": "tat_pl_mocne_black_01",
+    "brand": "Tatra",
+    "series": "Mocne",
+    "image": "images/Tatra/tat_pl_mocne_black_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with TATRA logo, highlander image and bold white MOCNE label"
+  },
+  {
+    "id": "tat_pl_yellow_z_charakterem_01",
+    "brand": "Tatra",
+    "series": "Z Charakterem – Yellow",
+    "image": "images/Tatra/tat_pl_yellow_z_charakterem_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with TATRA branding, mountains and 'Z CHARAKTEREM' text"
+  },
+  {
+    "id": "tat_pl_jasne_yellow_bird_01",
+    "brand": "Tatra",
+    "series": "Jasne Pełne – Scenic",
+    "image": "images/Tatra/tat_pl_jasne_yellow_bird_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with black mountains, flying bird and TATRA Jasne Pełne text"
+  },
+  {
     "id": "car_dk_green_logo_twist_01",
     "brand": "Carlsberg",
     "series": "Standard – Twist-Off",
