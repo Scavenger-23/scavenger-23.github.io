@@ -404,6 +404,15 @@
     "description": "Bright green cap with white Carlsberg logo, twist-off arrows on edge"
   },
   {
+  "id": "car_dk_goldbanner_01",
+  "brand": "Carlsberg",
+  "series": "Classic",
+  "image": "images/Carlsberg/car_dk_goldbanner_01.jpg",
+  "country": "Denmark",
+  "year": null,
+  "description": "Gold cap with white cloverleaf design"
+},
+  {
     "id": "car_dk_green_crown_crest_01",
     "brand": "Carlsberg",
     "series": "Crown Series",
