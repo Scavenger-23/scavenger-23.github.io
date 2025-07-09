@@ -1,4 +1,40 @@
-[{
+[  {
+    "id": "miller_us_lite_01",
+    "brand": "Miller",
+    "series": "Lite",
+    "image": "images/Miller/miller_us_lite_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Silver cap with blue 'Miller Lite' text"
+  },
+  {
+    "id": "miller_us_high_life_02",
+    "brand": "Miller",
+    "series": "High Life",
+    "image": "images/Miller/miller_us_high_life_02.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Gold cap with black 'Miller High Life' text"
+  },
+  {
+    "id": "miller_us_genuine_draft_03",
+    "brand": "Miller",
+    "series": "Genuine Draft",
+    "image": "images/Miller/miller_us_genuine_draft_03.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Silver cap with blue 'Miller Genuine Draft' text"
+  },
+  {
+    "id": "miller_us_64_04",
+    "brand": "Miller",
+    "series": "64",
+    "image": "images/Miller/miller_us_64_04.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Silver cap with red 'Miller 64' text"
+  },
+    {
     "id": "max_us_twist_01",
     "brand": "Max",
     "series": "Twist",
