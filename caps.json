@@ -618,7 +618,15 @@
     "country": "Poland",
     "year": null,
     "description": "White cap with red stylized crown, blue text 'TYSKIE BROWARY KSIĄŻĘCE A.D. 1629'"
-  },
+  },{
+  "id": "tys_pl_silverbanner_01",
+  "brand": "Tyskie",
+  "series": "Classic",
+  "image": "images/Tyskie/tys_pl_silverbanner_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Silver cap with red Tyskie logo and white accents"
+},
   {
     "id": "tys_pl_gold_crown_1629_01",
     "brand": "Tyskie",
