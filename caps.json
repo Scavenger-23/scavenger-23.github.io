@@ -1,5 +1,77 @@
 [
   {
+    "id": "car_dk_green_logo_twist_01",
+    "brand": "Carlsberg",
+    "series": "Standard – Twist-Off",
+    "image": "images/Carlsberg/car_dk_green_logo_twist_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Bright green cap with white Carlsberg logo, twist-off arrows on edge"
+  },
+  {
+    "id": "car_dk_green_crown_crest_01",
+    "brand": "Carlsberg",
+    "series": "Crown Series",
+    "image": "images/Carlsberg/car_dk_green_crown_crest_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Green cap with crown crest above Carlsberg logo, light pattern background"
+  },
+  {
+    "id": "car_dk_black_clover_green_01",
+    "brand": "Carlsberg",
+    "series": "Minimal Clover",
+    "image": "images/Carlsberg/car_dk_black_clover_green_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Black cap with solid green clover design, no text"
+  },
+  {
+    "id": "car_dk_green_redrim_twist_01",
+    "brand": "Carlsberg",
+    "series": "Red Rim",
+    "image": "images/Carlsberg/car_dk_green_redrim_twist_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Green cap with red rim, Carlsberg logo and twist-off arrows"
+  },
+  {
+    "id": "car_dk_darkgreen_logo_minimal_01",
+    "brand": "Carlsberg",
+    "series": "Dark Green",
+    "image": "images/Carlsberg/car_dk_darkgreen_logo_minimal_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Dark green cap, aged look with large white Carlsberg logo only"
+  },
+  {
+    "id": "car_dk_uefa_whiteclover_2016_01",
+    "brand": "Carlsberg",
+    "series": "UEFA Euro 2016",
+    "image": "images/Carlsberg/car_dk_uefa_whiteclover_2016_01.jpg",
+    "country": "Denmark",
+    "year": 2016,
+    "description": "Dark green cap with white clover, UEFA EURO 2016 branding in blue"
+  },
+  {
+    "id": "car_dk_green_twistoff_smooth_01",
+    "brand": "Carlsberg",
+    "series": "Smooth Logo",
+    "image": "images/Carlsberg/car_dk_green_twistoff_smooth_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Green cap with clean white Carlsberg logo, twist-off label"
+  },
+  {
+    "id": "car_dk_giant_c_metallic_01",
+    "brand": "Carlsberg",
+    "series": "Giant C",
+    "image": "images/Carlsberg/car_dk_giant_c_metallic_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Aged metallic green cap with large letter 'C' and partial logo remnants"
+  },
+  {
     "id": "tys_pl_ksiazece_crown_blue_01",
     "brand": "Tyskie",
     "series": "Książęce",
