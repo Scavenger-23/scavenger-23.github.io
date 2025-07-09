@@ -1,5 +1,86 @@
 [
   {
+    "id": "tys_pl_ksiazece_crown_blue_01",
+    "brand": "Tyskie",
+    "series": "Książęce",
+    "image": "images/Tyskie/tys_pl_ksiazece_crown_blue_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with red stylized crown, blue text 'TYSKIE BROWARY KSIĄŻĘCE A.D. 1629'"
+  },
+  {
+    "id": "tys_pl_gold_crown_1629_01",
+    "brand": "Tyskie",
+    "series": "Crown Emblem",
+    "image": "images/Tyskie/tys_pl_gold_crown_1629_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with large gold and red crown above bold '1629'"
+  },
+  {
+    "id": "tys_pl_gronie_redbanner_01",
+    "brand": "Tyskie",
+    "series": "Gronie",
+    "image": "images/Tyskie/tys_pl_gronie_redbanner_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with red banner, gold crown, text 'TYSKIE GRONIE'"
+  },
+  {
+    "id": "tys_pl_stadion_5_promo_01",
+    "brand": "Tyskie",
+    "series": "Promocja – Stadion 5",
+    "image": "images/Tyskie/tys_pl_stadion_5_promo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Promotional cap with blue '5 Stadion', red 'TYSKIE' and Polish contest slogan"
+  },
+  {
+    "id": "tys_pl_radler_yellow_green_01",
+    "brand": "Tyskie",
+    "series": "Radler",
+    "image": "images/Tyskie/tys_pl_radler_yellow_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Bright yellow cap with red banner 'TYSKIE' and green script 'Radler'"
+  },
+  {
+    "id": "tys_pl_ksiazece_crown_red_01",
+    "brand": "Tyskie",
+    "series": "Książęce",
+    "image": "images/Tyskie/tys_pl_ksiazece_crown_red_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with red stylized crown, red text 'TYSKIE BROWARY KSIĄŻĘCE A.D. 1629'"
+  },
+  {
+    "id": "tys_pl_gorny_slask_sa_01",
+    "brand": "Tyskie",
+    "series": "Górny Śląsk",
+    "image": "images/Tyskie/tys_pl_gorny_slask_sa_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Cream cap with gold-red oval border, central 'TYSKIE', black text 'rok założenia 1629'"
+  },
+  {
+    "id": "tys_pl_klasyczne_banner_01",
+    "brand": "Tyskie",
+    "series": "Klasyczne",
+    "image": "images/Tyskie/tys_pl_klasyczne_banner_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Beige cap with red banner 'TYSKIE' and brown text 'Klasyczne'"
+  },
+  {
+    "id": "tys_pl_gronie_redbanner_02",
+    "brand": "Tyskie",
+    "series": "Gronie",
+    "image": "images/Tyskie/tys_pl_gronie_redbanner_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Updated Gronie variant with red banner and large gold crown above 'TYSKIE GRONIE'"
+  },
+  {
     "id": "schweppes_red_01",
     "brand": "Schweppes",
     "series": "Classic",
