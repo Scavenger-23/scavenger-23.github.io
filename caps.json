@@ -2854,7 +2854,7 @@
     "brand": "Coca-Cola",
     "series": "Signature Mixers – Pink",
     "image": "images/Coca-Cola/coca_signature_pink_01.jpg",
-    "country": "Unknown",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -2863,7 +2863,7 @@
     "brand": "Coca-Cola",
     "series": "Signature Mixers – Gold",
     "image": "images/Coca-Cola/coca_signature_gold_01.jpg",
-    "country": "Unknown",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -2872,7 +2872,7 @@
     "brand": "Coca-Cola",
     "series": "Signature Mixers – Rose",
     "image": "images/Coca-Cola/coca_signature_rose_01.jpg",
-    "country": "Unknown",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -2881,7 +2881,7 @@
     "brand": "Coca-Cola",
     "series": "Signature Mixers – Green",
     "image": "images/Coca-Cola/coca_signature_green_01.jpg",
-    "country": "Unknown",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -2890,7 +2890,7 @@
     "brand": "Coca-Cola",
     "series": "Miscellaneous",
     "image": "images/Coca-Cola/coca_misc_recycle_01.jpg",
-    "country": "Unknown",
+    "country": "USA",
     "year": null,
     "description": "Please Recycle Me cap, likely promotional"
   },
@@ -2899,7 +2899,7 @@
   "brand": "Coca-Cola",
   "series": "Korea rim text (clean)",
   "image": "images/Coca-Cola/coke_kr_rimtext_korean_02.jpg",
-  "country": "KR",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -2908,7 +2908,7 @@
   "brand": "Coca-Cola",
   "series": "Since 1886 promo",
   "image": "images/Coca-Cola/coke_red_since1886_01.jpg",
-  "country": null,
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -2917,7 +2917,7 @@
   "brand": "Coca-Cola",
   "series": "Korea rim text (worn)",
   "image": "images/Coca-Cola/coke_kr_rimtext_korean_03.jpg",
-  "country": "KR",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -2926,7 +2926,7 @@
   "brand": "Coca-Cola",
   "series": "Indonesia Halal rim text",
   "image": "images/Coca-Cola/coke_id_halal_rimtext_01.jpg",
-  "country": "ID",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -2935,7 +2935,7 @@
   "brand": "Coca-Cola",
   "series": "Arabic logo & ingredients",
   "image": "images/Coca-Cola/coke_ar_block_white_01.jpg",
-  "country": null,
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -2944,7 +2944,7 @@
   "brand": "Coca-Cola",
   "series": "Plain logo (clean)",
   "image": "images/Coca-Cola/coke_red_plain_clean_02.jpg",
-  "country": null,
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -2953,7 +2953,7 @@
   "brand": "Coca-Cola",
   "series": "Plain logo (worn)",
   "image": "images/Coca-Cola/coke_red_plain_worn_01.jpg",
-  "country": null,
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -2962,7 +2962,7 @@
   "brand": "Coca-Cola",
   "series": "Bulgaria 250 ml block",
   "image": "images/Coca-Cola/coke_bg_250ml_block_01.jpg",
-  "country": "BG",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -2971,7 +2971,7 @@
   "brand": "Coca-Cola",
   "series": "Korea rim text",
   "image": "images/Coca-Cola/coke_kr_rimtext_korean_01.jpg",
-  "country": "KR",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -2980,7 +2980,7 @@
     "brand": "Coca-Cola",
     "series": "UK ingredients block",
     "image": "images/Coca-Cola/coke_en_vegextracts_block_01.jpg",
-    "country": "GB",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -2989,7 +2989,7 @@
     "brand": "Coca-Cola",
     "series": "UK ingredients block",
     "image": "images/Coca-Cola/coke_en_vegextracts_block_02.jpg",
-    "country": "GB",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -2998,7 +2998,7 @@
     "brand": "Coca-Cola",
     "series": "UK rim ingredients",
     "image": "images/Coca-Cola/coke_en_rimtext_ingredients_01.jpg",
-    "country": "GB",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3007,7 +3007,7 @@
     "brand": "Coca-Cola",
     "series": "Bulgaria 1996 Cyrillic",
     "image": "images/Coca-Cola/coke_bg_1996_cyrillic_01.jpg",
-    "country": "BG",
+    "country": "USA",
     "year": 1996,
     "description": null
   },
@@ -3016,7 +3016,7 @@
     "brand": "Coca-Cola",
     "series": "UK rim text logo-only",
     "image": "images/Coca-Cola/coke_en_rimtext_logoonly_01.jpg",
-    "country": "GB",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3025,7 +3025,7 @@
   "brand": "Coca-Cola",
   "series": "Soccer-ball promo",
   "image": "images/Coca-Cola/coke_promo_soccerball_red_01.jpg",
-  "country": null,
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3034,7 +3034,7 @@
   "brand": "Coca-Cola",
   "series": "Uganda rim text (UNBS)",
   "image": "images/Coca-Cola/coke_ug_unbs_rimtext_01.jpg",
-  "country": "UG",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3043,7 +3043,7 @@
   "brand": "Coca-Cola",
   "series": "UK ingredients block",
   "image": "images/Coca-Cola/coke_en_block_1996_02.jpg",
-  "country": "GB",
+  "country": "USA",
   "year": 1996,
   "description": null
 },
@@ -3052,7 +3052,7 @@
   "brand": "Coca-Cola",
   "series": "Poland rim text (HBC)",
   "image": "images/Coca-Cola/coke_pl_rimtext_hbc_01.jpg",
-  "country": "PL",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3061,7 +3061,7 @@
   "brand": "Coca-Cola",
   "series": "Plain logo, no text",
   "image": "images/Coca-Cola/coke_red_plain_logo_01.jpg",
-  "country": null,
+  "country": "USA",
   "year": null,
   "description": null
 },{
@@ -3069,7 +3069,7 @@
   "brand": "Coca-Cola",
   "series": "UK ingredients block",
   "image": "images/Coca-Cola/diet_coke_en_white_block_01.jpg",
-  "country": "GB",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3078,7 +3078,7 @@
   "brand": "Coca-Cola",
   "series": "Spain white rim text",
   "image": "images/Coca-Cola/coke_es_white_rimtext_2012_01.jpg",
-  "country": "ES",
+  "country": "USA",
   "year": 2012,
   "description": null
 },
@@ -3087,7 +3087,7 @@
   "brand": "Coca-Cola",
   "series": "Spain Promoción white",
   "image": "images/Coca-Cola/coke_es_promo_white_2012_01.jpg",
-  "country": "ES",
+  "country": "USA",
   "year": 2012,
   "description": null
 },
@@ -3096,7 +3096,7 @@
   "brand": "Coca-Cola",
   "series": "Colombia white block",
   "image": "images/Coca-Cola/coke_co_white_block_2010_01.jpg",
-  "country": "CO",
+  "country": "USA",
   "year": 2010,
   "description": null
 },
@@ -3105,7 +3105,7 @@
   "brand": "Coca-Cola",
   "series": "Silver logo",
   "image": "images/Coca-Cola/coke_light_silver_logo_01.jpg",
-  "country": null,
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3114,7 +3114,7 @@
     "brand": "Coca-Cola",
     "series": "Denmark 250 ml promo",
     "image": "images/Coca-Cola/coke_zero_red.jpg",
-    "country": "DK",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3123,7 +3123,7 @@
     "brand": "Coca-Cola",
     "series": "Denmark 250 ml promo",
     "image": "images/Coca-Cola/coke_zero_white.jpg",
-    "country": "DK",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3132,7 +3132,7 @@
     "brand": "Fanta",
     "series": "Limón – Spain",
     "image": "images/Fanta/fanta_es_limon_blue_01.jpg",
-    "country": "ES",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3141,7 +3141,7 @@
     "brand": "Fanta",
     "series": "Strawberry – Arabic market",
     "image": "images/Fanta/fanta_ar_strawberry_red_01.jpg",
-    "country": null,
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3150,7 +3150,7 @@
   "brand": "Fanta",
   "series": "Orange – UK ingredients block",
   "image": "images/Fanta/fanta_or_uk_block_01.jpg",
-  "country": "GB",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3159,7 +3159,7 @@
   "brand": "Fanta",
   "series": "Orange – Indonesia Halal rim text",
   "image": "images/Fanta/fanta_or_id_halal_01.jpg",
-  "country": "ID",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3168,7 +3168,7 @@
   "brand": "Fanta",
   "series": "Soda Water – Indonesia Halal",
   "image": "images/Fanta/fanta_sw_id_halal_01.jpg",
-  "country": "ID",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3177,7 +3177,7 @@
   "brand": "Fanta",
   "series": "Strawberry – Rp 1500 promo",
   "image": "images/Fanta/fanta_st_id_promo_1500_01.jpg",
-  "country": "ID",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3186,7 +3186,7 @@
   "brand": "Fanta",
   "series": "Pineapple – Korea white",
   "image": "images/Fanta/fanta_kr_white_pineapple_01.jpg",
-  "country": "KR",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3195,7 +3195,7 @@
   "brand": "Fanta",
   "series": "Pineapple – Korea 355 ml",
   "image": "images/Fanta/fanta_kr_white_pineapple_355_01.jpg",
-  "country": "KR",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3204,7 +3204,7 @@
   "brand": "Fanta",
   "series": "Orange – Korea 355 ml (clean)",
   "image": "images/Fanta/fanta_kr_orange_355_clean_01.jpg",
-  "country": "KR",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3213,7 +3213,7 @@
   "brand": "Fanta",
   "series": "Orange – Korea 355 ml (worn)",
   "image": "images/Fanta/fanta_kr_orange_355_worn_01.jpg",
-  "country": "KR",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3222,7 +3222,7 @@
   "brand": "Fanta",
   "series": "Blue logo only – Korea",
   "image": "images/Fanta/fanta_kr_blue_logo_01.jpg",
-  "country": "KR",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3231,7 +3231,7 @@
   "brand": "Fanta",
   "series": "Strawberry – Rp 1300 promo",
   "image": "images/Fanta/fanta_st_id_promo_1300_01.jpg",
-  "country": "ID",
+  "country": "USA",
   "year": null,
   "description": null
 },
@@ -3240,7 +3240,7 @@
     "brand": "Fanta",
     "series": "Exotic – Russia white splash",
     "image": "images/Fanta/fanta_ru_exotic_white_01.jpg",
-    "country": "RU",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3249,7 +3249,7 @@
     "brand": "Fanta",
     "series": "Orange – Seychelles white triangle",
     "image": "images/Fanta/fanta_sc_orange_triangle_01.jpg",
-    "country": "SC",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3258,7 +3258,7 @@
     "brand": "Fanta",
     "series": "Orange – plain logo",
     "image": "images/Fanta/fanta_or_plain_logo_01.jpg",
-    "country": null,
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3267,7 +3267,7 @@
     "brand": "Fanta",
     "series": "Orange splash – Russia white",
     "image": "images/Fanta/fanta_ru_orange_splash_white_01.jpg",
-    "country": "RU",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3276,7 +3276,7 @@
     "brand": "Fanta",
     "series": "Orange – Indonesia full-orange cap (FT-042)",
     "image": "images/Fanta/fanta_id_orange_full_01.jpg",
-    "country": "ID",
+    "country": "USA",
     "year": null,
     "description": null
   },
@@ -3285,7 +3285,7 @@
     "brand": "Fanta",
     "series": "Pink cap – Arabic ingredients block",
     "image": "images/Fanta/fanta_ar_pink_block_01.jpg",
-    "country": null,
+    "country": "USA",
     "year": null,
     "description": null
   },
