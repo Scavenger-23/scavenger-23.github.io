@@ -1,4 +1,76 @@
 [{
+  "id": "pep_us_bluebanner_01",
+  "brand": "Pepsi",
+  "series": "Classic",
+  "image": "images/Pepsi/pep_us_bluebanner_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with red, white, and blue Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_02",
+  "brand": "Pepsi",
+  "series": "Classic",
+  "image": "images/Pepsi/pep_us_bluebanner_02.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with faded red, white, and blue Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_03",
+  "brand": "Pepsi",
+  "series": "Classic",
+  "image": "images/Pepsi/pep_us_bluebanner_03.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with weathered red, white, and blue Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_04",
+  "brand": "Pepsi",
+  "series": "Diet",
+  "image": "images/Pepsi/pep_us_bluebanner_04.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with red, white, and blue Diet Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_05",
+  "brand": "Pepsi",
+  "series": "Diet",
+  "image": "images/Pepsi/pep_us_bluebanner_05.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with faded red, white, and blue Diet Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_06",
+  "brand": "Pepsi",
+  "series": "Diet",
+  "image": "images/Pepsi/pep_us_bluebanner_06.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with weathered red, white, and blue Diet Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_07",
+  "brand": "Pepsi",
+  "series": "Classic",
+  "image": "images/Pepsi/pep_us_bluebanner_07.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with rust and red, white, and blue Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_08",
+  "brand": "Pepsi",
+  "series": "Diet",
+  "image": "images/Pepsi/pep_us_bluebanner_08.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with rust and red, white, and blue Diet Pepsi logo"
+},
+  {
   "id": "moo_ca_redbanner_01",
   "brand": "Moosehead",
   "series": "Pale Ale",
