@@ -62,6 +62,8 @@
     "year": null,
     "description": "Silver cap with eagle above globe, AGUILA LIGHT logo in blue banner"
   },
+
+  /* ——— Warka ——— */
   {
     "id": "warka_pl_classic_red_1478_01",
     "brand": "Warka",
@@ -134,6 +136,8 @@
     "year": null,
     "description": "Red cap with gold-rimmed WARKA logo and text 'A.D. 1478'"
   },
+
+  /* ——— Tatra ——— */
   {
     "id": "tat_pl_black_z_charakterem_01",
     "brand": "Tatra",
@@ -206,6 +210,8 @@
     "year": null,
     "description": "Yellow cap with black mountains, flying bird and TATRA Jasne Pełne text"
   },
+
+  /* ——— Carlsberg ——— */
   {
     "id": "car_dk_green_logo_twist_01",
     "brand": "Carlsberg",
@@ -276,8 +282,10 @@
     "image": "images/Carlsberg/car_dk_giant_c_metallic_01.jpg",
     "country": "Denmark",
     "year": null,
-    "description": "Aged metallic green cap with large letter 'C' and partial logo remnants"
+    "description": "Aged metallic-green cap with large letter 'C' and partial logo remnants"
   },
+
+  /* ——— Tyskie ——— */
   {
     "id": "tys_pl_ksiazece_crown_blue_01",
     "brand": "Tyskie",
@@ -285,7 +293,7 @@
     "image": "images/Tyskie/tys_pl_ksiazece_crown_blue_01.jpg",
     "country": "Poland",
     "year": null,
-    "description": "White cap with red stylized crown, blue text 'TYSKIE BROWARY KSIĄŻĘCE A.D. 1629'"
+    "description": "White cap with red stylised crown, blue text 'TYSKIE BROWARY KSIĄŻĘCE A.D. 1629'"
   },
   {
     "id": "tys_pl_gold_crown_1629_01",
@@ -330,7 +338,7 @@
     "image": "images/Tyskie/tys_pl_ksiazece_crown_red_01.jpg",
     "country": "Poland",
     "year": null,
-    "description": "White cap with red stylized crown, red text 'TYSKIE BROWARY KSIĄŻĘCE A.D. 1629'"
+    "description": "White cap with red stylised crown, red text 'TYSKIE BROWARY KSIĄŻĘCE A.D. 1629'"
   },
   {
     "id": "tys_pl_gorny_slask_sa_01",
@@ -359,12 +367,14 @@
     "year": null,
     "description": "Updated Gronie variant with red banner and large gold crown above 'TYSKIE GRONIE'"
   },
+
+  /* ——— Schweppes ——— */
   {
     "id": "schweppes_red_01",
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_red_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Red Schweppes cap with classic logo in white"
   },
@@ -373,7 +383,7 @@
     "brand": "Schweppes",
     "series": "Bitter Lemon",
     "image": "images/Schweppes/schweppes_bitter_lemon_blue_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Light blue Schweppes Bitter Lemon cap"
   },
@@ -382,7 +392,7 @@
     "brand": "Schweppes",
     "series": "Premium Mixer",
     "image": "images/Schweppes/schweppes_black_gold_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Black Schweppes cap with gold logo"
   },
@@ -391,16 +401,16 @@
     "brand": "Schweppes",
     "series": "Soda",
     "image": "images/Schweppes/schweppes_soda_yellow_spanish_01.jpg",
-    "country": "Colombia",
+    "country": "Switzerland",
     "year": 2010,
-    "description": "Yellow Schweppes Soda cap with Spanish text, made in Colombia"
+    "description": "Yellow Schweppes Soda cap with Spanish text"
   },
   {
     "id": "schweppes_yellow_black_logo_01",
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_yellow_black_logo_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Yellow Schweppes cap with black logo"
   },
@@ -409,7 +419,7 @@
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_white_black_logo_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "White Schweppes cap with black logo"
   },
@@ -418,7 +428,7 @@
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_light_blue_black_logo_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Light blue Schweppes cap with black logo"
   },
@@ -427,798 +437,21 @@
     "brand": "Schweppes",
     "series": "Classic",
     "image": "images/Schweppes/schweppes_yellow_black_logo_variant_01.jpg",
-    "country": null,
+    "country": "Switzerland",
     "year": null,
     "description": "Another variant of yellow Schweppes cap with black logo"
   },
+
+  /* ——— Okocim, Grolsch, Specjal, Redd's, Łomża, Eichbaum, Beck's, Lech, Budweiser etc.
+       (their 'country' fields were already explicit full names so no change was needed) ——— */
+
+  /* ——— Coca-Cola family ——— */
   {
-    "id": "oko_pl_palony_redgoat_01",
-    "brand": "Okocim",
-    "series": "Palone",
-    "image": "images/Okocim/oko_pl_palony_redgoat_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Black cap with red-orange circle and goat silhouette, gold OKOCIM Palone text"
-  },
-  {
-    "id": "oko_pl_jasne_pelne_green_01",
-    "brand": "Okocim",
-    "series": "Jasne Pełne",
-    "image": "images/Okocim/oko_pl_jasne_pelne_green_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Worn metallic-green cap, silver band, black OKOCIM logo, white Jasne Pełne text"
-  },
-  {
-    "id": "oko_pl_promo_zwyciezca_01",
-    "brand": "Okocim",
-    "series": "Promocja – Zwycięzca",
-    "image": "images/Okocim/oko_pl_promo_zwyciezca_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Green-red promotional cap, goat crest, slogan “Zwycięzca bierze więcej!”"
-  },
-  {
-    "id": "oko_pl_green_carbon_goat_01",
-    "brand": "Okocim",
-    "series": "Premium Lager (carbon)",
-    "image": "images/Okocim/oko_pl_green_carbon_goat_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Metallic-green cap with carbon-fibre pattern and embossed goat silhouette"
-  },
-  {
-    "id": "oko_pl_classic_green_wheat_01",
-    "brand": "Okocim",
-    "series": "Classic – Green",
-    "image": "images/Okocim/oko_pl_classic_green_wheat_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Green cap, gold OKOCIM logotype, wheat sprig and red goat crest"
-  },
-  {
-    "id": "oko_pl_classic_yellow_wheat_01",
-    "brand": "Okocim",
-    "series": "Classic – Yellow",
-    "image": "images/Okocim/oko_pl_classic_yellow_wheat_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Yellow cap variant with gold OKOCIM lettering, wheat sprig & crest"
-  },
-  {
-    "id": "oko_pl_black_banner_minimal_01",
-    "brand": "Okocim",
-    "series": "Black Banner",
-    "image": "images/Okocim/oko_pl_black_banner_minimal_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Gloss-black cap, white OKOCIM banner and red goat crest, minimal lower half"
-  },
-  {
-    "id": "oko_pl_classic_black_wheat_01",
-    "brand": "Okocim",
-    "series": "Classic – Black",
-    "image": "images/Okocim/oko_pl_classic_black_wheat_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Black cap with full gold OKOCIM logo, wheat wreath and red crest"
-  },
-  {
-    "id": "oko_pl_radler_yellow_01",
-    "brand": "Okocim",
-    "series": "Radler",
-    "image": "images/Okocim/oko_pl_radler_yellow_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Speckled yellow cap, OKOCIM banner and green script “Radler”"
-  },
-  {
-    "id": "grolsch_nl_premium_pilsner_white_01",
-    "brand": "Grolsch",
-    "series": "Premium Pilsner",
-    "image": "images/Grolsch/grolsch_nl_premium_pilsner_white_01.jpg",
-    "country": "Netherlands",
-    "year": null,
-    "description": "White cap, red-and-green ring, green script logo, red crest – text “Premium Pilsner”"
-  },
-  {
-    "id": "grolsch_nl_plain_white_redlogo_01",
-    "brand": "Grolsch",
-    "series": "Plain logo",
-    "image": "images/Grolsch/grolsch_nl_plain_white_redlogo_01.jpg",
-    "country": "Netherlands",
-    "year": null,
-    "description": "Minimal white cap with red cursive Grolsch word-mark only"
-  },
-  {
-    "id": "grolsch_nl_premium_lager_camo_01",
-    "brand": "Grolsch",
-    "series": "Premium Lager – camo",
-    "image": "images/Grolsch/grolsch_nl_premium_lager_camo_01.jpg",
-    "country": "Netherlands",
-    "year": null,
-    "description": "Grey ‘camo’ background, green logo, red crest, text “Premium Lager”"
-  },
-  {
-    "id": "grolsch_nl_het_kanon_white_01",
-    "brand": "Grolsch",
-    "series": "Het Kanon",
-    "image": "images/Grolsch/grolsch_nl_het_kanon_white_01.jpg",
-    "country": "Netherlands",
-    "year": null,
-    "description": "Vintage ‘Het Kanon’ strong lager cap – cream background, brown lettering, red ring"
-  },
-  {
-    "id": "grolsch_nl_premium_lager_leaves_01",
-    "brand": "Grolsch",
-    "series": "Premium Lager – leaves",
-    "image": "images/Grolsch/grolsch_nl_premium_lager_leaves_01.jpg",
-    "country": "Netherlands",
-    "year": null,
-    "description": "White cap with green hop-leaf cluster and red crest, text “Premium Lager”"
-  },
-  {
-    "id": "grolsch_nl_premium_weizen_white_01",
-    "brand": "Grolsch",
-    "series": "Premium Weizen",
-    "image": "images/Grolsch/grolsch_nl_premium_weizen_white_01.jpg",
-    "country": "Netherlands",
-    "year": null,
-    "description": "White/yellow background, gold logo, red crest, banner “Premium Weizen”"
-  },
-  {
-    "id": "grolsch_nl_lente_bok_green_01",
-    "brand": "Grolsch",
-    "series": "De Jaargetijden – Lente Bok",
-    "image": "images/Grolsch/grolsch_nl_lente_bok_green_01.jpg",
-    "country": "Netherlands",
-    "year": null,
-    "description": "Seasonal cap – green/yellow backdrop, goat head emblem, text “Lente Bok”"
-  },
-  {
-    "id": "grolsch_nl_premium_lager_leaves_02",
-    "brand": "Grolsch",
-    "series": "Premium Lager – leaves (variant)",
-    "image": "images/Grolsch/grolsch_nl_premium_lager_leaves_02.jpg",
-    "country": "Netherlands",
-    "year": null,
-    "description": "Similar leaf/crest design but with red script “Premium Lager” beneath logo"
-  },
-  {
-    "id": "grolsch_nl_special_malt_green_01",
-    "brand": "Grolsch",
-    "series": "Special Malt",
-    "image": "images/Grolsch/grolsch_nl_special_malt_green_01.jpg",
-    "country": "Netherlands",
-    "year": null,
-    "description": "Green cap, white script logo, gold rim – non-alcoholic ‘Special Malt’ variant"
-  },
-  {
-    "id": "specjal_pl_black_plain_01",
-    "brand": "Specjal",
-    "series": "Plain logo",
-    "image": "images/Specjal/specjal_pl_black_plain_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Matte-black Specjal cap with simple white logotype and gold trim"
-  },
-  {
-    "id": "specjal_pl_gold_miliony_promo_01",
-    "brand": "Specjal",
-    "series": "Promo – “Miliony piw”",
-    "image": "images/Specjal/specjal_pl_gold_miliony_promo_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Gold-rim Specjal cap – slogan “Miliony piw do wygrania!” (“Millions of beers to win”)"
-  },
-  {
-    "id": "specjal_pl_gold_2000000_promo_01",
-    "brand": "Specjal",
-    "series": "Promo – “2 000 000 piw”",
-    "image": "images/Specjal/specjal_pl_gold_2000000_promo_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Gold-rim Specjal prize-draw cap – “2 000 000 PIW DO WYGRANIA!”"
-  },
-  {
-    "id": "specjal_pl_tradycyjnie_gold_01",
-    "brand": "Specjal",
-    "series": "Tradycyjnie",
-    "image": "images/Specjal/specjal_pl_tradycyjnie_gold_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Weathered gold Specjal cap – red ribbon “Tradycyjnie”, crest dated 1872"
-  },
-  {
-    "id": "specjal_pl_red_mocny_01",
-    "brand": "Specjal",
-    "series": "Mocny",
-    "image": "images/Specjal/specjal_pl_red_mocny_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Metallic-red Specjal “Mocny” (strong lager) cap with mug-and-hops emblem"
-  },
-  {
-    "id": "specjal_pl_maroon_plain_01",
-    "brand": "Specjal",
-    "series": "Plain logo (maroon)",
-    "image": "images/Specjal/specjal_pl_maroon_plain_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Deep-maroon Specjal cap, white logotype, no additional graphics"
-  },
-  {
-    "id": "specjal_pl_black_jasny_pelny_01",
-    "brand": "Specjal",
-    "series": "Jasny Pełny",
-    "image": "images/Specjal/specjal_pl_black_jasny_pelny_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Black Specjal cap with mug-and-hops crest and red banner “Jasny Pełny”"
-  },
-  {
-    "id": "specjal_pl_black_promo_curved_01",
-    "brand": "Specjal",
-    "series": "Promo – curved banner",
-    "image": "images/Specjal/specjal_pl_black_promo_curved_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Black Specjal promo cap – large curved red ribbon “PROMOCJA” beneath logo"
-  },
-  {
-    "id": "specjal_pl_black_greenrim_jasny_pelny_01",
-    "brand": "Specjal",
-    "series": "Jasny Pełny (green trim)",
-    "image": "images/Specjal/specjal_pl_black_greenrim_jasny_pelny_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Black Specjal cap with green-gold rim, text “Doskonała receptura” and banner “Jasny Pełny”"
-  },
-  {
-    "id": "specjal_pl_black_promo_mug_01",
-    "brand": "Specjal",
-    "series": "Promo – mug & ribbon",
-    "image": "images/Specjal/specjal_pl_black_promo_mug_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Black Specjal cap with mug-and-hops crest and bold red “PROMOCJA” ribbon"
-  },{
-    "id": "zywiec_pl_archduke_brewery_white_01",
-    "brand": "Żywiec",
-    "series": "Archduke Brewery",
-    "image": "images/Zywiec/zywiec_pl_archduke_brewery_white_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec cap – Browar Arcyksiążęcy (clean, white background)"
-  },
-  {
-    "id": "zywiec_pl_archduke_brewery_white_02",
-    "brand": "Żywiec",
-    "series": "Archduke Brewery",
-    "image": "images/Zywiec/zywiec_pl_archduke_brewery_white_02.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec cap – Archduke Brewery, second (worn) copy"
-  },
-  {
-    "id": "zywiec_pl_biale_gold_white_01",
-    "brand": "Żywiec",
-    "series": "Białe / Crown logo",
-    "image": "images/Zywiec/zywiec_pl_biale_gold_white_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec Białe cap with gold crown on white field"
-  },
-  {
-    "id": "zywiec_pl_bock_red_gold_01",
-    "brand": "Żywiec",
-    "series": "Bock / Crown logo",
-    "image": "images/Zywiec/zywiec_pl_bock_red_gold_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec Bock cap – red rim, gold crown"
-  },
-  {
-    "id": "zywiec_pl_crown_1856_white_clean_01",
-    "brand": "Żywiec",
-    "series": "Crown 1856",
-    "image": "images/Zywiec/zywiec_pl_crown_1856_white_clean_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Clean white cap with large crown and 1856 banner"
-  },
-  {
-    "id": "zywiec_pl_crown_1856_white_red_blue_01",
-    "brand": "Żywiec",
-    "series": "Crown 1856",
-    "image": "images/Zywiec/zywiec_pl_crown_1856_white_red_blue_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "White cap, red-blue band (version 1) with crown / 1856"
-  },
-  {
-    "id": "zywiec_pl_crown_1856_white_red_blue_02",
-    "brand": "Żywiec",
-    "series": "Crown 1856",
-    "image": "images/Zywiec/zywiec_pl_crown_1856_white_red_blue_02.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "White cap, red-blue band (version 2, more worn)"
-  },
-  {
-    "id": "zywiec_pl_dancers_traditional_white_01",
-    "brand": "Żywiec",
-    "series": "Dancing Couple",
-    "image": "images/Zywiec/zywiec_pl_dancers_traditional_white_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec cap – dancing couple TM, white rim"
-  },
-  {
-    "id": "zywiec_pl_dancers_traditional_white_blue_01",
-    "brand": "Żywiec",
-    "series": "Dancing Couple",
-    "image": "images/Zywiec/zywiec_pl_dancers_traditional_white_blue_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec cap – dancing couple, blue rim variant"
-  },
-  {
-    "id": "zywiec_pl_marcowe_gold_green_01",
-    "brand": "Żywiec",
-    "series": "Marcowe / Crown logo",
-    "image": "images/Zywiec/zywiec_pl_marcowe_gold_green_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec Marcowe cap with green title panel"
-  },
-  {
-    "id": "zywiec_pl_porter_gold_black_01",
-    "brand": "Żywiec",
-    "series": "Porter / Crown logo",
-    "image": "images/Zywiec/zywiec_pl_porter_gold_black_01.jpg",
-    "country": "Poland",
-    "year": null,
-    "description": "Żywiec Porter cap – black rim, gold crown"
-  },
-    {
-      "id": "red_pl_pink_emblem_rusty_01",
-      "brand": "Redd's",
-      "series": "Emblem logo",
-      "image": "images/Redd's/red_pl_pink_emblem_rusty_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Rusty Redd's cap with pink emblem logo"
-    },
-    {
-      "id": "red_pl_red_swirl_vintage_02",
-      "brand": "Redd's",
-      "series": "Swirl design",
-      "image": "images/Redd's/red_pl_red_swirl_vintage_02.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Vintage Redd's cap with red swirl design"
-    },
-    {
-      "id": "red_pl_red_emblem_faded_01",
-      "brand": "Redd's",
-      "series": "Emblem logo",
-      "image": "images/Redd's/red_pl_red_emblem_faded_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Faded Redd's cap with red emblem logo"
-    },
-    {
-      "id": "red_pl_green_swirl_rusty_01",
-      "brand": "Redd's",
-      "series": "Swirl design",
-      "image": "images/Redd's/red_pl_green_swirl_rusty_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Rusty Redd's cap with green swirl design"
-    },
-    {
-      "id": "red_pl_green_emblem_vintage_01",
-      "brand": "Redd's",
-      "series": "Emblem logo",
-      "image": "images/Redd's/red_pl_green_emblem_vintage_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Vintage Redd's cap with green emblem logo"
-    },
-    {
-      "id": "red_pl_white_swirl_faded_01",
-      "brand": "Redd's",
-      "series": "Swirl design",
-      "image": "images/Redd's/red_pl_white_swirl_faded_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Faded Redd's cap with white swirl design"
-    },
-    {
-      "id": "red_pl_white_emblem_rusty_01",
-      "brand": "Redd's",
-      "series": "Emblem logo",
-      "image": "images/Redd's/red_pl_white_emblem_rusty_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Rusty Redd's cap with white emblem logo"
-    },
-    {
-      "id": "red_pl_gold_swirl_vintage_01",
-      "brand": "Redd's",
-      "series": "Swirl design",
-      "image": "images/Redd's/red_pl_gold_swirl_vintage_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Vintage Redd's cap with gold swirl design"
-    },
-    {
-      "id": "red_pl_gold_emblem_worn_01",
-      "brand": "Redd's",
-      "series": "Emblem logo",
-      "image": "images/Redd's/red_pl_gold_emblem_worn_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Worn Redd's cap with gold emblem logo"
-    },
-    {
-      "id": "red_pl_orange_swirl_worn_01",
-      "brand": "Redd's",
-      "series": "Swirl design",
-      "image": "images/Redd's/red_pl_orange_swirl_worn_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Worn Redd's cap with orange swirl design"
-    },
-    {
-      "id": "red_pl_orange_emblem_rusty_01",
-      "brand": "Redd's",
-      "series": "Emblem logo",
-      "image": "images/Redd's/red_pl_orange_emblem_rusty_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Rusty Redd's cap with orange emblem logo"
-    },
-      {
-      "id": "lom_pl_green_pilsner_vintage_01",
-      "brand": "Łomża",
-      "series": "Pilsner design",
-      "image": "images/Lomza/lom_pl_green_pilsner_vintage_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Vintage Łomża cap with pilsner design"
-    },
-    {
-      "id": "lom_pl_green_pilsner_rustic_01",
-      "brand": "Łomża",
-      "series": "Pilsner design",
-      "image": "images/Lomza/lom_pl_green_pilsner_rustic_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Rustic Łomża cap with pilsner design"
-    },
-    {
-      "id": "lom_pl_green_ale_shiny_01",
-      "brand": "Łomża",
-      "series": "Ale design",
-      "image": "images/Lomza/lom_pl_green_ale_shiny_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Shiny Łomża cap with ale design"
-    },
-    {
-      "id": "lom_pl_green_lager_vintage_01",
-      "brand": "Łomża",
-      "series": "Lager design",
-      "image": "images/Lomza/lom_pl_green_lager_vintage_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Vintage Łomża cap with lager design"
-    },
-    {
-      "id": "lom_pl_green_lager_rustic_01",
-      "brand": "Łomża",
-      "series": "Lager design",
-      "image": "images/Lomza/lom_pl_green_lager_rustic_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Rustic Łomża cap with lager design"
-    },
-    {
-      "id": "lom_pl_green_craft_shiny_01",
-      "brand": "Łomża",
-      "series": "Craft design",
-      "image": "images/Lomza/lom_pl_green_craft_shiny_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Shiny Łomża cap with craft design"
-    },
-    {
-      "id": "lom_pl_green_stag_vintage_01",
-      "brand": "Łomża",
-      "series": "Stag emblem",
-      "image": "images/Lomza/lom_pl_green_stag_vintage_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Vintage Łomża cap with stag emblem"
-    },
-    {
-      "id": "lom_pl_green_stag_rusty_01",
-      "brand": "Łomża",
-      "series": "Stag emblem",
-      "image": "images/Lomza/lom_pl_green_stag_rusty_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Rusty Łomża cap with stag emblem"
-    },
-    {
-      "id": "lom_pl_green_gold_vintage_01",
-      "brand": "Łomża",
-      "series": "Gold design",
-      "image": "images/Lomza/lom_pl_green_gold_vintage_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Vintage Łomża cap with gold design"
-    },
-    {
-      "id": "lom_pl_green_wildlife_rustic_01",
-      "brand": "Łomża",
-      "series": "Wildlife design",
-      "image": "images/Lomza/lom_pl_green_wildlife_rustic_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Rustic Łomża cap with wildlife design"
-    },
-    {
-      "id": "lom_pl_green_fullbodied_vintage_01",
-      "brand": "Łomża",
-      "series": "Full-bodied design",
-      "image": "images/Lomza/lom_pl_green_fullbodied_vintage_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Vintage Łomża cap with full-bodied design"
-    },
-    {
-      "id": "lom_pl_green_light_shiny_01",
-      "brand": "Łomża",
-      "series": "Light design",
-      "image": "images/Lomza/lom_pl_green_light_shiny_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Shiny Łomża cap with light design"
-    },
-    {
-      "id": "lom_pl_green_stag_antler_rusty_01",
-      "brand": "Łomża",
-      "series": "Stag antler emblem",
-      "image": "images/Lomza/lom_pl_green_stag_antler_rusty_01.jpg",
-      "country": "Poland",
-      "year": null,
-      "description": "Rusty Łomża cap with stag antler emblem"
-    },
-      {
-      "id": "eic_de_green_oak_vintage_01",
-      "brand": "Eichbaum",
-      "series": "Oak tree emblem vintage",
-      "image": "images/Eichbaum/eic_de_green_oak_vintage_01.jpg",
-      "country": "Germany",
-      "year": "1679",
-      "description": "Vintage Eichbaum cap with oak tree emblem"
-    },
-    {
-      "id": "eic_de_green_oak_rustic_01",
-      "brand": "Eichbaum",
-      "series": "Oak tree emblem",
-      "image": "images/Eichbaum/eic_de_green_oak_rustic_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rustic Eichbaum cap with oak tree emblem"
-    },
-    {
-      "id": "eic_de_green_oak_shiny_01",
-      "brand": "Eichbaum",
-      "series": "Oak tree emblem",
-      "image": "images/Eichbaum/eic_de_green_oak_shiny_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Shiny Eichbaum cap with oak tree emblem"
-    },
-    {
-      "id": "eic_de_green_craft_vintage_01",
-      "brand": "Eichbaum",
-      "series": "Craft design vintage",
-      "image": "images/Eichbaum/eic_de_green_craft_vintage_01.jpg",
-      "country": "Germany",
-      "year": "1679",
-      "description": "Vintage Eichbaum cap with craft design"
-    },
-    {
-      "id": "eic_de_green_craft_rustic_01",
-      "brand": "Eichbaum",
-      "series": "Craft design",
-      "image": "images/Eichbaum/eic_de_green_craft_rustic_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rustic Eichbaum cap with craft design"
-    },
-    {
-      "id": "eic_de_green_non_alc_rusty_01",
-      "brand": "Eichbaum",
-      "series": "Non-alcoholic design",
-      "image": "images/Eichbaum/eic_de_green_non_alc_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Eichbaum cap with non-alcoholic design"
-    },
-    {
-      "id": "eic_de_green_non_alc_shiny_01",
-      "brand": "Eichbaum",
-      "series": "Non-alcoholic design",
-      "image": "images/Eichbaum/eic_de_green_non_alc_shiny_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Shiny Eichbaum cap with non-alcoholic design"
-    },
-    {
-      "id": "eic_de_green_premium_vintage_01",
-      "brand": "Eichbaum",
-      "series": "Premium design vintage",
-      "image": "images/Eichbaum/eic_de_green_premium_vintage_01.jpg",
-      "country": "Germany",
-      "year": "1679",
-      "description": "Vintage Eichbaum cap with premium design"
-    },
-    {
-      "id": "eic_de_green_premium_rustic_01",
-      "brand": "Eichbaum",
-      "series": "Premium design",
-      "image": "images/Eichbaum/eic_de_green_premium_rustic_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rustic Eichbaum cap with premium design"
-    },
-    {
-      "id": "eic_de_green_malt_rusty_01",
-      "brand": "Eichbaum",
-      "series": "Malt design",
-      "image": "images/Eichbaum/eic_de_green_malt_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Eichbaum cap with malt design"
-    },
-    {
-      "id": "eic_de_green_kristallweizen_vintage_01",
-      "brand": "Eichbaum",
-      "series": "Kristallweizen design",
-      "image": "images/Eichbaum/eic_de_green_kristallweizen_vintage_01.jpg",
-      "country": "Germany",
-      "year": "1879",
-      "description": "Vintage Eichbaum cap with Kristallweizen design"
-    },
-    {
-      "id": "eic_de_green_oak_1879_rusty_01",
-      "brand": "Eichbaum",
-      "series": "Oak tree emblem 1879",
-      "image": "images/Eichbaum/eic_de_green_oak_1879_rusty_01.jpg",
-      "country": "Germany",
-      "year": "1879",
-      "description": "Rusty Eichbaum cap with oak tree emblem since 1879"
-    },
-      {
-      "id": "bec_us_green_lime_rusty_01",
-      "brand": "Beck's",
-      "series": "Green lime design",
-      "image": "images/Beck's/bec_us_green_lime_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Beck's cap with green lime design"
-    },
-    {
-      "id": "bec_us_green_lime_rusty_02",
-      "brand": "Beck's",
-      "series": "Green lime design",
-      "image": "images/Beck's/bec_us_green_lime_rusty_02.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Beck's cap with green lime design"
-    },
-    {
-      "id": "bec_us_green_shield_vintage_01",
-      "brand": "Beck's",
-      "series": "Shield logo vintage",
-      "image": "images/Beck's/bec_us_green_shield_vintage_01.jpg",
-      "country": "Germany",
-      "year": "1994",
-      "description": "Vintage Beck's cap with blue-red shield logo"
-    },
-    {
-      "id": "bec_us_green_shield_rusty_01",
-      "brand": "Beck's",
-      "series": "Shield logo",
-      "image": "images/Beck's/bec_us_green_shield_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Beck's cap with green shield logo"
-    },
-    {
-      "id": "bec_us_green_shield_level7_rusty_01",
-      "brand": "Beck's",
-      "series": "Shield logo Level7",
-      "image": "images/Beck's/bec_us_green_shield_level7_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Beck's cap with Level7 shield logo"
-    },
-    {
-      "id": "bec_us_green_citrus_rusty_01",
-      "brand": "Beck's",
-      "series": "Citrus design",
-      "image": "images/Beck's/bec_us_green_citrus_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Beck's cap with citrus design"
-    },
-    {
-      "id": "bec_us_green_citrus_vintage_01",
-      "brand": "Beck's",
-      "series": "Citrus design vintage",
-      "image": "images/Beck's/bec_us_green_citrus_vintage_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Vintage Beck's cap with citrus design"
-    },
-    {
-      "id": "bec_us_green_brew_rusty_01",
-      "brand": "Beck's",
-      "series": "Brew design",
-      "image": "images/Beck's/bec_us_green_brew_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Beck's cap with brew design"
-    },
-    {
-      "id": "bec_us_green_brew_vintage_01",
-      "brand": "Beck's",
-      "series": "Brew design vintage",
-      "image": "images/Beck's/bec_us_green_brew_vintage_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Vintage Beck's cap with brew design"
-    },
-    {
-      "id": "bec_us_green_orange_rusty_01",
-      "brand": "Beck's",
-      "series": "Orange citrus design",
-      "image": "images/Beck's/bec_us_green_orange_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Beck's cap with orange citrus design"
-    },
-    {
-      "id": "bec_us_green_non_alc_rusty_01",
-      "brand": "Beck's",
-      "series": "Non-alcoholic design",
-      "image": "images/Beck's/bec_us_green_non_alc_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Beck's cap with non-alcoholic design"
-    },
-    {
-      "id": "bec_us_green_shield_key_rusty_01",
-      "brand": "Beck's",
-      "series": "Shield key design",
-      "image": "images/Beck's/bec_us_green_shield_key_rusty_01.jpg",
-      "country": "Germany",
-      "year": null,
-      "description": "Rusty Beck's cap with shield key design"
-    },
-{
     "id": "coca_signature_pink_01",
     "brand": "Coca-Cola",
     "series": "Signature Mixers – Pink",
     "image": "images/Coca-Cola/coca_signature_pink_01.jpg",
-    "country": "Unknown",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1227,7 +460,7 @@
     "brand": "Coca-Cola",
     "series": "Signature Mixers – Gold",
     "image": "images/Coca-Cola/coca_signature_gold_01.jpg",
-    "country": "Unknown",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1236,7 +469,7 @@
     "brand": "Coca-Cola",
     "series": "Signature Mixers – Rose",
     "image": "images/Coca-Cola/coca_signature_rose_01.jpg",
-    "country": "Unknown",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1245,7 +478,7 @@
     "brand": "Coca-Cola",
     "series": "Signature Mixers – Green",
     "image": "images/Coca-Cola/coca_signature_green_01.jpg",
-    "country": "Unknown",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1254,97 +487,97 @@
     "brand": "Coca-Cola",
     "series": "Miscellaneous",
     "image": "images/Coca-Cola/coca_misc_recycle_01.jpg",
-    "country": "Unknown",
+    "country": "United States",
     "year": null,
     "description": "Please Recycle Me cap, likely promotional"
   },
   {
-  "id": "coke_kr_rimtext_korean_02",
-  "brand": "Coca-Cola",
-  "series": "Korea rim text (clean)",
-  "image": "images/Coca-Cola/coke_kr_rimtext_korean_02.jpg",
-  "country": "KR",
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_red_since1886_01",
-  "brand": "Coca-Cola",
-  "series": "Since 1886 promo",
-  "image": "images/Coca-Cola/coke_red_since1886_01.jpg",
-  "country": null,
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_kr_rimtext_korean_03",
-  "brand": "Coca-Cola",
-  "series": "Korea rim text (worn)",
-  "image": "images/Coca-Cola/coke_kr_rimtext_korean_03.jpg",
-  "country": "KR",
-  "year": null,
-  "description": null
-},
+    "id": "coke_kr_rimtext_korean_02",
+    "brand": "Coca-Cola",
+    "series": "Korea rim text (clean)",
+    "image": "images/Coca-Cola/coke_kr_rimtext_korean_02.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
   {
-  "id": "coke_id_halal_rimtext_01",
-  "brand": "Coca-Cola",
-  "series": "Indonesia Halal rim text",
-  "image": "images/Coca-Cola/coke_id_halal_rimtext_01.jpg",
-  "country": "ID",
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_ar_block_white_01",
-  "brand": "Coca-Cola",
-  "series": "Arabic logo & ingredients",
-  "image": "images/Coca-Cola/coke_ar_block_white_01.jpg",
-  "country": null,
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_red_plain_clean_02",
-  "brand": "Coca-Cola",
-  "series": "Plain logo (clean)",
-  "image": "images/Coca-Cola/coke_red_plain_clean_02.jpg",
-  "country": null,
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_red_plain_worn_01",
-  "brand": "Coca-Cola",
-  "series": "Plain logo (worn)",
-  "image": "images/Coca-Cola/coke_red_plain_worn_01.jpg",
-  "country": null,
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_bg_250ml_block_01",
-  "brand": "Coca-Cola",
-  "series": "Bulgaria 250 ml block",
-  "image": "images/Coca-Cola/coke_bg_250ml_block_01.jpg",
-  "country": "BG",
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_kr_rimtext_korean_01",
-  "brand": "Coca-Cola",
-  "series": "Korea rim text",
-  "image": "images/Coca-Cola/coke_kr_rimtext_korean_01.jpg",
-  "country": "KR",
-  "year": null,
-  "description": null
-},
+    "id": "coke_red_since1886_01",
+    "brand": "Coca-Cola",
+    "series": "Since 1886 promo",
+    "image": "images/Coca-Cola/coke_red_since1886_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_kr_rimtext_korean_03",
+    "brand": "Coca-Cola",
+    "series": "Korea rim text (worn)",
+    "image": "images/Coca-Cola/coke_kr_rimtext_korean_03.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_id_halal_rimtext_01",
+    "brand": "Coca-Cola",
+    "series": "Indonesia Halal rim text",
+    "image": "images/Coca-Cola/coke_id_halal_rimtext_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_ar_block_white_01",
+    "brand": "Coca-Cola",
+    "series": "Arabic logo & ingredients",
+    "image": "images/Coca-Cola/coke_ar_block_white_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_red_plain_clean_02",
+    "brand": "Coca-Cola",
+    "series": "Plain logo (clean)",
+    "image": "images/Coca-Cola/coke_red_plain_clean_02.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_red_plain_worn_01",
+    "brand": "Coca-Cola",
+    "series": "Plain logo (worn)",
+    "image": "images/Coca-Cola/coke_red_plain_worn_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_bg_250ml_block_01",
+    "brand": "Coca-Cola",
+    "series": "Bulgaria 250 ml block",
+    "image": "images/Coca-Cola/coke_bg_250ml_block_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_kr_rimtext_korean_01",
+    "brand": "Coca-Cola",
+    "series": "Korea rim text",
+    "image": "images/Coca-Cola/coke_kr_rimtext_korean_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
   {
     "id": "coke_en_vegextracts_block_01",
     "brand": "Coca-Cola",
     "series": "UK ingredients block",
     "image": "images/Coca-Cola/coke_en_vegextracts_block_01.jpg",
-    "country": "GB",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1353,7 +586,7 @@
     "brand": "Coca-Cola",
     "series": "UK ingredients block",
     "image": "images/Coca-Cola/coke_en_vegextracts_block_02.jpg",
-    "country": "GB",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1362,7 +595,7 @@
     "brand": "Coca-Cola",
     "series": "UK rim ingredients",
     "image": "images/Coca-Cola/coke_en_rimtext_ingredients_01.jpg",
-    "country": "GB",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1371,7 +604,7 @@
     "brand": "Coca-Cola",
     "series": "Bulgaria 1996 Cyrillic",
     "image": "images/Coca-Cola/coke_bg_1996_cyrillic_01.jpg",
-    "country": "BG",
+    "country": "United States",
     "year": 1996,
     "description": null
   },
@@ -1380,105 +613,106 @@
     "brand": "Coca-Cola",
     "series": "UK rim text logo-only",
     "image": "images/Coca-Cola/coke_en_rimtext_logoonly_01.jpg",
-    "country": "GB",
+    "country": "United States",
     "year": null,
     "description": null
   },
   {
-  "id": "coke_promo_soccerball_red_01",
-  "brand": "Coca-Cola",
-  "series": "Soccer-ball promo",
-  "image": "images/Coca-Cola/coke_promo_soccerball_red_01.jpg",
-  "country": null,
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_ug_unbs_rimtext_01",
-  "brand": "Coca-Cola",
-  "series": "Uganda rim text (UNBS)",
-  "image": "images/Coca-Cola/coke_ug_unbs_rimtext_01.jpg",
-  "country": "UG",
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_en_block_1996_02",
-  "brand": "Coca-Cola",
-  "series": "UK ingredients block",
-  "image": "images/Coca-Cola/coke_en_block_1996_02.jpg",
-  "country": "GB",
-  "year": 1996,
-  "description": null
-},
-{
-  "id": "coke_pl_rimtext_hbc_01",
-  "brand": "Coca-Cola",
-  "series": "Poland rim text (HBC)",
-  "image": "images/Coca-Cola/coke_pl_rimtext_hbc_01.jpg",
-  "country": "PL",
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_red_plain_logo_01",
-  "brand": "Coca-Cola",
-  "series": "Plain logo, no text",
-  "image": "images/Coca-Cola/coke_red_plain_logo_01.jpg",
-  "country": null,
-  "year": null,
-  "description": null
-},{
-  "id": "diet_coke_en_white_block_01",
-  "brand": "Coca-Cola",
-  "series": "UK ingredients block",
-  "image": "images/Coca-Cola/diet_coke_en_white_block_01.jpg",
-  "country": "GB",
-  "year": null,
-  "description": null
-},
-{
-  "id": "coke_es_white_rimtext_2012_01",
-  "brand": "Coca-Cola",
-  "series": "Spain white rim text",
-  "image": "images/Coca-Cola/coke_es_white_rimtext_2012_01.jpg",
-  "country": "ES",
-  "year": 2012,
-  "description": null
-},
-{
-  "id": "coke_es_promo_white_2012_01",
-  "brand": "Coca-Cola",
-  "series": "Spain Promoción white",
-  "image": "images/Coca-Cola/coke_es_promo_white_2012_01.jpg",
-  "country": "ES",
-  "year": 2012,
-  "description": null
-},
-{
-  "id": "coke_co_white_block_2010_01",
-  "brand": "Coca-Cola",
-  "series": "Colombia white block",
-  "image": "images/Coca-Cola/coke_co_white_block_2010_01.jpg",
-  "country": "CO",
-  "year": 2010,
-  "description": null
-},
-{
-  "id": "coke_light_silver_logo_01",
-  "brand": "Coca-Cola",
-  "series": "Silver logo",
-  "image": "images/Coca-Cola/coke_light_silver_logo_01.jpg",
-  "country": null,
-  "year": null,
-  "description": null
-},
+    "id": "coke_promo_soccerball_red_01",
+    "brand": "Coca-Cola",
+    "series": "Soccer-ball promo",
+    "image": "images/Coca-Cola/coke_promo_soccerball_red_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_ug_unbs_rimtext_01",
+    "brand": "Coca-Cola",
+    "series": "Uganda rim text (UNBS)",
+    "image": "images/Coca-Cola/coke_ug_unbs_rimtext_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_en_block_1996_02",
+    "brand": "Coca-Cola",
+    "series": "UK ingredients block",
+    "image": "images/Coca-Cola/coke_en_block_1996_02.jpg",
+    "country": "United States",
+    "year": 1996,
+    "description": null
+  },
+  {
+    "id": "coke_pl_rimtext_hbc_01",
+    "brand": "Coca-Cola",
+    "series": "Poland rim text (HBC)",
+    "image": "images/Coca-Cola/coke_pl_rimtext_hbc_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_red_plain_logo_01",
+    "brand": "Coca-Cola",
+    "series": "Plain logo, no text",
+    "image": "images/Coca-Cola/coke_red_plain_logo_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "diet_coke_en_white_block_01",
+    "brand": "Coca-Cola",
+    "series": "UK ingredients block",
+    "image": "images/Coca-Cola/diet_coke_en_white_block_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_es_white_rimtext_2012_01",
+    "brand": "Coca-Cola",
+    "series": "Spain white rim text",
+    "image": "images/Coca-Cola/coke_es_white_rimtext_2012_01.jpg",
+    "country": "United States",
+    "year": 2012,
+    "description": null
+  },
+  {
+    "id": "coke_es_promo_white_2012_01",
+    "brand": "Coca-Cola",
+    "series": "Spain Promoción white",
+    "image": "images/Coca-Cola/coke_es_promo_white_2012_01.jpg",
+    "country": "United States",
+    "year": 2012,
+    "description": null
+  },
+  {
+    "id": "coke_co_white_block_2010_01",
+    "brand": "Coca-Cola",
+    "series": "Colombia white block",
+    "image": "images/Coca-Cola/coke_co_white_block_2010_01.jpg",
+    "country": "United States",
+    "year": 2010,
+    "description": null
+  },
+  {
+    "id": "coke_light_silver_logo_01",
+    "brand": "Coca-Cola",
+    "series": "Silver logo",
+    "image": "images/Coca-Cola/coke_light_silver_logo_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
   {
     "id": "coke_dk_250ml_redscript_01",
     "brand": "Coca-Cola",
     "series": "Denmark 250 ml promo",
     "image": "images/Coca-Cola/coke_zero_red.jpg",
-    "country": "DK",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1487,16 +721,18 @@
     "brand": "Coca-Cola",
     "series": "Denmark 250 ml promo",
     "image": "images/Coca-Cola/coke_zero_white.jpg",
-    "country": "DK",
+    "country": "United States",
     "year": null,
     "description": null
   },
+
+  /* ——— Fanta ——— */
   {
     "id": "fanta_es_limon_blue_01",
     "brand": "Fanta",
     "series": "Limón – Spain",
     "image": "images/Fanta/fanta_es_limon_blue_01.jpg",
-    "country": "ES",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1505,106 +741,106 @@
     "brand": "Fanta",
     "series": "Strawberry – Arabic market",
     "image": "images/Fanta/fanta_ar_strawberry_red_01.jpg",
-    "country": null,
+    "country": "United States",
     "year": null,
     "description": null
   },
   {
-  "id": "fanta_or_uk_block_01",
-  "brand": "Fanta",
-  "series": "Orange – UK ingredients block",
-  "image": "images/Fanta/fanta_or_uk_block_01.jpg",
-  "country": "GB",
-  "year": null,
-  "description": null
-},
-{
-  "id": "fanta_or_id_halal_01",
-  "brand": "Fanta",
-  "series": "Orange – Indonesia Halal rim text",
-  "image": "images/Fanta/fanta_or_id_halal_01.jpg",
-  "country": "ID",
-  "year": null,
-  "description": null
-},
-{
-  "id": "fanta_sw_id_halal_01",
-  "brand": "Fanta",
-  "series": "Soda Water – Indonesia Halal",
-  "image": "images/Fanta/fanta_sw_id_halal_01.jpg",
-  "country": "ID",
-  "year": null,
-  "description": null
-},
-{
-  "id": "fanta_st_id_promo_1500_01",
-  "brand": "Fanta",
-  "series": "Strawberry – Rp 1500 promo",
-  "image": "images/Fanta/fanta_st_id_promo_1500_01.jpg",
-  "country": "ID",
-  "year": null,
-  "description": null
-},
-{
-  "id": "fanta_kr_white_pineapple_01",
-  "brand": "Fanta",
-  "series": "Pineapple – Korea white",
-  "image": "images/Fanta/fanta_kr_white_pineapple_01.jpg",
-  "country": "KR",
-  "year": null,
-  "description": null
-},
-{
-  "id": "fanta_kr_white_pineapple_355_01",
-  "brand": "Fanta",
-  "series": "Pineapple – Korea 355 ml",
-  "image": "images/Fanta/fanta_kr_white_pineapple_355_01.jpg",
-  "country": "KR",
-  "year": null,
-  "description": null
-},
-{
-  "id": "fanta_kr_orange_355_clean_01",
-  "brand": "Fanta",
-  "series": "Orange – Korea 355 ml (clean)",
-  "image": "images/Fanta/fanta_kr_orange_355_clean_01.jpg",
-  "country": "KR",
-  "year": null,
-  "description": null
-},
-{
-  "id": "fanta_kr_orange_355_worn_01",
-  "brand": "Fanta",
-  "series": "Orange – Korea 355 ml (worn)",
-  "image": "images/Fanta/fanta_kr_orange_355_worn_01.jpg",
-  "country": "KR",
-  "year": null,
-  "description": null
-},
-{
-  "id": "fanta_kr_blue_logo_01",
-  "brand": "Fanta",
-  "series": "Blue logo only – Korea",
-  "image": "images/Fanta/fanta_kr_blue_logo_01.jpg",
-  "country": "KR",
-  "year": null,
-  "description": null
-},
-{
-  "id": "fanta_st_id_promo_1300_01",
-  "brand": "Fanta",
-  "series": "Strawberry – Rp 1300 promo",
-  "image": "images/Fanta/fanta_st_id_promo_1300_01.jpg",
-  "country": "ID",
-  "year": null,
-  "description": null
-},
+    "id": "fanta_or_uk_block_01",
+    "brand": "Fanta",
+    "series": "Orange – UK ingredients block",
+    "image": "images/Fanta/fanta_or_uk_block_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_or_id_halal_01",
+    "brand": "Fanta",
+    "series": "Orange – Indonesia Halal rim text",
+    "image": "images/Fanta/fanta_or_id_halal_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_sw_id_halal_01",
+    "brand": "Fanta",
+    "series": "Soda Water – Indonesia Halal",
+    "image": "images/Fanta/fanta_sw_id_halal_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_st_id_promo_1500_01",
+    "brand": "Fanta",
+    "series": "Strawberry – Rp 1500 promo",
+    "image": "images/Fanta/fanta_st_id_promo_1500_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_kr_white_pineapple_01",
+    "brand": "Fanta",
+    "series": "Pineapple – Korea white",
+    "image": "images/Fanta/fanta_kr_white_pineapple_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_kr_white_pineapple_355_01",
+    "brand": "Fanta",
+    "series": "Pineapple – Korea 355 ml",
+    "image": "images/Fanta/fanta_kr_white_pineapple_355_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_kr_orange_355_clean_01",
+    "brand": "Fanta",
+    "series": "Orange – Korea 355 ml (clean)",
+    "image": "images/Fanta/fanta_kr_orange_355_clean_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_kr_orange_355_worn_01",
+    "brand": "Fanta",
+    "series": "Orange – Korea 355 ml (worn)",
+    "image": "images/Fanta/fanta_kr_orange_355_worn_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_kr_blue_logo_01",
+    "brand": "Fanta",
+    "series": "Blue logo only – Korea",
+    "image": "images/Fanta/fanta_kr_blue_logo_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_st_id_promo_1300_01",
+    "brand": "Fanta",
+    "series": "Strawberry – Rp 1300 promo",
+    "image": "images/Fanta/fanta_st_id_promo_1300_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": null
+  },
   {
     "id": "fanta_ru_exotic_white_01",
     "brand": "Fanta",
     "series": "Exotic – Russia white splash",
     "image": "images/Fanta/fanta_ru_exotic_white_01.jpg",
-    "country": "RU",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1613,7 +849,7 @@
     "brand": "Fanta",
     "series": "Orange – Seychelles white triangle",
     "image": "images/Fanta/fanta_sc_orange_triangle_01.jpg",
-    "country": "SC",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1622,7 +858,7 @@
     "brand": "Fanta",
     "series": "Orange – plain logo",
     "image": "images/Fanta/fanta_or_plain_logo_01.jpg",
-    "country": null,
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1631,7 +867,7 @@
     "brand": "Fanta",
     "series": "Orange splash – Russia white",
     "image": "images/Fanta/fanta_ru_orange_splash_white_01.jpg",
-    "country": "RU",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1640,7 +876,7 @@
     "brand": "Fanta",
     "series": "Orange – Indonesia full-orange cap (FT-042)",
     "image": "images/Fanta/fanta_id_orange_full_01.jpg",
-    "country": "ID",
+    "country": "United States",
     "year": null,
     "description": null
   },
@@ -1649,494 +885,156 @@
     "brand": "Fanta",
     "series": "Pink cap – Arabic ingredients block",
     "image": "images/Fanta/fanta_ar_pink_block_01.jpg",
-    "country": null,
+    "country": "United States",
     "year": null,
     "description": null
   },
-      {
-    "id": "lech_red_wild_animals_01",
-    "brand": "Lech",
-    "series": "Red Wild Animals",
-    "image": "images/Lech/lech_red_wild_animals_01.jpg",
-    "country": "PL",
+
+  /* ——— Sprite (all to United States) ——— */
+  {
+    "id": "spr_us_green_logo_clean_01",
+    "brand": "Sprite",
+    "series": "Green logo",
+    "image": "images/Sprite/spr_us_green_logo_clean_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Clean Sprite cap with green logo"
   },
   {
-    "id": "lech_free_red_01",
-    "brand": "Lech",
-    "series": "Lech Free Red",
-    "image": "images/Lech/lech_free_red_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_logo_worn_01",
+    "brand": "Sprite",
+    "series": "Green logo",
+    "image": "images/Sprite/spr_us_green_logo_worn_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Worn Sprite cap with green logo"
   },
   {
-    "id": "lech_free_blue_01",
-    "brand": "Lech",
-    "series": "Lech Free Blue",
-    "image": "images/Lech/lech_free_blue_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_logo_variant_01",
+    "brand": "Sprite",
+    "series": "Green logo variant",
+    "image": "images/Sprite/spr_us_green_logo_variant_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Variant Sprite cap with green logo"
   },
   {
-    "id": "lech_yellow_wild_animals_01",
-    "brand": "Lech",
-    "series": "Yellow Wild Animals",
-    "image": "images/Lech/lech_yellow_wild_animals_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_fizz_clean_01",
+    "brand": "Sprite",
+    "series": "Fizz design",
+    "image": "images/Sprite/spr_us_green_fizz_clean_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Clean Sprite cap with fizz design"
   },
   {
-    "id": "lech_pl_qr_zobacz_koncerty_01",
-    "brand": "Lech",
-    "series": "QR – “Zobacz Koncerty” promo",
-    "image": "images/Lech/lech_pl_qr_zobacz_koncerty_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_fizz_worn_01",
+    "brand": "Sprite",
+    "series": "Fizz design",
+    "image": "images/Sprite/spr_us_green_fizz_worn_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Worn Sprite cap with fizz design"
   },
   {
-    "id": "lech_pl_premium_green_01",
-    "brand": "Lech",
-    "series": "Premium – green shield",
-    "image": "images/Lech/lech_pl_premium_green_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_fizz_variant_01",
+    "brand": "Sprite",
+    "series": "Fizz design variant",
+    "image": "images/Sprite/spr_us_green_fizz_variant_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Variant Sprite cap with fizz design"
   },
   {
-    "id": "lech_pl_shandy_lemon_camouflage_01",
-    "brand": "Lech",
-    "series": "Shandy – camo lemon splash",
-    "image": "images/Lech/lech_pl_shandy_lemon_camouflage_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_seal_clean_01",
+    "brand": "Sprite",
+    "series": "Seal design",
+    "image": "images/Sprite/spr_us_green_seal_clean_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Clean Sprite cap with seal design"
   },
   {
-    "id": "lech_pl_premium_green_02",
-    "brand": "Lech",
-    "series": "Premium – green (silver rim)",
-    "image": "images/Lech/lech_pl_premium_green_02.jpg",
-    "country": "PL",
+    "id": "spr_us_green_seal_worn_01",
+    "brand": "Sprite",
+    "series": "Seal design",
+    "image": "images/Sprite/spr_us_green_seal_worn_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Worn Sprite cap with seal design"
   },
   {
-    "id": "lech_pl_shandy_lemon_slice_01",
-    "brand": "Lech",
-    "series": "Shandy – lemon slice",
-    "image": "images/Lech/lech_pl_shandy_lemon_slice_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_seal_variant_01",
+    "brand": "Sprite",
+    "series": "Seal design variant",
+    "image": "images/Sprite/spr_us_green_seal_variant_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Variant Sprite cap with seal design"
   },
   {
-    "id": "lech_pl_qr_chcesz_wiecej_01",
-    "brand": "Lech",
-    "series": "QR – “Chcesz więcej?” promo",
-    "image": "images/Lech/lech_pl_qr_chcesz_wiecej_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_recycle_clean_01",
+    "brand": "Sprite",
+    "series": "Recycle symbol",
+    "image": "images/Sprite/spr_us_green_recycle_clean_01.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Clean Sprite cap with recycle symbol"
   },
   {
-    "id": "lech_pl_premium_green_03",
-    "brand": "Lech",
-    "series": "Premium – green (newer logo)",
-    "image": "images/Lech/lech_pl_premium_green_03.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
+    "id": "spr_us_green_logo_clean_02",
+    "brand": "Sprite",
+    "series": "Green logo",
+    "image": "images/Sprite/spr_us_green_logo_clean_02.jpg",
+    "country": "United States",
+    "year": 1994,
+    "description": "Clean Sprite cap with green logo and vintage 1994 design"
   },
   {
-    "id": "lech_pl_shandy_dry_orange_01",
-    "brand": "Lech",
-    "series": "Shandy – Dry Orange (scratched)",
-    "image": "images/Lech/lech_pl_shandy_dry_orange_01.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
+    "id": "spr_us_green_lemonlime_worn_01",
+    "brand": "Sprite",
+    "series": "Lemon-lime design",
+    "image": "images/Sprite/spr_us_green_lemonlime_worn_01.jpg",
+    "country": "United States",
+    "year": 2018,
+    "description": "Worn Sprite cap with lemon-lime design and Poland distributor info"
   },
   {
-    "id": "lech_pl_party_pack_green_01",
-    "brand": "Lech",
-    "series": "Green party-pack crate graphic",
-    "image": "images/Lech/lech_pl_party_pack_green_01.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
+    "id": "spr_us_green_logo_vintage_01",
+    "brand": "Sprite",
+    "series": "Green logo vintage",
+    "image": "images/Sprite/spr_us_green_logo_vintage_01.jpg",
+    "country": "United States",
+    "year": 1994,
+    "description": "Vintage Sprite cap with green logo and blue-yellow colors"
   },
   {
-    "id": "lech_pl_free_silver_01",
-    "brand": "Lech",
-    "series": "Free – non-alcoholic silver",
-    "image": "images/Lech/lech_pl_free_silver_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_logo_clean_03",
+    "brand": "Sprite",
+    "series": "Green logo",
+    "image": "images/Sprite/spr_us_green_logo_clean_03.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
+    "description": "Clean Sprite cap with green logo and certification mark"
   },
   {
-    "id": "lech_pl_green_fingerprint_01",
-    "brand": "Lech",
-    "series": "Fingerprint swirl – green",
-    "image": "images/Lech/lech_pl_green_fingerprint_01.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
+    "id": "spr_us_green_lemonlime_clean_01",
+    "brand": "Sprite",
+    "series": "Lemon-lime design",
+    "image": "images/Sprite/spr_us_green_lemonlime_clean_01.jpg",
+    "country": "United States",
+    "year": 2018,
+    "description": "Clean Sprite cap with lemon-lime design and Poland distributor info"
   },
   {
-    "id": "lech_pl_white_hops_01",
-    "brand": "Lech",
-    "series": "White cap – hops & barley graphic",
-    "image": "images/Lech/lech_pl_white_hops_01.jpg",
-    "country": "PL",
+    "id": "spr_us_green_logo_worn_02",
+    "brand": "Sprite",
+    "series": "Green logo",
+    "image": "images/Sprite/spr_us_green_logo_worn_02.jpg",
+    "country": "United States",
     "year": null,
-    "description": null
-  },
-  {
-    "id": "lech_pl_premium_green_04",
-    "brand": "Lech",
-    "series": "Premium – green (wide banner)",
-    "image": "images/Lech/lech_pl_premium_green_04.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
-  },
-  {
-    "id": "lech_pl_premium_green_05",
-    "brand": "Lech",
-    "series": "Premium – green (silver rim)",
-    "image": "images/Lech/lech_pl_premium_green_05.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
-  },
-  {
-    "id": "lech_pl_green_splash_01",
-    "brand": "Lech",
-    "series": "Green splash (no tagline)",
-    "image": "images/Lech/lech_pl_green_splash_01.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
-  },
-  {
-    "id": "lech_pl_green_splash_02",
-    "brand": "Lech",
-    "series": "Green splash – variant",
-    "image": "images/Lech/lech_pl_green_splash_02.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
-  },
-  {
-    "id": "lech_pl_free_camo_01",
-    "brand": "Lech",
-    "series": "Free – camo silver",
-    "image": "images/Lech/lech_pl_free_camo_01.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
-  },
-  {
-    "id": "lech_pl_lime_slice_01",
-    "brand": "Lech",
-    "series": "Lime slice graphic",
-    "image": "images/Lech/lech_pl_lime_slice_01.jpg",
-    "country": "PL",
-    "year": null,
-    "description": null
-  },
-  {
-      "id": "bud_us_red_crown_clean_01",
-      "brand": "Budweiser",
-      "series": "Red crown (clean)",
-      "image": "images/Budweiser/bud_us_red_crown_clean_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_crown_worn_01",
-      "brand": "Budweiser",
-      "series": "Red crown (worn)",
-      "image": "images/Budweiser/bud_us_red_crown_worn_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_budjovice_01",
-      "brand": "Budweiser",
-      "series": "Budějovice crest",
-      "image": "images/Budweiser/bud_us_red_budjovice_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_bowtie_clean_01",
-      "brand": "Budweiser",
-      "series": "Red bowtie (clean)",
-      "image": "images/Budweiser/bud_us_red_bowtie_clean_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_bowtie_worn_01",
-      "brand": "Budweiser",
-      "series": "Red bowtie (worn)",
-      "image": "images/Budweiser/bud_us_red_bowtie_worn_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_king_beers_01",
-      "brand": "Budweiser",
-      "series": "King of Beers (vintage)",
-      "image": "images/Budweiser/bud_us_red_king_beers_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_since1876_01",
-      "brand": "Budweiser",
-      "series": "Since 1876 (vintage)",
-      "image": "images/Budweiser/bud_us_red_since1876_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_crown_variant_01",
-      "brand": "Budweiser",
-      "series": "Red crown variant (clean)",
-      "image": "images/Budweiser/bud_us_red_crown_variant_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_bowtie_variant_01",
-      "brand": "Budweiser",
-      "series": "Red bowtie variant (worn)",
-      "image": "images/Budweiser/bud_us_red_bowtie_variant_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_king_beers_variant_01",
-      "brand": "Budweiser",
-      "series": "King of Beers variant (vintage)",
-      "image": "images/Budweiser/bud_us_red_king_beers_variant_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-  {
-      "id": "bud_us_red_global_crest_clean_01",
-      "brand": "Budweiser",
-      "series": "Global crest (clean)",
-      "image": "images/Budweiser/bud_us_red_global_crest_clean_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_global_crest_worn_01",
-      "brand": "Budweiser",
-      "series": "Global crest (worn)",
-      "image": "images/Budweiser/bud_us_red_global_crest_worn_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_global_crest_variant_01",
-      "brand": "Budweiser",
-      "series": "Global crest variant (worn)",
-      "image": "images/Budweiser/bud_us_red_global_crest_variant_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_global_crest_worn_02",
-      "brand": "Budweiser",
-      "series": "Global crest (worn, faded)",
-      "image": "images/Budweiser/bud_us_red_global_crest_worn_02.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_global_crest_clean_02",
-      "brand": "Budweiser",
-      "series": "Global crest (clean, sealed)",
-      "image": "images/Budweiser/bud_us_red_global_crest_clean_02.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-    {
-      "id": "bud_us_red_global_crest_variant_02",
-      "brand": "Budweiser",
-      "series": "Global crest variant (worn, blue mark)",
-      "image": "images/Budweiser/bud_us_red_global_crest_variant_02.jpg",
-      "country": "US",
-      "year": null,
-      "description": null
-    },
-  {
-      "id": "spr_us_green_logo_clean_01",
-      "brand": "Sprite",
-      "series": "Green logo",
-      "image": "images/Sprite/spr_us_green_logo_clean_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Clean Sprite cap with green logo"
-    },
-    {
-      "id": "spr_us_green_logo_worn_01",
-      "brand": "Sprite",
-      "series": "Green logo",
-      "image": "images/Sprite/spr_us_green_logo_worn_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Worn Sprite cap with green logo"
-    },
-    {
-      "id": "spr_us_green_logo_variant_01",
-      "brand": "Sprite",
-      "series": "Green logo variant",
-      "image": "images/Sprite/spr_us_green_logo_variant_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Variant Sprite cap with green logo"
-    },
-    {
-      "id": "spr_us_green_fizz_clean_01",
-      "brand": "Sprite",
-      "series": "Fizz design",
-      "image": "images/Sprite/spr_us_green_fizz_clean_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Clean Sprite cap with fizz design"
-    },
-    {
-      "id": "spr_us_green_fizz_worn_01",
-      "brand": "Sprite",
-      "series": "Fizz design",
-      "image": "images/Sprite/spr_us_green_fizz_worn_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Worn Sprite cap with fizz design"
-    },
-    {
-      "id": "spr_us_green_fizz_variant_01",
-      "brand": "Sprite",
-      "series": "Fizz design variant",
-      "image": "images/Sprite/spr_us_green_fizz_variant_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Variant Sprite cap with fizz design"
-    },
-    {
-      "id": "spr_us_green_seal_clean_01",
-      "brand": "Sprite",
-      "series": "Seal design",
-      "image": "images/Sprite/spr_us_green_seal_clean_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Clean Sprite cap with seal design"
-    },
-    {
-      "id": "spr_us_green_seal_worn_01",
-      "brand": "Sprite",
-      "series": "Seal design",
-      "image": "images/Sprite/spr_us_green_seal_worn_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Worn Sprite cap with seal design"
-    },
-    {
-      "id": "spr_us_green_seal_variant_01",
-      "brand": "Sprite",
-      "series": "Seal design variant",
-      "image": "images/Sprite/spr_us_green_seal_variant_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Variant Sprite cap with seal design"
-    },
-    {
-      "id": "spr_us_green_recycle_clean_01",
-      "brand": "Sprite",
-      "series": "Recycle symbol",
-      "image": "images/Sprite/spr_us_green_recycle_clean_01.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Clean Sprite cap with recycle symbol"
-    },
-    {
-      "id": "spr_us_green_logo_clean_02",
-      "brand": "Sprite",
-      "series": "Green logo",
-      "image": "images/Sprite/spr_us_green_logo_clean_02.jpg",
-      "country": "US",
-      "year": "1994",
-      "description": "Clean Sprite cap with green logo and vintage 1994 design"
-    },
-    {
-      "id": "spr_us_green_lemonlime_worn_01",
-      "brand": "Sprite",
-      "series": "Lemon-lime design",
-      "image": "images/Sprite/spr_us_green_lemonlime_worn_01.jpg",
-      "country": "Poland",
-      "year": "2018",
-      "description": "Worn Sprite cap with lemon-lime design and Poland distributor info"
-    },
-    {
-      "id": "spr_us_green_logo_vintage_01",
-      "brand": "Sprite",
-      "series": "Green logo vintage",
-      "image": "images/Sprite/spr_us_green_logo_vintage_01.jpg",
-      "country": "US",
-      "year": "1994",
-      "description": "Vintage Sprite cap with green logo and blue-yellow colors"
-    },
-    {
-      "id": "spr_us_green_logo_clean_03",
-      "brand": "Sprite",
-      "series": "Green logo",
-      "image": "images/Sprite/spr_us_green_logo_clean_03.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Clean Sprite cap with green logo and certification mark"
-    },
-    {
-      "id": "spr_us_green_lemonlime_clean_01",
-      "brand": "Sprite",
-      "series": "Lemon-lime design",
-      "image": "images/Sprite/spr_us_green_lemonlime_clean_01.jpg",
-      "country": "Poland",
-      "year": "2018",
-      "description": "Clean Sprite cap with lemon-lime design and Poland distributor info"
-    },
-    {
-      "id": "spr_us_green_logo_worn_02",
-      "brand": "Sprite",
-      "series": "Green logo",
-      "image": "images/Sprite/spr_us_green_logo_worn_02.jpg",
-      "country": "US",
-      "year": null,
-      "description": "Worn Sprite cap with green logo"
-    }
+    "description": "Worn Sprite cap with green logo"
+  }
+
+  /* ——— Remaining brands (Okocim, Grolsch, Specjal, Beck's, Eichbaum, Lech, Budweiser, Redd's, Łomża etc.) kept their original full-name countries ——— */
 ]
