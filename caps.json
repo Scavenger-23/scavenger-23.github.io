@@ -1,4 +1,41 @@
-[{
+[
+  {
+    "id": "crn_mex_extra_yellowrim_01",
+    "brand": "Corona",
+    "series": "Extra",
+    "image": "images/Corona/crn_mex_extra_yellowrim_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Navy blue cap with white 'Corona Extra' text and crown, yellow outer rim"
+  },
+  {
+    "id": "crn_mex_extra_whiterim_02",
+    "brand": "Corona",
+    "series": "Extra",
+    "image": "images/Corona/crn_mex_extra_whiterim_02.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Navy blue cap with white 'Corona Extra' and white outer rim, with crown icon"
+  },
+  {
+    "id": "crn_mex_light_yellow_03",
+    "brand": "Corona",
+    "series": "Light",
+    "image": "images/Corona/crn_mex_light_yellow_03.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Yellow cap with blackletter 'Corona Light' and crown emblem in black"
+  },
+  {
+    "id": "crn_mex_coronita_04",
+    "brand": "Corona",
+    "series": "Coronita",
+    "image": "images/Corona/crn_mex_coronita_04.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Navy blue cap with white text 'Coronita cerveza' and crown, yellow rim"
+  },
+    {
     "id": "bsm_pol_bluepromo_01",
     "brand": "Bosman",
     "series": "Promocja",
