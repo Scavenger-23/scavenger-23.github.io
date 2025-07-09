@@ -1,4 +1,58 @@
 [{
+    "id": "kop_swe_blacklime_01",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_blacklime_01.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with green semi-circle and gold 'Kopparberg' logo, 'Premium' in white"
+  },
+  {
+    "id": "kop_swe_blackpink_02",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_blackpink_02.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with pink semi-circle design and gold 'Kopparberg' logo, 'Premium' in white"
+  },
+  {
+    "id": "kop_swe_blackredarc_03",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_blackredarc_03.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with red curved stripe and gold 'Kopparberg' logo, 'Premium' in white"
+  },
+  {
+    "id": "kop_swe_redband_04",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_redband_04.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with thick red band around edge and gold 'Kopparberg' logo, 'Premium' in white"
+  },
+  {
+    "id": "kop_swe_recycle_05",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_recycle_05.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with white 'Please recycle me' and yellow 'Kopparberg' logo"
+  },
+  {
+    "id": "kop_swe_blackplain_06",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_blackplain_06.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Plain black cap with gold 'Kopparberg' and white 'Premium' text, no colored rim"
+  },
+    {
     "id": "des_fra_greenparty_01",
     "brand": "Desperados",
     "series": "Classic",
