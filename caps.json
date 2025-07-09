@@ -1,4 +1,49 @@
 [{
+  "id": "bri_uk_orangebanner_01",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_orangebanner_01.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Orange cap with Britvic logo and white text"
+},
+{
+  "id": "bri_uk_greenbanner_02",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_greenbanner_02.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green cap with faded Britvic logo and white text"
+},
+{
+  "id": "bri_uk_orangegreen_03",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_orangegreen_03.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Orange and green cap with detailed Britvic design and white text"
+},
+{
+  "id": "bri_uk_rustyorange_04",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_rustyorange_04.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Rusty orange cap with weathered Britvic logo and white text"
+},
+{
+  "id": "bri_uk_fadedgreen_05",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_fadedgreen_05.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Faded green cap with rust and Britvic logo, white text"
+},
+    {
     "id": "bro_uk_orangeb_01",
     "brand": "Brothers",
     "series": "Classic",
