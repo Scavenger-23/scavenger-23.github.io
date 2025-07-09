@@ -1,5 +1,41 @@
 [
   {
+    "id": "css_kor_lemon_green_01",
+    "brand": "Cass",
+    "series": "Lemon",
+    "image": "images/Cass/css_kor_lemon_green_01.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Lime green twist cap with white 'Cass Lemon' logo and Korean text"
+  },
+  {
+    "id": "css_kor_light_blue_02",
+    "brand": "Cass",
+    "series": "Light",
+    "image": "images/Cass/css_kor_light_blue_02.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Blue cap with 'Cass Light' text and yellow/green burst, with Korean writing around the rim"
+  },
+  {
+    "id": "css_kor_fresh_gold_03",
+    "brand": "Cass",
+    "series": "Fresh",
+    "image": "images/Cass/css_kor_fresh_gold_03.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Gold-toned cap with 'Cass Fresh' in blue, bordered by a colorful tax stamp and Korean writing"
+  },
+  {
+    "id": "css_kor_fresh_silver_04",
+    "brand": "Cass",
+    "series": "Fresh",
+    "image": "images/Cass/css_kor_fresh_silver_04.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Silver cap with blue 'Cass Fresh' logo, includes tax stamp design and Korean text"
+  },
+  {
     "id": "crn_mex_extra_yellowrim_01",
     "brand": "Corona",
     "series": "Extra",
