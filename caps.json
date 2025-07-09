@@ -1,5 +1,50 @@
 [
   {
+    "id": "hite_kor_plainwhite_01",
+    "brand": "Hite",
+    "series": "Standard",
+    "image": "images/Hite/hite_kor_plainwhite_01.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "White cap with gothic black 'hite' text in lowercase, no additional markings"
+  },
+  {
+    "id": "hite_kor_classicwhite_02",
+    "brand": "Hite",
+    "series": "Classic",
+    "image": "images/Hite/hite_kor_classicwhite_02.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "White cap with gothic 'hite' text and blue Korean decorative borders at top and bottom"
+  },
+  {
+    "id": "hite_kor_greenslant_03",
+    "brand": "Hite",
+    "series": "Green Label",
+    "image": "images/Hite/hite_kor_greenslant_03.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Green cap with slanted white 'hite' text and blue shadows"
+  },
+  {
+    "id": "hite_kor_blueswish_04",
+    "brand": "Hite",
+    "series": "Cool Blue",
+    "image": "images/Hite/hite_kor_blueswish_04.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Bright blue cap with italic 'hite' and swoosh underline"
+  },
+  {
+    "id": "hite_kor_darkgreen_05",
+    "brand": "Hite",
+    "series": "Green",
+    "image": "images/Hite/hite_kor_darkgreen_05.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Dark green cap with bold white 'Hite' text, slightly slanted"
+  },
+  {
     "id": "prl_pol_miodowa_01",
     "brand": "Perła",
     "series": "Miodowa",
