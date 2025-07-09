@@ -1,4 +1,67 @@
 [{
+  "id": "zub_pl_greenbanner_01",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with brown bison emblem and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_02",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_02.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with detailed bison illustration and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_03",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_03.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with bison head emblem and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_04",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_04.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with stylized bison design and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_05",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_05.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with bison silhouette and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_06",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_06.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with bison emblem and faded white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_07",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_07.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with robust bison design and white Żubr text"
+},
+  {
   "id": "pep_us_bluebanner_01",
   "brand": "Pepsi",
   "series": "Classic",
