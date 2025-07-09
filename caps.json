@@ -1,5 +1,50 @@
 [
   {
+    "id": "prl_pol_miodowa_01",
+    "brand": "Perła",
+    "series": "Miodowa",
+    "image": "images/Perla/prl_pol_miodowa_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with honeycomb background and red Perła logo, 'Miodowa' in cursive font"
+  },
+  {
+    "id": "prl_pol_chmielowa_02",
+    "brand": "Perła",
+    "series": "Chmielowa",
+    "image": "images/Perla/prl_pol_chmielowa_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green cap with red Perła logo and 'Chmielowa' in white serif font below"
+  },
+  {
+    "id": "prl_pol_export_03",
+    "brand": "Perła",
+    "series": "Export",
+    "image": "images/Perla/prl_pol_export_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with green border, red Perła logo, and 'export' in red lowercase text"
+  },
+  {
+    "id": "prl_pol_niepasteryzowana_04",
+    "brand": "Perła",
+    "series": "Niepasteryzowana",
+    "image": "images/Perla/prl_pol_niepasteryzowana_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red Perła logo and 'NIEPASTERYZOWANA' in brown uppercase letters"
+  },
+  {
+    "id": "prl_pol_koziak_05",
+    "brand": "Perła",
+    "series": "Koźlak",
+    "image": "images/Perla/prl_pol_koziak_05.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Golden cap with goat head illustration, circular 'Perła - Browary Lubelskie S.A.' text and 'Koźlak'"
+  },
+  {
     "id": "mrn_usa_fruitysilver_01",
     "brand": "Mirinda",
     "series": "Fruity",
