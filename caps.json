@@ -1,4 +1,67 @@
 [{
+  "id": "moo_ca_redbanner_01",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_01.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose head emblem, white Moosehead text, and black Pale Ale label"
+},
+{
+  "id": "moo_ca_redbanner_02",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_02.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose head illustration, white Moosehead text, and gold accents"
+},
+{
+  "id": "moo_ca_redbanner_03",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_03.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose emblem, white Moosehead text, and black Pale Ale lettering"
+},
+{
+  "id": "moo_ca_redbanner_04",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_04.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with detailed moose head, white Moosehead text, and gold ribbon"
+},
+{
+  "id": "moo_ca_redbanner_05",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_05.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose illustration, white Moosehead text, and black Pale Ale label"
+},
+{
+  "id": "moo_ca_redbanner_06",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_06.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose head design, white Moosehead text, and gold accents"
+},
+{
+  "id": "moo_ca_redbanner_07",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_07.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose emblem, white Moosehead text, and black Pale Ale lettering"
+},
+  {
   "id": "kal_lt_bluebanner_01",
   "brand": "Kalnapilis",
   "series": "Classic",
