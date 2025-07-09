@@ -1,4 +1,48 @@
-[
+[{
+    "id": "prm_cze_white16_01",
+    "brand": "Primátor",
+    "series": "16%",
+    "image": "images/Primator/prm_cze_white16_01.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with red Primátor logo and bold '16%' in textured gray font"
+  },
+  {
+    "id": "prm_cze_white21_02",
+    "brand": "Primátor",
+    "series": "21%",
+    "image": "images/Primator/prm_cze_white21_02.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with red Primátor logo and bold '21%' in textured gray font"
+  },
+  {
+    "id": "prm_cze_whiteclassic_03",
+    "brand": "Primátor",
+    "series": "Classic",
+    "image": "images/Primator/prm_cze_whiteclassic_03.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with 'Založeno 1872', red Primátor logo, and 'Pivovar Náchod'"
+  },
+  {
+    "id": "prm_cze_purpleclover_04",
+    "brand": "Primátor",
+    "series": "Limited",
+    "image": "images/Primator/prm_cze_purpleclover_04.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "Purple cap with Primátor logo, green cloverleaf, and 'Pivovar Náchod a.s.'"
+  },
+  {
+    "id": "prm_cze_white24_05",
+    "brand": "Primátor",
+    "series": "24%",
+    "image": "images/Primator/prm_cze_white24_05.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with red Primátor logo and bold '24%' in shaded gray font"
+  },
   {
     "id": "hite_kor_plainwhite_01",
     "brand": "Hite",
