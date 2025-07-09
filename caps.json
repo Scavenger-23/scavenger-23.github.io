@@ -1,4 +1,40 @@
 [{
+    "id": "max_us_twist_01",
+    "brand": "Max",
+    "series": "Twist",
+    "image": "images/Max/max_us_twist_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with blue 'Max' text and 'Twist' branding"
+  },
+  {
+    "id": "max_us_cream_02",
+    "brand": "Max",
+    "series": "Cream",
+    "image": "images/Max/max_us_cream_02.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with blue 'Max' text and 'Cream All Malt Beer' text"
+  },
+  {
+    "id": "max_us_rich_taste_03",
+    "brand": "Max",
+    "series": "Rich Taste",
+    "image": "images/Max/max_us_rich_taste_03.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with blue 'Max' text and 'Climax of Rich Taste' slogan"
+  },
+  {
+    "id": "max_us_original_04",
+    "brand": "Max",
+    "series": "Original",
+    "image": "images/Max/max_us_original_04.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with blue 'Max' text and minimalist design"
+  },
+    {
     "id": "kasztelan_pl_biate_01",
     "brand": "Kasztelan",
     "series": "Białe",
