@@ -1,4 +1,58 @@
 [{
+  "id": "j2o_uk_greenbanner_01",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_greenbanner_01.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green cap with J2O logo and white text"
+},
+{
+  "id": "j2o_uk_greenbanner_02",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_greenbanner_02.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green cap with faded J2O logo and white text"
+},
+{
+  "id": "j2o_uk_greenred_03",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_greenred_03.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green and red cap with detailed J2O design and white text"
+},
+{
+  "id": "j2o_uk_rustygreen_04",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_rustygreen_04.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Rusty green cap with weathered J2O logo and white text"
+},
+{
+  "id": "j2o_uk_greenpink_05",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_greenpink_05.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green and pink cap with stylized J2O design and white text"
+},
+{
+  "id": "j2o_uk_fadedgreen_06",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_fadedgreen_06.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Faded green cap with rust and J2O logo, white text"
+},
+  {
   "id": "bal_ru_yellowblue_01",
   "brand": "Baltika",
   "series": "Classic",
