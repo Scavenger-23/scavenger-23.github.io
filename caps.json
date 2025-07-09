@@ -1,4 +1,66 @@
-[
+[{
+  "id": "eib_de_bluebanner_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_bluebanner_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Blue cap with white Eibauer text and gold border"
+},
+{
+  "id": "eib_de_whitebanner_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_whitebanner_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White cap with red Eibauer text"
+},
+{
+  "id": "eib_de_goldbanner_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_goldbanner_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Gold cap with white Eibauer text"
+},
+{
+  "id": "eib_de_bluegold_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_bluegold_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Blue cap with gold border and white Eibauer text"
+},
+{
+  "id": "eib_de_whitered_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_whitered_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White cap with red Eibauer text"
+},
+{
+  "id": "eib_de_bluewhite_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_bluewhite_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Blue cap with white Eibauer text"
+},
+{
+  "id": "eib_de_goldwhite_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_goldwhite_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Gold cap with white Eibauer text"
+},
   {
     "id": "agu_co_bluebanner_precio_01",
     "brand": "Aguila",
