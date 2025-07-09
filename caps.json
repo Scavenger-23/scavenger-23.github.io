@@ -1,4 +1,67 @@
 [{
+    "id": "des_fra_greenparty_01",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_greenparty_01.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Green cap with agave logo, 'TEQUILA FLAVOURED', and Polish text 'WYGRYWAJ PARTY SET'"
+  },
+  {
+    "id": "des_fra_vintagegold_02",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_vintagegold_02.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Gold and red cap with large 'DESPERADOS' text and aged texture"
+  },
+  {
+    "id": "des_fra_blacksilver_03",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_blacksilver_03.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Black cap with silver 'DESPERADOS' logo, 'Tequila Flavoured Beer' and Polish text"
+  },
+  {
+    "id": "des_fra_goldredmulti_04",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_goldredmulti_04.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Gold cap with multiple red 'Desperados' emblems and French text"
+  },
+  {
+    "id": "des_fra_redwhite_05",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_redwhite_05.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Bright red cap with white 'DESPERADOS' logo and 'Tequila Flavoured Beer'"
+  },
+  {
+    "id": "des_fra_tequilapurple_06",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_tequilapurple_06.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Purple cap with agave plant symbol and 'TEQUILA FLAVOURED' in white text"
+  },
+  {
+    "id": "des_fra_golddistressed_07",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_golddistressed_07.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Distressed gold cap with red 'DESPERADOS' logo and surrounding red text"
+  },
+  {
   "id": "bri_uk_orangebanner_01",
   "brand": "Britvic",
   "series": "Classic",
