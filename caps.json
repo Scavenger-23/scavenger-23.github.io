@@ -1,4 +1,49 @@
 [{
+    "id": "bro_uk_orangeb_01",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_orangeb_01.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Orange cap with large white 'B'"
+  },
+  {
+    "id": "bro_uk_greensplash_02",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_greensplash_02.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Green cap with blue splash and yellow 'BROTHERS' text"
+  },
+  {
+    "id": "bro_uk_redlabel_03",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_redlabel_03.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Red cap with small blue rectangle and yellow 'BROTHERS' text"
+  },
+  {
+    "id": "bro_uk_purplesplash_04",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_purplesplash_04.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Purple cap with blue splash and yellow 'BROTHERS' text"
+  },
+  {
+    "id": "bro_uk_yellowlabel_05",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_yellowlabel_05.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Yellow cap with blue rectangle and yellow 'BROTHERS' text"
+  },
+  {
   "id": "vk_uk_pinkbanner_01",
   "brand": "VK",
   "series": "Classic",
