@@ -1,5 +1,77 @@
 [
   {
+    "id": "warka_pl_classic_red_1478_01",
+    "brand": "Warka",
+    "series": "Classic Red",
+    "image": "images/Warka/warka_pl_classic_red_1478_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with white WARKA logo in gold-trimmed shield, gold '1478' below"
+  },
+  {
+    "id": "warka_pl_uznany_smak_castle_01",
+    "brand": "Warka",
+    "series": "Uznany Smak",
+    "image": "images/Warka/warka_pl_uznany_smak_castle_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap, WARKA logo with golden castle and ribbon text 'Uznany Smak', 'A.D.1478'"
+  },
+  {
+    "id": "warka_pl_radler_plain_lemon_01",
+    "brand": "Warka",
+    "series": "Radler – Lemon",
+    "image": "images/Warka/warka_pl_radler_plain_lemon_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with green 'Radler' text over lemon slice, no Warka branding"
+  },
+  {
+    "id": "warka_pl_radler_blue_lemon_00_01",
+    "brand": "Warka",
+    "series": "Radler – Lemon 0.0%",
+    "image": "images/Warka/warka_pl_radler_blue_lemon_00_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue cap with lemon graphic, WARKA logo and white 'Radler 0.0%' text"
+  },
+  {
+    "id": "warka_pl_radler_green_lime_01",
+    "brand": "Warka",
+    "series": "Radler – Lime",
+    "image": "images/Warka/warka_pl_radler_green_lime_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow-green cap with lime graphic, green 'Radler' text and red WARKA logo"
+  },
+  {
+    "id": "warka_pl_classic_1478_brewer_01",
+    "brand": "Warka",
+    "series": "Classic – Brewer",
+    "image": "images/Warka/warka_pl_classic_1478_brewer_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with WARKA logo, gold brewery crest above, and '1478' below"
+  },
+  {
+    "id": "warka_pl_radler_yellow_lemon_01",
+    "brand": "Warka",
+    "series": "Radler – Lemon",
+    "image": "images/Warka/warka_pl_radler_yellow_lemon_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with lemon graphic, green 'Radler' and red WARKA logo"
+  },
+  {
+    "id": "warka_pl_classic_ad1478_goldrim_01",
+    "brand": "Warka",
+    "series": "Classic – A.D. 1478",
+    "image": "images/Warka/warka_pl_classic_ad1478_goldrim_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with gold-rimmed WARKA logo and text 'A.D. 1478'"
+  },
+  {
     "id": "tat_pl_black_z_charakterem_01",
     "brand": "Tatra",
     "series": "Z Charakterem",
