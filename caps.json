@@ -1,5 +1,68 @@
 [
   {
+    "id": "agu_co_bluebanner_precio_01",
+    "brand": "Aguila",
+    "series": "Precio Sugerido",
+    "image": "images/Aguila/agu_co_bluebanner_precio_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap with blue-red AGUILA banner and black text 'PÍDELA A PRECIO SUGERIDO'"
+  },
+  {
+    "id": "agu_co_bluebanner_classic_01",
+    "brand": "Aguila",
+    "series": "Classic",
+    "image": "images/Aguila/agu_co_bluebanner_classic_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Plain yellow cap with central blue-red AGUILA banner and no additional text"
+  },
+  {
+    "id": "agu_co_bluebanner_1200_01",
+    "brand": "Aguila",
+    "series": "Precio Sugerido",
+    "image": "images/Aguila/agu_co_bluebanner_1200_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap, AGUILA logo beneath black 'REFRÉSCATE POR SÓLO $1.200 - PRECIO SUGERIDO'"
+  },
+  {
+    "id": "agu_co_goool_mundialista_01",
+    "brand": "Aguila",
+    "series": "Goool Mundialista",
+    "image": "images/Aguila/agu_co_goool_mundialista_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap, maroon 'GOOOL MUNDIALISTA' text above AGUILA banner"
+  },
+  {
+    "id": "agu_co_bluebanner_1000_01",
+    "brand": "Aguila",
+    "series": "Precio Sugerido",
+    "image": "images/Aguila/agu_co_bluebanner_1000_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap with AGUILA banner and black 'POR SÓLO $1.000 - PRECIO SUGERIDO'"
+  },
+  {
+    "id": "agu_co_bluebanner_1300_01",
+    "brand": "Aguila",
+    "series": "Precio Sugerido",
+    "image": "images/Aguila/agu_co_bluebanner_1300_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap with red '$1.300 PRECIO SUGERIDO' above blue AGUILA banner"
+  },
+  {
+    "id": "agu_co_light_eagle_01",
+    "brand": "Aguila",
+    "series": "Light",
+    "image": "images/Aguila/agu_co_light_eagle_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Silver cap with eagle above globe, AGUILA LIGHT logo in blue banner"
+  },
+  {
     "id": "warka_pl_classic_red_1478_01",
     "brand": "Warka",
     "series": "Classic Red",
