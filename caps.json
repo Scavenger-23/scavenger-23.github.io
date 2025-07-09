@@ -1,5 +1,41 @@
 [
   {
+    "id": "holsten_de_export_01",
+    "brand": "Holsten",
+    "series": "Export",
+    "image": "images/Holsten/holsten_de_export_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Gold cap with blue rim, knight on horse emblem, and 'Holsten Export' text"
+  },
+  {
+    "id": "holsten_de_pils_02",
+    "brand": "Holsten",
+    "series": "Pils",
+    "image": "images/Holsten/holsten_de_pils_02.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Silver cap with green rim, knight on horse emblem, and 'Holsten Pils' text"
+  },
+  {
+    "id": "holsten_de_original_03",
+    "brand": "Holsten",
+    "series": "Original",
+    "image": "images/Holsten/holsten_de_original_03.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Gold cap with red rim, knight on horse emblem, and 'Holsten Original' text"
+  },
+  {
+    "id": "holsten_de_premium_04",
+    "brand": "Holsten",
+    "series": "Premium",
+    "image": "images/Holsten/holsten_de_premium_04.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Silver cap with blue rim, knight on horse emblem, and 'Holsten Premium' text"
+  },
+  {
     "id": "guinness_ie_malta_01",
     "brand": "Guinness",
     "series": "Malta",
