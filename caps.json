@@ -1,4 +1,58 @@
 [{
+  "id": "bal_ru_yellowblue_01",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_yellowblue_01.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Yellow and blue cap with 8 emblem and white Baltika text"
+},
+{
+  "id": "bal_ru_bluebanner_02",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_bluebanner_02.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Blue cap with faded 8 emblem and white Baltika text"
+},
+{
+  "id": "bal_ru_redbanner_03",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_redbanner_03.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Red cap with 9 emblem and white Baltika text"
+},
+{
+  "id": "bal_ru_yellowbanner_04",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_yellowbanner_04.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Yellow cap with weathered 8 emblem and white Baltika text"
+},
+{
+  "id": "bal_ru_redblue_05",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_redblue_05.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Red and blue cap with stylized 9 design and white Baltika text"
+},
+{
+  "id": "bal_ru_rustyred_06",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_rustyred_06.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Rusty red cap with 8 emblem and white Baltika text"
+},
+  {
   "id": "bac_cu_orangebanner_01",
   "brand": "Bacardi",
   "series": "Classic",
