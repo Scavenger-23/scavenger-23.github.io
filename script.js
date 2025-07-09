@@ -111,11 +111,14 @@ function renderGallery (){
   });
 
   /* sort */
-  if(sortMode==='brand'){
-    shown.sort((a,b)=>a.brand.localeCompare(b.brand)||a.series.localeCompare(b.series));
-  }else if(sortMode==='year'){
-    shown.sort((a,b)=>(b.year||0)-(a.year||0));
-  } /* 'added' keeps JSON order */
+  if (sortMode === 'brand') {
+  shown.sort((a, b) =>
+    a.brand.localeCompare(b.brand) || a.series.localeCompare(b.series));
+} else if (sortMode === 'country') {
+  shown.sort((a, b) =>
+    (a.country || '').localeCompare(b.country || '') ||
+    a.brand.localeCompare(b.brand));      // tidy secondary key
+} /* 'added' keeps JSON order */
 
   /* build grid */
   grid.innerHTML = '';
