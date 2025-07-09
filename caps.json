@@ -1,4 +1,58 @@
 [{
+  "id": "vk_uk_pinkbanner_01",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_pinkbanner_01.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Pink cap with VK logo and white text"
+},
+{
+  "id": "vk_uk_redbanner_02",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_redbanner_02.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Red cap with faded VK logo and white text"
+},
+{
+  "id": "vk_uk_pinkred_03",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_pinkred_03.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Pink and red cap with detailed VK design and white text"
+},
+{
+  "id": "vk_uk_rustypink_04",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_rustypink_04.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Rusty pink cap with weathered VK logo and white text"
+},
+{
+  "id": "vk_uk_redpink_05",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_redpink_05.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Red and pink cap with stylized VK design and white text"
+},
+{
+  "id": "vk_uk_fadedred_06",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_fadedred_06.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Faded red cap with rust and VK logo, white text"
+},
+  {
   "id": "svy_lt_goldbanner_01",
   "brand": "Švyturys",
   "series": "1784 Classic",
