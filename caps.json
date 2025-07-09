@@ -62,8 +62,6 @@
     "year": null,
     "description": "Silver cap with eagle above globe, AGUILA LIGHT logo in blue banner"
   },
-
-  /* ——— Warka ——— */
   {
     "id": "warka_pl_classic_red_1478_01",
     "brand": "Warka",
@@ -136,8 +134,6 @@
     "year": null,
     "description": "Red cap with gold-rimmed WARKA logo and text 'A.D. 1478'"
   },
-
-  /* ——— Tatra ——— */
   {
     "id": "tat_pl_black_z_charakterem_01",
     "brand": "Tatra",
@@ -210,8 +206,6 @@
     "year": null,
     "description": "Yellow cap with black mountains, flying bird and TATRA Jasne Pełne text"
   },
-
-  /* ——— Carlsberg ——— */
   {
     "id": "car_dk_green_logo_twist_01",
     "brand": "Carlsberg",
