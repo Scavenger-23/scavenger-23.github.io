@@ -1,4 +1,40 @@
-[  {
+[ {
+    "id": "pilsen_co_red_star_01",
+    "brand": "Pilsen",
+    "series": "Red Star",
+    "image": "images/Pilsen/pilsen_co_red_star_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with white star and 'Pilsen' text, priced at 1.20"
+  },
+  {
+    "id": "pilsen_co_vintage_02",
+    "brand": "Pilsen",
+    "series": "Vintage",
+    "image": "images/Pilsen/pilsen_co_vintage_02.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with faded star and 'Pilsen' text, worn vintage look"
+  },
+  {
+    "id": "pilsen_co_premium_03",
+    "brand": "Pilsen",
+    "series": "Premium",
+    "image": "images/Pilsen/pilsen_co_premium_03.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with gold star and 'Pilsen Premium' text"
+  },
+  {
+    "id": "pilsen_co_classic_04",
+    "brand": "Pilsen",
+    "series": "Classic",
+    "image": "images/Pilsen/pilsen_co_classic_04.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with white star and 'Pilsen 1300' text"
+  },
+    {
     "id": "miller_us_lite_01",
     "brand": "Miller",
     "series": "Lite",
