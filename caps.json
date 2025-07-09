@@ -1,4 +1,67 @@
 [{
+  "id": "kal_lt_bluebanner_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_bluebanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Blue cap with white Kalnapilis text, red triangle, and yellow wreath"
+},
+{
+  "id": "kal_lt_goldbanner_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_goldbanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Gold cap with white Kalnapilis text, red triangle, and yellow wreath"
+},
+{
+  "id": "kal_lt_greenbanner_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_greenbanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Green cap with red triangle, yellow pattern, and white accents"
+},
+{
+  "id": "kal_lt_blackbanner_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_blackbanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Black cap with white Kalnapilis text, red triangle, and yellow wreath"
+},
+{
+  "id": "kal_lt_bluewreath_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_bluewreath_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Blue cap with white Kalnapilis text and yellow wreath"
+},
+{
+  "id": "kal_lt_greenwreath_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_greenwreath_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Green cap with white Kalnapilis text and yellow wreath"
+},
+{
+  "id": "kal_lt_goldwreath_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_goldwreath_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Gold cap with white Kalnapilis text and yellow wreath"
+},
+  {
   "id": "eib_de_bluebanner_01",
   "brand": "Eibauer",
   "series": "Classic",
