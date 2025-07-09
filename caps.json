@@ -1,5 +1,50 @@
 [
   {
+    "id": "ft_id_blackcurrant10y_01",
+    "brand": "Fruit Tea Sosro",
+    "series": "Anniversary",
+    "image": "images/FruitTea/ft_id_blackcurrant10y_01.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Purple cap with yellow Fruit Tea logo and text 'trustea friend for 10 years', BLACKCURRANT flavor"
+  },
+  {
+    "id": "ft_id_xtremeapel_02",
+    "brand": "Fruit Tea Sosro",
+    "series": "X-TREME",
+    "image": "images/FruitTea/ft_id_xtremeapel_02.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Purple and red cap with yellow logo and text 'X-TREME Minuman Teh Rasa APEL-BLACKCURRANT'"
+  },
+  {
+    "id": "ft_id_blackcurrantclassic_03",
+    "brand": "Fruit Tea Sosro",
+    "series": "Classic",
+    "image": "images/FruitTea/ft_id_blackcurrantclassic_03.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Classic purple cap with yellow logo and 'Minuman Teh Rasa BLACKCURRANT'"
+  },
+  {
+    "id": "ft_id_fusionstrawang_04",
+    "brand": "Fruit Tea Sosro",
+    "series": "Fusion",
+    "image": "images/FruitTea/ft_id_fusionstrawang_04.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Pink and purple cap with 'FUSION Minuman Teh Rasa STRAWBERI - ANGGUR'"
+  },
+  {
+    "id": "ft_id_apelclassic_05",
+    "brand": "Fruit Tea Sosro",
+    "series": "Classic",
+    "image": "images/FruitTea/ft_id_apelclassic_05.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Red and pink cap with yellow logo and 'Minuman Teh Rasa APEL'"
+  },
+  {
     "id": "ksz_pol_goldbrown_01",
     "brand": "Książęce",
     "series": "Kolekcja Specjalności",
