@@ -1,4 +1,40 @@
 [{
+"id": "windmill_uk_classic_01",
+"brand": "Windmill",
+"series": "Classic",
+"image": "images/Windmill/windmill_uk_classic_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Green cap with a windmill crest in white."
+},
+{
+"id": "windmill_uk_classic_02",
+"brand": "Windmill",
+"series": "Classic",
+"image": "images/Windmill/windmill_uk_classic_02.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Orange cap with a windmill crest in yellow."
+},
+{
+"id": "windmill_uk_classic_03",
+"brand": "Windmill",
+"series": "Classic",
+"image": "images/Windmill/windmill_uk_classic_03.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Gold cap with a windmill crest in black."
+},
+{
+"id": "windmill_uk_classic_04",
+"brand": "Windmill",
+"series": "Classic",
+"image": "images/Windmill/windmill_uk_classic_04.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Dark gold cap with a windmill crest in yellow."
+},
+{
     "id": "twistoff_uk_white_01",
     "brand": "Generic",
     "series": "Twist-Off",
