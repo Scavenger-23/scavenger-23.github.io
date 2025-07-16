@@ -1,4 +1,22 @@
 [{
+  "id": "roc_bel_10_01",
+  "brand": "Rochefort",
+  "series": "10",
+  "image": "images/Rochefort/roc_bel_10_01.jpg",
+  "country": "Belgium",
+  "year": null,
+  "description": "Purple cap with white concentric rings; legend 'BIERE DES TRAPPISTES - ROCHEFORT -' around large '10 Cat.S' in center."
+},
+{
+  "id": "roc_bel_8_01",
+  "brand": "Rochefort",
+  "series": "8",
+  "image": "images/Rochefort/roc_bel_8_01.jpg",
+  "country": "Belgium",
+  "year": null,
+  "description": "Green-and-white cap with legend 'BIERE DES TRAPPISTES - ROCHEFORT -' around large '8 Cat.S' in center."
+},
+  {
   "id": "fre_gbr_elephant_01",
   "brand": "Fremlin's",
   "series": "Elephant",
