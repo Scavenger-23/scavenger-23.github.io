@@ -1,4 +1,31 @@
 [{
+  "id": "fre_gbr_elephant_01",
+  "brand": "Fremlin's",
+  "series": "Elephant",
+  "image": "images/Fremlins/fre_gbr_elephant_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Black cap with white Fremlin's elephant over ribbon 'TRADE MARK REGISTERED SINCE 1861' (worn; digits may appear as 1801)."
+},
+{
+  "id": "fre_gbr_elephant_02",
+  "brand": "Fremlin's",
+  "series": "Elephant",
+  "image": "images/Fremlins/fre_gbr_elephant_02.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Magenta cap with white Fremlin's elephant and ribbon 'TRADE MARK REGISTERED SINCE 1861.'"
+},
+{
+  "id": "fre_gbr_elephant_03",
+  "brand": "Fremlin's",
+  "series": "Elephant",
+  "image": "images/Fremlins/fre_gbr_elephant_03.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Green cap with white Fremlin's elephant and ribbon 'TRADE MARK REGISTERED SINCE 1861.'"
+},
+  {
   "id": "som_dnk_magenta_01",
   "brand": "Somersby",
   "series": "MagentaTree",
