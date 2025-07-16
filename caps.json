@@ -1,4 +1,31 @@
 [  {
+    "id": "veltins_de_pilsener_white_01",
+    "brand": "Veltins",
+    "series": "Pilsener",
+    "image": "images/Veltins/veltins_de_pilsener_white_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "White cap with 'VELTINS Pilsener' text, crowned crest logo in red, white and green"
+  },
+  {
+    "id": "veltins_de_kronkorken_aktion_02",
+    "brand": "Veltins",
+    "series": "Pilsener",
+    "image": "images/Veltins/veltins_de_kronkorken_aktion_02.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "White cap with 'VELTINS Pilsener' and crowned crest, green lower half labeled 'KRONKORKEN-AKTION'"
+  },
+  {
+    "id": "veltins_de_alkoholfrei_silver_03",
+    "brand": "Veltins",
+    "series": "Alkoholfrei",
+    "image": "images/Veltins/veltins_de_alkoholfrei_silver_03.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Silver cap with 'VELTINS' in black text, 'Alkoholfrei' in blue, featuring crowned crest in red, white, and green"
+  },
+    {
     "id": "woj_pl_black_eagle_mocne_01",
     "brand": "Wojak",
     "series": "Mocne",
