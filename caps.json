@@ -1,4 +1,99 @@
 [{
+  "id": "red_jam_75years_01",
+  "brand": "Red Stripe",
+  "series": "75Years",
+  "image": "images/RedStripe/red_jam_75years_01.jpg",
+  "country": "Jamaica",
+  "year": null,
+  "description": "White cap with red diagonal bar 'Red Stripe'; rim text 'Brewed For Over 75 Years' top, 'Jamaica Lager Beer' bottom."
+},
+{
+  "id": "red_jam_jamaica_01",
+  "brand": "Red Stripe",
+  "series": "Jamaica",
+  "image": "images/RedStripe/red_jam_jamaica_01.jpg",
+  "country": "Jamaica",
+  "year": null,
+  "description": "White cap with red diagonal bar 'Red Stripe'; rim text 'Brewed In Jamaica.'"
+},
+
+{
+  "id": "ksz_pol_czarny_01",
+  "brand": "Książ",
+  "series": "CzarnySpecjal",
+  "image": "images/Ksiaz/ksz_pol_czarny_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black cap with red banner 'KSIĄŻ'; top barrel/hops emblem; scroll reads 'CZARNY SPECJAŁ.'"
+},
+{
+  "id": "ksz_pol_ksiazecy_01",
+  "brand": "Książ",
+  "series": "KsiążęcySpecjal",
+  "image": "images/Ksiaz/ksz_pol_ksiazecy_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "White cap with red banner 'KSIĄŻ' below red illustration of Książ Castle; scroll 'KSIĄŻĘCY SPECJAŁ.'"
+},
+
+{
+  "id": "koz_pol_black_01",
+  "brand": "Kozackie",
+  "series": "Black",
+  "image": "images/Kozackie/koz_pol_black_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black cap with red Kozackie banner; gold Cossack with saber above and crossed sabres below."
+},
+{
+  "id": "koz_pol_silver_01",
+  "brand": "Kozackie",
+  "series": "Silver",
+  "image": "images/Kozackie/koz_pol_silver_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Silver/white cap with red Kozackie banner; Cossack figure above, crossed sabres below."
+},
+
+{
+  "id": "lez_pol_pelne_01",
+  "brand": "Leżajsk",
+  "series": "Pelne",
+  "image": "images/Lezajsk/lez_pol_pelne_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Blue cap with crown crest 'L' above white/gold Leżajsk banner; script 'Pełne' below."
+},
+{
+  "id": "lez_pol_pszeniczne_01",
+  "brand": "Leżajsk",
+  "series": "Pszeniczne",
+  "image": "images/Lezajsk/lez_pol_pszeniczne_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Beige cap with crown crest 'L' above white/gold Leżajsk banner; script 'Pszeniczne' below."
+},
+
+{
+  "id": "pia_pol_gold_01",
+  "brand": "Piast",
+  "series": "Gold",
+  "image": "images/Piast/pia_pol_gold_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Gold cap with green/red outlined slanted panel 'Piast' and sweeping ring strokes."
+},
+{
+  "id": "pia_pol_black_01",
+  "brand": "Piast",
+  "series": "Black",
+  "image": "images/Piast/pia_pol_black_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black cap with yellow slanted panel 'Piast' and yellow ring strokes; red accent line."
+}
+,
+  {
   "id": "har_deu_weizen_01",
   "brand": "Härke",
   "series": "Weizen",
