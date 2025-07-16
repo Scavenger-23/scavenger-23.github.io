@@ -1,4 +1,31 @@
 [{
+"id": "gniew_pol_classic_01",
+"brand": "Gniewosz",
+"series": "Classic",
+"image": "images/Gniewosz/gniew_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Blue cap with white 'Gniewosz' text and a shield design."
+},
+{
+"id": "gniew_pol_classic_02",
+"brand": "Gniewosz",
+"series": "Classic",
+"image": "images/Gniewosz/gniew_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Red cap with gold 'Gniewosz' text and a shield design."
+},
+{
+"id": "gniew_pol_classic_03",
+"brand": "Gniewosz",
+"series": "Classic",
+"image": "images/Gniewosz/gniew_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Silver cap with black 'Gniewosz' text and a shield design."
+},
+    {
 "id": "deb_pol_classic_01",
 "brand": "Dębowe",
 "series": "Classic",
