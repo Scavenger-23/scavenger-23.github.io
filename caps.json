@@ -1,4 +1,22 @@
-[{
+{
+  "id": "mor_ita_gentleman_01",
+  "brand": "Birra Moretti",
+  "series": "Gentleman",
+  "image": "images/BirraMoretti/mor_ita_gentleman_01.jpg",
+  "country": "Italy",
+  "year": null,
+  "description": "Gold cap with green-suited mustachioed gentleman drinking a mug; banner 'BIRRA MORETTI DAL 1859' and rim text 'QUALITA E TRADIZIONE.'"
+},
+{
+  "id": "mor_ita_redshield_01",
+  "brand": "Birra Moretti",
+  "series": "RedShield",
+  "image": "images/BirraMoretti/mor_ita_redshield_01.jpg",
+  "country": "Italy",
+  "year": null,
+  "description": "Gold cap with red center, barley wreath, small BM shield above white 'BIRRA MORETTI' and 'DAL 1859.'"
+},
+{
   "id": "fen_gbr_yellowdog_01",
   "brand": "Fentimans",
   "series": "YellowDog",
