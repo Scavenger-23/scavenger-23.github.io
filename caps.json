@@ -1,4 +1,31 @@
 [{
+"id": "kar_pol_classic_01",
+"brand": "Karpackie",
+"series": "Classic",
+"image": "images/Karpackie/kar_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Green cap with white 'Karpackie' text and a mountain design."
+},
+{
+"id": "kar_pol_classic_02",
+"brand": "Karpackie",
+"series": "Classic",
+"image": "images/Karpackie/kar_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Silver cap with black 'Karpackie' text and a mountain design."
+},
+{
+"id": "kar_pol_classic_03",
+"brand": "Karpackie",
+"series": "Classic",
+"image": "images/Karpackie/kar_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold cap with red 'Karpackie' text and a mountain design."
+},
+    {
 "id": "lam_uk_classic_01",
 "brand": "Lambrini",
 "series": "Classic",
