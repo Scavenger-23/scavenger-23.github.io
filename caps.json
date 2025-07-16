@@ -1,4 +1,31 @@
 [{
+  "id": "kli_rus_arrow_01",
+  "brand": "Klinskoe",
+  "series": "Arrow",
+  "image": "images/Klinskoe/kli_rus_arrow_01.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Dark green cap with large pale arrow and black 'КЛИНСКОЕ' text (Klinskoe) over stylized block shape."
+},
+{
+  "id": "kli_rus_classic_01",
+  "brand": "Klinskoe",
+  "series": "Classic",
+  "image": "images/Klinskoe/kli_rus_classic_01.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Green cap with framed white 'КЛИНСКОЕ' text, two beer mugs flanking a barley ear above, and 'ПИВО' below."
+},
+{
+  "id": "kli_rus_arrow_02",
+  "brand": "Klinskoe",
+  "series": "Arrow",
+  "image": "images/Klinskoe/kli_rus_arrow_02.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Silver/green cap with green arrow and dark 'КЛИНСКОЕ' text; variant of the Klinskoe arrow design."
+},
+  {
   "id": "koz_cze_cerny_01",
   "brand": "Kozel",
   "series": "Cerny",
