@@ -1,4 +1,31 @@
 [{
+"id": "7up_usa_classic_01",
+"brand": "7UP",
+"series": "Classic",
+"image": "images/7UP/7up_usa_classic_01.jpg",
+"country": "USA",
+"year": null,
+"description": "Silver cap with green '7UP' text and a white dot pattern."
+},
+{
+"id": "7up_usa_classic_02",
+"brand": "7UP",
+"series": "Classic",
+"image": "images/7UP/7up_usa_classic_02.jpg",
+"country": "USA",
+"year": null,
+"description": "Green cap with white '7UP' text and a silver dot pattern."
+},
+{
+"id": "7up_usa_classic_03",
+"brand": "7UP",
+"series": "Classic",
+"image": "images/7UP/7up_usa_classic_03.jpg",
+"country": "USA",
+"year": null,
+"description": "White cap with green '7UP' text and a gold dot pattern."
+},
+{
 "id": "cor_pol_classic_01",
 "brand": "Cornelius",
 "series": "Classic",
