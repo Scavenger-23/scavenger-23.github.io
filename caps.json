@@ -1,4 +1,31 @@
 [{
+  "id": "koz_cze_cerny_01",
+  "brand": "Kozel",
+  "series": "Cerny",
+  "image": "images/Kozel/koz_cze_cerny_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Dark brown cap with yellow 'Velkopopovicky Kozel' goat holding a mug; text 'CERNY' at bottom."
+},
+{
+  "id": "koz_cze_svetly_01",
+  "brand": "Kozel",
+  "series": "Svetly",
+  "image": "images/Kozel/koz_cze_svetly_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Pale metallic cap with dark 'Velkopopopvicky Kozel' goat holding a mug; text 'SVETLY' at bottom."
+},
+{
+  "id": "koz_cze_velkopopovicky_01",
+  "brand": "Kozel",
+  "series": "Velkopopovicky",
+  "image": "images/Kozel/koz_cze_velkopopovicky_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Gold cap with brown 'Velkopopopvicky Kozel' goat holding a mug; no variety text visible."
+},
+  {
   "id": "mar_gbr_ecb_01",
   "brand": "Marston's",
   "series": "ECB",
