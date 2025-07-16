@@ -1,4 +1,22 @@
+[{
+  "id": "cob_gbr_greenlogo_01",
+  "brand": "Cobra",
+  "series": "GreenLogo",
+  "image": "images/Cobra/cob_gbr_greenlogo_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold cap with gradient green 'COBRA' logotype and red Devanagari script beneath (Indian-style lager); worn."
+},
 {
+  "id": "cob_gbr_goldtext_01",
+  "brand": "Cobra",
+  "series": "GoldText",
+  "image": "images/Cobra/cob_gbr_goldtext_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold/yellow cap with green-outlined 'COBRA' logotype over red Devanagari; small black copy 'Born in Bangalore, India...' and palm tree icon at bottom; worn."
+},
+  {
   "id": "mor_ita_gentleman_01",
   "brand": "Birra Moretti",
   "series": "Gentleman",
