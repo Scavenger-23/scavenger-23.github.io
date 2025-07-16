@@ -1,4 +1,31 @@
 [{
+"id": "hei_nld_light_01",
+"brand": "Heineken",
+"series": "Light",
+"image": "images/Heineken/hei_nld_light_01.jpg",
+"country": "Netherlands",
+"year": null,
+"description": "White cap with green 'Heineken Light' and a red star."
+},
+{
+"id": "hei_nld_quality_02",
+"brand": "Heineken",
+"series": "Quality",
+"image": "images/Heineken/hei_nld_quality_02.jpg",
+"country": "Netherlands",
+"year": null,
+"description": "Green cap with white 'Heineken Quality' and a red star."
+},
+{
+"id": "hei_nld_beer_03",
+"brand": "Heineken",
+"series": "Beer",
+"image": "images/Heineken/hei_nld_beer_03.jpg",
+"country": "Netherlands",
+"year": null,
+"description": "Green cap with white 'Heineken Beer' and a red star."
+},
+    {
 "id": "windmill_uk_classic_01",
 "brand": "Windmill",
 "series": "Classic",
