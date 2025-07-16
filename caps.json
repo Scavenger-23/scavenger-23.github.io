@@ -1,4 +1,22 @@
 [{
+  "id": "ast_gbr_gold_01",
+  "brand": "Aston Manor",
+  "series": "Gold",
+  "image": "images/AstonManor/ast_gbr_gold_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold cap with black 'Aston Manor' wordmark over stylized apple-outline baseline."
+},
+{
+  "id": "ast_gbr_green_01",
+  "brand": "Aston Manor",
+  "series": "Green",
+  "image": "images/AstonManor/ast_gbr_green_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Dark green cap with gold 'Aston Manor' wordmark over stylized apple-outline baseline."
+},
+  {
   "id": "sam_usa_octoberfest_01",
   "brand": "Samuel Adams",
   "series": "Octoberfest",
