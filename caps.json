@@ -1,4 +1,99 @@
 [{
+  "id": "pau_deu_classic_01",
+  "brand": "Paulaner",
+  "series": "Classic",
+  "image": "images/Paulaner/pau_deu_classic_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White cap with circular blue/gold ring and monk head profile; text 'PAULANER MÜNCHEN.'"
+},
+{
+  "id": "pau_deu_alkoholfrei_01",
+  "brand": "Paulaner",
+  "series": "Alkoholfrei",
+  "image": "images/Paulaner/pau_deu_alkoholfrei_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Red/white cap variant of Paulaner monk seal; rim text 'ALKOHOLFREI.'"
+},
+
+{
+  "id": "mvp_gbr_81green_01",
+  "brand": "Malvern Press",
+  "series": "81Green",
+  "image": "images/MalvernPress/mvp_gbr_81green_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "White mottled cap; black MALVERN PRESS panel and large lime‑green '81' script."
+},
+{
+  "id": "mvp_gbr_81red_01",
+  "brand": "Malvern Press",
+  "series": "81Red",
+  "image": "images/MalvernPress/mvp_gbr_81red_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "White mottled cap; black MALVERN PRESS panel and large red '81' script."
+},
+
+{
+  "id": "qna_unk_extra_01",
+  "brand": "Queen's Ale",
+  "series": "ExtraBitter",
+  "image": "images/QueensAle/qna_unk_extra_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Dark blue cap with banner 'EXTRA BITTER TYPE' and large yellow 'QUEEN'S ALE.'"
+},
+{
+  "id": "qna_unk_blonde_01",
+  "brand": "Queen's Ale",
+  "series": "Blonde",
+  "image": "images/QueensAle/qna_unk_blonde_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Red cap with banner 'BLONDE TYPE' and large white 'QUEEN'S ALE.'"
+},
+
+{
+  "id": "per_ita_black_01",
+  "brand": "Birra Peroni",
+  "series": "BlackVintage",
+  "image": "images/BirraPeroni/per_ita_black_01.jpg",
+  "country": "Italy",
+  "year": null,
+  "description": "Black cap with thin gold rim; stacked gold text 'BIRRA PERONI' between short horizontal bars."
+},
+{
+  "id": "per_ita_crest_01",
+  "brand": "Birra Peroni",
+  "series": "Crest1846",
+  "image": "images/BirraPeroni/per_ita_crest_01.jpg",
+  "country": "Italy",
+  "year": null,
+  "description": "White cap with red ring 'BIRRA PERONI'; blue eagle crest top; gold wreath/stein center; '1846' at bottom."
+},
+
+{
+  "id": "par_cze_echt_01",
+  "brand": "Pardál",
+  "series": "Echt",
+  "image": "images/Pardal/par_cze_echt_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Brown cap with white 'pardál' and yellow 'Echt' export variant lettering."
+},
+{
+  "id": "par_cze_classic_01",
+  "brand": "Pardál",
+  "series": "Classic",
+  "image": "images/Pardal/par_cze_classic_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "White cap with red 'pardál' logotype; weathered finish."
+}
+,
+  {
   "id": "red_jam_75years_01",
   "brand": "Red Stripe",
   "series": "75Years",
