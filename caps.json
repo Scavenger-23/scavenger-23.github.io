@@ -1,4 +1,22 @@
 [{
+  "id": "bra_cze_creamgreen_01",
+  "brand": "Braník",
+  "series": "CreamGreen",
+  "image": "images/Branik/bra_cze_creamgreen_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Cream/gold cap with green Braník oval logo and crown‑and‑shield crest above; heavy wear."
+},
+{
+  "id": "bra_cze_greenwhite_01",
+  "brand": "Braník",
+  "series": "GreenWhite",
+  "image": "images/Branik/bra_cze_greenwhite_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Green cap with white Braník oval logo and crown‑and‑shield crest above; worn."
+},
+  {
   "id": "ber_deu_pilsnerpromo_01",
   "brand": "Berliner",
   "series": "PilsnerPromo",
