@@ -1,4 +1,31 @@
 [{
+  "id": "mar_gbr_ecb_01",
+  "brand": "Marston's",
+  "series": "ECB",
+  "image": "images/Marstons/mar_gbr_ecb_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Red cap with white 'Marston's' text and ECB three-lions crest; legend reads 'Official Beer of England.'"
+},
+{
+  "id": "mar_gbr_ecb_02",
+  "brand": "Marston's",
+  "series": "ECB",
+  "image": "images/Marstons/mar_gbr_ecb_02.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold/green cap with black 'Marston's' text and ECB three-lions crest; legend reads 'Official Beer of England.'"
+},
+{
+  "id": "mar_gbr_dontcompromise_01",
+  "brand": "Marston's",
+  "series": "DontCompromise",
+  "image": "images/Marstons/mar_gbr_dontcompromise_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Blue cap with white 'Marston's' arc over three union barrels and large 'DON'T COMPROMISE' slogan."
+},
+    {
 "id": "man_pol_classic_01",
 "brand": "Manufaktura",
 "series": "Classic",
