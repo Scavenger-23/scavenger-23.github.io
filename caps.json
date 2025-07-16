@@ -1,4 +1,31 @@
 [{
+  "id": "som_dnk_magenta_01",
+  "brand": "Somersby",
+  "series": "MagentaTree",
+  "image": "images/Somersby/som_dnk_magenta_01.jpg",
+  "country": "Denmark",
+  "year": null,
+  "description": "Magenta cap with white Somersby tree-and-ladder logo above white 'Somersby.' text."
+},
+{
+  "id": "som_dnk_leaf_01",
+  "brand": "Somersby",
+  "series": "Leaf",
+  "image": "images/Somersby/som_dnk_leaf_01.jpg",
+  "country": "Denmark",
+  "year": null,
+  "description": "White center with green rim; green 'Somersby.' flanked by stylized leaf sprays above and below."
+},
+{
+  "id": "som_dnk_apple_01",
+  "brand": "Somersby",
+  "series": "Apple",
+  "image": "images/Somersby/som_dnk_apple_01.jpg",
+  "country": "Denmark",
+  "year": null,
+  "description": "White center with green rim; green 'Somersby.' over bold 'APPLE' and leaf sprays top/bottom."
+},
+  {
   "id": "kli_rus_arrow_01",
   "brand": "Klinskoe",
   "series": "Arrow",
