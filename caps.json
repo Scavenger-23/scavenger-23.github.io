@@ -1,4 +1,31 @@
 [{
+"id": "ald_lat_classic_01",
+"brand": "Aldaris",
+"series": "Classic",
+"image": "images/Aldaris/ald_lat_classic_01.jpg",
+"country": "Latvia",
+"year": null,
+"description": "Red cap with white 'Aldaris' text and gold lines."
+},
+{
+"id": "ald_lat_classic_02",
+"brand": "Aldaris",
+"series": "Classic",
+"image": "images/Aldaris/ald_lat_classic_02.jpg",
+"country": "Latvia",
+"year": null,
+"description": "Blue cap with red and white 'Aldaris' text and gold lines."
+},
+{
+"id": "ald_lat_classic_03",
+"brand": "Aldaris",
+"series": "Classic",
+"image": "images/Aldaris/ald_lat_classic_03.jpg",
+"country": "Latvia",
+"year": null,
+"description": "Green cap with red and white 'Aldaris' text and gold lines."
+},
+{
 "id": "kar_pol_classic_01",
 "brand": "Karmi",
 "series": "Classic",
