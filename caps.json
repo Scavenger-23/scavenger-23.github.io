@@ -1,4 +1,31 @@
 [{
+"id": "smi_rus_classic_01",
+"brand": "Smirnoff",
+"series": "Classic",
+"image": "images/Smirnoff/smi_rus_classic_01.jpg",
+"country": "Russia",
+"year": null,
+"description": "Silver cap with red 'Smirnoff' text and a white emblem."
+},
+{
+"id": "smi_rus_classic_02",
+"brand": "Smirnoff",
+"series": "Classic",
+"image": "images/Smirnoff/smi_rus_classic_02.jpg",
+"country": "Russia",
+"year": null,
+"description": "Gold cap with black 'Smirnoff' text and a red emblem."
+},
+{
+"id": "smi_rus_classic_03",
+"brand": "Smirnoff",
+"series": "Classic",
+"image": "images/Smirnoff/smi_rus_classic_03.jpg",
+"country": "Russia",
+"year": null,
+"description": "Black cap with white 'Smirnoff' text and a gold emblem."
+},
+    {
 "id": "7up_usa_classic_01",
 "brand": "7UP",
 "series": "Classic",
