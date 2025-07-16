@@ -1,4 +1,31 @@
 [{
+  "id": "sam_usa_octoberfest_01",
+  "brand": "Samuel Adams",
+  "series": "Octoberfest",
+  "image": "images/SamuelAdams/sam_usa_octoberfest_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Orange cap with white 'Samuel Adams' logotype over 'Octoberfest' script; thin blue/white ring at edge."
+},
+{
+  "id": "sam_usa_bostonlager_01",
+  "brand": "Samuel Adams",
+  "series": "BostonLager",
+  "image": "images/SamuelAdams/sam_usa_bostonlager_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Blue cap with white 'Samuel Adams' logotype above red banner 'Boston Lager®'; white/red rim ring."
+},
+{
+  "id": "sam_usa_light_01",
+  "brand": "Samuel Adams",
+  "series": "Light",
+  "image": "images/SamuelAdams/sam_usa_light_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Blue cap reading 'Sam Adams' over white banner 'LIGHT' in red; blue/white rim ring."
+},
+  {
   "id": "roc_bel_10_01",
   "brand": "Rochefort",
   "series": "10",
