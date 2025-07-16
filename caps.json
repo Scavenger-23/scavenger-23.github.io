@@ -1,4 +1,31 @@
 [{
+"id": "lam_uk_classic_01",
+"brand": "Lambrini",
+"series": "Classic",
+"image": "images/Lambrini/lam_uk_classic_01.jpg",
+"country": "UK",
+"year": null,
+"description": "Pink cap with white 'Lambrini' text and a floral design."
+},
+{
+"id": "lam_uk_classic_02",
+"brand": "Lambrini",
+"series": "Classic",
+"image": "images/Lambrini/lam_uk_classic_02.jpg",
+"country": "UK",
+"year": null,
+"description": "Purple cap with white 'Lambrini' text and a sparkling design."
+},
+{
+"id": "lam_uk_classic_03",
+"brand": "Lambrini",
+"series": "Classic",
+"image": "images/Lambrini/lam_uk_classic_03.jpg",
+"country": "UK",
+"year": null,
+"description": "Gold cap with black 'Lambrini' text and a grape design."
+},
+    {
 "id": "smi_rus_classic_01",
 "brand": "Smirnoff",
 "series": "Classic",
