@@ -1,4 +1,31 @@
 [{
+"id": "man_pol_classic_01",
+"brand": "Manufaktura",
+"series": "Classic",
+"image": "images/Manufaktura/man_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Dark blue cap with white 'Manufaktura' text and a craft symbol."
+},
+{
+"id": "man_pol_classic_02",
+"brand": "Manufaktura",
+"series": "Classic",
+"image": "images/Manufaktura/man_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Brown cap with gold 'Manufaktura' text and a craft symbol."
+},
+{
+"id": "man_pol_classic_03",
+"brand": "Manufaktura",
+"series": "Classic",
+"image": "images/Manufaktura/man_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Green cap with black 'Manufaktura' text and a craft symbol."
+},
+    {
 "id": "for_pol_classic_01",
 "brand": "Fortuna",
 "series": "Classic",
