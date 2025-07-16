@@ -1,4 +1,31 @@
 [{
+"id": "bs_pol_classic_01",
+"brand": "BS",
+"series": "Classic",
+"image": "images/BS/bs_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold and red cap with 'BS&S' logo and '1992' banner."
+},
+{
+"id": "bs_pol_classic_02",
+"brand": "BS",
+"series": "Classic",
+"image": "images/BS/bs_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "White cap with red 'BS&S' logo, '1992' banner, and crown design."
+},
+{
+"id": "bs_pol_classic_03",
+"brand": "BS",
+"series": "Classic",
+"image": "images/BS/bs_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Black cap with gold 'BS&S' logo, '1992' banner, and 'Browar Jablonowo' text."
+},
+{
 "id": "ald_lat_classic_01",
 "brand": "Aldaris",
 "series": "Classic",
