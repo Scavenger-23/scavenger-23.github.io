@@ -1,4 +1,40 @@
 [{
+    "id": "twistoff_uk_white_01",
+    "brand": "Generic",
+    "series": "Twist-Off",
+    "image": "images/TwistOff/twistoff_uk_white_01.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "White cap with 'TWIST OFF' text in black, circular arrow design"
+  },
+  {
+    "id": "twistoff_uk_blue_02",
+    "brand": "Generic",
+    "series": "Twist-Off",
+    "image": "images/TwistOff/twistoff_uk_blue_02.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "White cap with 'TWIST OFF' text in blue, circular arrow design with date code"
+  },
+  {
+    "id": "twistoff_uk_red_03",
+    "brand": "Generic",
+    "series": "Twist-Off",
+    "image": "images/TwistOff/twistoff_uk_red_03.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Red cap with 'TWIST OFF' text in white, simple arrow design"
+  },
+  {
+    "id": "twistoff_uk_variation_04",
+    "brand": "Generic",
+    "series": "Twist-Off",
+    "image": "images/TwistOff/twistoff_uk_variation_04.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Generic twist-off cap with 'TWIST OFF' text, color variation"
+  },
+    {
     "id": "wkd_uk_blue_01",
     "brand": "WKD",
     "series": "Original",
