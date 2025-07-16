@@ -1,4 +1,22 @@
 [{
+  "id": "ber_deu_pilsnerpromo_01",
+  "brand": "Berliner",
+  "series": "PilsnerPromo",
+  "image": "images/Berliner/ber_deu_pilsnerpromo_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Gold cap with red Berlin bear over stylized city/monument; green 'Berliner' and red 'Pilsner' script; promo rim text '1 Berliner unter jedem Kronkorken' (worn)."
+},
+{
+  "id": "ber_deu_pilsner_01",
+  "brand": "Berliner",
+  "series": "Pilsner",
+  "image": "images/Berliner/ber_deu_pilsner_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Gold cap with red Berlin bear over stylized city/monument; green 'Berliner' and red 'Pilsner' script; no rim text visible (worn)."
+},
+  {
   "id": "arg_pol_elbravos_01",
   "brand": "Argus",
   "series": "ElBravos",
