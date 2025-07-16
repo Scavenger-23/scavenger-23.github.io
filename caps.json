@@ -1,4 +1,98 @@
 [{
+  "id": "har_pol_mocne_01",
+  "brand": "Harde",
+  "series": "MocnePiwo",
+  "image": "images/Harde/har_pol_mocne_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black/red/white cap with worker arm raising a stein inside gear; bold HARDE banner; script 'Mocne Piwo.'"
+},
+{
+  "id": "har_pol_emboss_01",
+  "brand": "Harde",
+  "series": "Embossed",
+  "image": "images/Harde/har_pol_emboss_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "All‑silver/black embossed cap with raised HARDE logotype across oval frame."
+},
+
+{
+  "id": "lib_pol_lime_01",
+  "brand": "Liberte",
+  "series": "Lime",
+  "image": "images/Liberte/lib_pol_lime_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Bright green twist‑off cap with whole lime graphic and white 'LIBERTÉ'; 'TWIST TO OPEN' arrows at rim."
+},
+{
+  "id": "lib_pol_orange_01",
+  "brand": "Liberte",
+  "series": "Orange",
+  "image": "images/Liberte/lib_pol_orange_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Orange twist‑off cap with orange fruit graphic and white 'LIBERTÉ'; 'TWIST TO OPEN' arrows at rim."
+},
+
+{
+  "id": "has_deu_premiumpils_rim_01",
+  "brand": "Hasseröder",
+  "series": "PremiumPilsRimText",
+  "image": "images/Hasseroder/has_deu_premiumpils_rim_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White center with gold rim text; black capercaillie bird above red 'Hasseröder' and script 'Premium Pils.'"
+},
+{
+  "id": "has_deu_premiumpils_01",
+  "brand": "Hasseröder",
+  "series": "PremiumPils",
+  "image": "images/Hasseroder/has_deu_premiumpils_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White center (no outer text visible) with black capercaillie bird above red 'Hasseröder' and script 'Premium Pils.'"
+},
+
+{
+  "id": "fre_pol_raspberrycherry_01",
+  "brand": "Freeq",
+  "series": "RaspberryCherry",
+  "image": "images/Freeq/fre_pol_raspberrycherry_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Dark red cap with swoosh arcs; white 'FREEQ' and small text 'Beer & Raspberry & Cherry.'"
+},
+{
+  "id": "fre_pol_promo_01",
+  "brand": "Freeq",
+  "series": "Promo",
+  "image": "images/Freeq/fre_pol_promo_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Magenta/red cap with white 'FREEQ' and Polish promo line 'Odkoduj swój styl' (decode your style)."
+},
+
+{
+  "id": "fox_pol_black_01",
+  "brand": "Fox",
+  "series": "Black",
+  "image": "images/Fox/fox_pol_black_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black oval with gold rim; red FOX banner; gold hop & barley sprays top/bottom."
+},
+{
+  "id": "fox_pol_red_01",
+  "brand": "Fox",
+  "series": "Red",
+  "image": "images/Fox/fox_pol_red_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Red oval with gold rim; maroon FOX banner; gold hop & barley sprays top/bottom."
+},
+  {
   "id": "cob_gbr_greenlogo_01",
   "brand": "Cobra",
   "series": "GreenLogo",
