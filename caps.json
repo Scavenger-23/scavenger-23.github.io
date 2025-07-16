@@ -1,4 +1,22 @@
 [{
+  "id": "fen_gbr_yellowdog_01",
+  "brand": "Fentimans",
+  "series": "YellowDog",
+  "image": "images/Fentimans/fen_gbr_yellowdog_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Silver cap with yellow oval showing black Fentimans dog head; 'FENTIMANS' arcs below; heavily worn."
+},
+{
+  "id": "fen_gbr_greendog_01",
+  "brand": "Fentimans",
+  "series": "GreenDog",
+  "image": "images/Fentimans/fen_gbr_greendog_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Silver cap with green oval showing black Fentimans dog head; 'FENTIMANS' arcs below; heavily worn."
+},
+  {
   "id": "bra_cze_creamgreen_01",
   "brand": "Braník",
   "series": "CreamGreen",
