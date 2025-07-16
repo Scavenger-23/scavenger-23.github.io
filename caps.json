@@ -1,4 +1,40 @@
-[  {
+[{
+    "id": "wkd_uk_blue_01",
+    "brand": "WKD",
+    "series": "Original",
+    "image": "images/WKD/wkd_uk_blue_01.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Blue cap with 'WKD' text in white, rectangular logo design"
+  },
+  {
+    "id": "wkd_uk_black_02",
+    "brand": "WKD",
+    "series": "Original",
+    "image": "images/WKD/wkd_uk_black_02.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Black cap with 'WKD' text in white, rectangular logo design"
+  },
+  {
+    "id": "wkd_uk_pink_03",
+    "brand": "WKD",
+    "series": "Original",
+    "image": "images/WKD/wkd_uk_pink_03.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Pink cap with 'WKD' text in white, rectangular logo design"
+  },
+  {
+    "id": "wkd_uk_variation_04",
+    "brand": "WKD",
+    "series": "Original",
+    "image": "images/WKD/wkd_uk_variation_04.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Generic WKD cap with 'WKD' text in white, rectangular logo design, color variation"
+  },
+    {
     "id": "veltins_de_pilsener_white_01",
     "brand": "Veltins",
     "series": "Pilsener",
