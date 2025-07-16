@@ -321,6 +321,23 @@
 "country": "Poland",
 "year": null,
 "description": "Silver cap with red 'Fortuna' text and a star design."
+},{
+  "id": "for_pol_redcrown_01",
+  "brand": "Fortuna",
+  "series": "RedCrown",
+  "image": "images/Fortuna/for_pol_redcrown_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Red center with gold stylized crown above 'Fortuna'; wide gold ring reads 'AUDACES FORTUNA IUVAT • AD 1889.'"
+},
+{
+  "id": "for_pol_blackf_01",
+  "brand": "Fortuna",
+  "series": "BlackF",
+  "image": "images/Fortuna/for_pol_blackf_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black cap with large gold 'F' topped by crown; outer gold ring text '.BROWAR FORTUNA. AUDACES FORTUNA IUVAT.'"
 },
     {
 "id": "gniew_pol_classic_01",
