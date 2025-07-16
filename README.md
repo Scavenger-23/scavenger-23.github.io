@@ -1,4 +1,4 @@
-# Crown‑Cap Collection Starter
+# Crown‑Cap Collection Starter.
 
 This is a minimal static website for cataloguing your crown‑cap (Kronkorken) collection.  
 
