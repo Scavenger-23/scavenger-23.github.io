@@ -1,4 +1,96 @@
 [{
+  "id": "har_deu_weizen_01",
+  "brand": "Härke",
+  "series": "Weizen",
+  "image": "images/Harke/har_deu_weizen_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Blue cap with Härke twin-horse crest; white 'HÄRKE' and gold 'WEIZEN' plus 'Brauer aus Leidenschaft' line."
+},
+{
+  "id": "har_deu_pils_01",
+  "brand": "Härke",
+  "series": "Pils",
+  "image": "images/Harke/har_deu_pils_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Green-rimmed white pinstripe cap with Härke crest; green 'HÄRKE' and red 'Pils' script."
+},
+
+{
+  "id": "kin_eur_yellow_01",
+  "brand": "Kinley",
+  "series": "Yellow",
+  "image": "images/Kinley/kin_eur_yellow_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Yellow cap with embossed crown and script 'Kinley'; dotted lot-code overprint; mixer soft drink."
+},
+{
+  "id": "kin_eur_green_01",
+  "brand": "Kinley",
+  "series": "Green",
+  "image": "images/Kinley/kin_eur_green_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with embossed crown and script 'Kinley'; dotted lot-code overprint; mixer soft drink."
+},
+  {
+  "id": "kon_usa_blue_01",
+  "brand": "Kona Brewing Co.",
+  "series": "Blue",
+  "image": "images/Kona/kon_usa_blue_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Light blue cap with white oval band 'HANDCRAFTED KONA BREWING CO. KONA, HAWAII' around white gecko."
+},
+{
+  "id": "kon_usa_green_01",
+  "brand": "Kona Brewing Co.",
+  "series": "Green",
+  "image": "images/Kona/kon_usa_green_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Green cap with white oval band 'KONA BREWING CO' around white gecko."
+},
+
+{
+  "id": "jev_deu_fun_01",
+  "brand": "Jever",
+  "series": "Fun",
+  "image": "images/Jever/jev_deu_fun_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Bright green cap 'JEVER FUN ALKOHOLFREI' with brewery silhouette at top."
+},
+{
+  "id": "jev_deu_pilsener_01",
+  "brand": "Jever",
+  "series": "Pilsener",
+  "image": "images/Jever/jev_deu_pilsener_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Pale-gold cap with green 'JEVER' and 'PILSENER'; brewery silhouette at top."
+},
+  {
+  "id": "h_unk_lavender_01",
+  "brand": "H",
+  "series": "Lavender",
+  "image": "images/H/h_unk_lavender_01.jpg",
+  "country": null,
+  "year": null,
+  "description": "Lavender cap with tall tapered dark-violet 'H' outlined white; no other markings visible (brand unknown)."
+},
+{
+  "id": "h_unk_black_01",
+  "brand": "H",
+  "series": "Black",
+  "image": "images/H/h_unk_black_01.jpg",
+  "country": null,
+  "year": null,
+  "description": "Black cap with tall tapered yellow 'H' outlined magenta; no other markings visible (brand unknown)."
+},
+  {
   "id": "har_pol_mocne_01",
   "brand": "Harde",
   "series": "MocnePiwo",
