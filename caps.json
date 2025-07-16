@@ -1,4 +1,22 @@
 [{
+  "id": "ces_lva_blue_01",
+  "brand": "Cesu",
+  "series": "BlueCrown",
+  "image": "images/Cesu/ces_lva_blue_01.jpg",
+  "country": "Latvia",
+  "year": null,
+  "description": "Blue cap with multi‑point gold/red crown and gold 'CESU' text beneath; double gold ring at rim (worn)."
+},
+{
+  "id": "ces_lva_white_01",
+  "brand": "Cesu",
+  "series": "WhiteCrown",
+  "image": "images/Cesu/ces_lva_white_01.jpg",
+  "country": "Latvia",
+  "year": null,
+  "description": "White cap with multi‑point gold/red crown centered; faint gold ring at rim; no text visible (worn)."
+},
+  {
   "id": "ast_gbr_gold_01",
   "brand": "Aston Manor",
   "series": "Gold",
