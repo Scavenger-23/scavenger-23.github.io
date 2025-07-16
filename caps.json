@@ -1,4 +1,40 @@
 [  {
+    "id": "woj_pl_black_eagle_mocne_01",
+    "brand": "Wojak",
+    "series": "Mocne",
+    "image": "images/Wojak/woj_pl_black_eagle_mocne_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with golden eagle and barley, red and gold shield with 'WOJAK' and white 'MOCNE' text"
+  },
+  {
+    "id": "woj_pl_black_3stars_white_02",
+    "brand": "Wojak",
+    "series": "Classic",
+    "image": "images/Wojak/woj_pl_black_3stars_white_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with three white stars above bold white 'WOJAK' text"
+  },
+  {
+    "id": "woj_pl_black_redshield_03",
+    "brand": "Wojak",
+    "series": "Classic",
+    "image": "images/Wojak/woj_pl_black_redshield_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with red shield containing bold white 'WOJAK' text, no additional symbols"
+  },
+  {
+    "id": "woj_pl_red_eagle_supermocne_04",
+    "brand": "Wojak",
+    "series": "Super Mocne",
+    "image": "images/Wojak/woj_pl_red_eagle_supermocne_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with eagle above 'WOJAK' label, golden barley, and white 'SUPER MOCNE' text"
+  },
+    {
     "id": "pony_malta_co_red_prize_01",
     "brand": "Pony Malta",
     "series": "Red Prize",
