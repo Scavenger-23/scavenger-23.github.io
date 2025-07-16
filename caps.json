@@ -1,4 +1,31 @@
 [{
+"id": "deb_pol_classic_01",
+"brand": "Dębowe",
+"series": "Classic",
+"image": "images/Debowie/deb_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Brown cap with gold 'Dębowe' text and an oak leaf design."
+},
+{
+"id": "deb_pol_classic_02",
+"brand": "Dębowe",
+"series": "Classic",
+"image": "images/Debowie/deb_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Green cap with white 'Dębowe' text and an oak leaf design."
+},
+{
+"id": "deb_pol_classic_03",
+"brand": "Dębowe",
+"series": "Classic",
+"image": "images/Debowie/deb_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Silver cap with black 'Dębowe' text and an oak leaf design."
+},
+    {
 "id": "kar_pol_classic_01",
 "brand": "Karpackie",
 "series": "Classic",
