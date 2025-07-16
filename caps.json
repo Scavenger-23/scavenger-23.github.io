@@ -1,4 +1,22 @@
 [{
+  "id": "arg_pol_elbravos_01",
+  "brand": "Argus",
+  "series": "ElBravos",
+  "image": "images/Argus/arg_pol_elbravos_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Lime‑green cap with orange sombrero above red Argus banner; white panel reads 'EL BRAVOS' tequila‑style beer (Lidl private label)."
+},
+{
+  "id": "arg_pol_honey_01",
+  "brand": "Argus",
+  "series": "Honey",
+  "image": "images/Argus/arg_pol_honey_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Yellow cap with red honeycomb grid; red Argus banner over white panel 'HONEY' (Miodowy) honey beer from Lidl's Argus range."
+},
+  {
   "id": "ces_lva_blue_01",
   "brand": "Cesu",
   "series": "BlueCrown",
