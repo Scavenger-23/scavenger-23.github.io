@@ -1,4 +1,31 @@
 [{
+"id": "kar_pol_classic_01",
+"brand": "Karmi",
+"series": "Classic",
+"image": "images/Karmi/kar_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Yellow cap with red 'Karmi' text and a wave design."
+},
+{
+"id": "kar_pol_twistoff_02",
+"brand": "Karmi",
+"series": "Twist Off",
+"image": "images/Karmi/kar_pol_twistoff_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold cap with black 'Karmi' text, wave design, and 'Twist Off' label."
+},
+{
+"id": "kar_pol_twistoff_03",
+"brand": "Karmi",
+"series": "Twist Off",
+"image": "images/Karmi/kar_pol_twistoff_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold cap with black 'Karmi' text, wave design, and 'Twist Off' label."
+},
+    {
 "id": "hei_nld_light_01",
 "brand": "Heineken",
 "series": "Light",
