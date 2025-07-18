@@ -1,4 +1,93 @@
 [{
+    "id": "adn_gbr_blue_01",
+    "brand": "Adnams",
+    "series": "Southwold",
+    "image": "images/Adnams/adn_gbr_blue_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Gloss‑blue cap with light‑blue logotype ‘ADNAMS’ above smaller white ‘SOUTHWOLD’."
+  },
+  {
+    "id": "bgs_pol_crown_02",
+    "brand": "Browary Górnośląskie",
+    "series": "Crown Emblem (1860)",
+    "image": "images/BrowaryGornoslaskie/bgs_pol_crown_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Mustard‑yellow cap; black‑gold crown and hop‑cone crest ‘1860’, wheat ears either side; white ring with brand name ‘BROWARY GÓRNOŚLĄSKIE’."
+  },
+  {
+    "id": "abi_usa_purple_01",
+    "brand": "Abita",
+    "series": "Spring Water",
+    "image": "images/Abita/abi_usa_purple_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Purple cap with white zig‑zag border; text ‘PRY OFF CAP’ and ‘Abita! — BREWED WITH SPRING WATER’."
+  },
+  {
+    "id": "amb_esp_redtri_01",
+    "brand": "Ámbar",
+    "series": "Red Triangle",
+    "image": "images/Ambar/amb_esp_redtri_01.jpg",
+    "country": "Spain",
+    "year": null,
+    "description": "Red cap featuring inverted olive‑green triangle with red word‑mark ‘AMBAR’ centred inside."
+  },
+  {
+    "id": "aqua_idn_logo_01",
+    "brand": "Danone",
+    "series": "Classic Logo",
+    "image": "images/Danone/aqua_idn_logo_01.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Gradated blue‑white cap; ‘DANONE’ panel above ornate ‘AQUA®’ logotype and stylised mountain/wave graphic."
+  },
+  {
+    "id": "prv_deu_tradition_01",
+    "brand": "Privat Brauerei",
+    "series": "Aus Tradition 1516",
+    "image": "images/Privat/prv_deu_tradition_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Antique‑brass cap; circular seal with hop‑cone, outer text ‘AUS TRADITION – PRIVAT’, inner banner ‘gebraut nach dem Reinheitsgebot 1516’."
+  },
+  {
+    "id": "bxx_xxx_blueb_01",
+    "brand": "B‑Monogram",
+    "series": "Blue Shield",
+    "image": "images/Unknown/bxx_xxx_blueb_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Deep‑blue cap bearing large stylised black letter ‘B’ outlined in silver; no further wording."
+  },
+  {
+    "id": "yue_usa_twist_01",
+    "brand": "Yuengling",
+    "series": "America’s Oldest Brewery",
+    "image": "images/Yuengling/yue_usa_twist_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Light‑tan twist‑off cap; red eagle over barrel, circular text ‘America’s Oldest Brewery’ with directional arrows."
+  },
+  {
+    "id": "boh_cze_regent_01",
+    "brand": "Bohemia Regent",
+    "series": "Standard",
+    "image": "images/BohemiaRegent/boh_cze_regent_01.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with distinctive green Fraktur title ‘Bohemia regent®’ stacked in two lines."
+  },
+  {
+    "id": "bgs_pol_bgwhite_01",
+    "brand": "Browary Górnośląskie",
+    "series": "BG Logo (white)",
+    "image": "images/BrowaryGornoslaskie/bgs_pol_bgwhite_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap; bold red ‘BG’ flanked by yellow wheat sprig and green hop cones; arched brand wording round the rim."
+  },{
     "id": "kro_deu_pilsaktion_01",
     "brand": "Krombacher",
     "series": "Pils – Aktions‑Kronkorken",
