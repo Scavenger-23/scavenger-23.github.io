@@ -1,4 +1,94 @@
-[{
+[
+  {
+    "id": "boe_bel_blue_01",
+    "brand": "Boelens",
+    "series": "Authentic Belgian Brewery",
+    "image": "images/Boelens/boe_bel_blue_01.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "Deep‑blue cap with white logotype ‘Boelens’; small caption underneath reads ‘AUTHENTIC BELGIAN BREWERY’."
+  },
+  {
+    "id": "jag_pol_black_01",
+    "brand": "Browar Jagiełło",
+    "series": "Family Brewery 1993",
+    "image": "images/BrowarJagiello/jag_pol_black_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Glossy black cap with gold crest (crowned ‘J’ roundel); text ring ‘BROWAR JAGIEŁŁO · REGIONALNY BROWAR RODZINNY’."
+  },
+  {
+    "id": "bud_usa_bl_01",
+    "brand": "Bud Light",
+    "series": "BL Swoosh",
+    "image": "images/BudLight/bud_usa_bl_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Blue cap with stylised ‘BL’ monogram, white speed‑swoosh and red accent; small lettering ‘BUD LIGHT’ below."
+  },
+  {
+    "id": "bro_pol_green_01",
+    "brand": "BROK",
+    "series": "Classic Crown",
+    "image": "images/Brok/bro_pol_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Bright‑green cap; red bar with white ‘BROK’, gold crown and star above the name."
+  },
+  {
+    "id": "blu_usa_sun_01",
+    "brand": "Blue Moon",
+    "series": "Brewing Company",
+    "image": "images/BlueMoon/blu_usa_sun_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Navy‑blue cap with gold rim; inner circle shows pale‑blue square sun emblem; text ring ‘BLUE MOON BREWING COMPANY™’."
+  },
+  {
+    "id": "zbo_rus_green_01",
+    "brand": "Zolotaya Bochka",
+    "series": "Golden Barrel",
+    "image": "images/ZolotayaBochka/zbo_rus_green_01.jpg",
+    "country": "Russia",
+    "year": null,
+    "description": "Metallic‑gold cap with green panel and Cyrillic ‘ЗОЛОТАЯ БОЧКА’; top shows barrel and hops emblem."
+  },
+  {
+    "id": "bal_ltu_blue_01",
+    "brand": "Baltijos",
+    "series": "Tamsusis Alus",
+    "image": "images/Baltijos/bal_ltu_blue_01.jpg",
+    "country": "Lithuania",
+    "year": null,
+    "description": "Royal‑blue cap; cream serif title ‘BALTIJOS’ and subtitle ‘TAMSUSIS ALUS’ (dark beer)."
+  },
+  {
+    "id": "bus_usa_light_01",
+    "brand": "Busch Light",
+    "series": "Ice Cold Easy",
+    "image": "images/BuschLight/bus_usa_light_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Off‑white cap with blue ring repeating ‘ICE COLD EASY’; centre features bold ‘BUSCH LIGHT®’ logo."
+  },
+  {
+    "id": "ber_usa_trad_01",
+    "brand": "Berghoff Brewery",
+    "series": "Midwest Tradition",
+    "image": "images/Berghoff/ber_usa_trad_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Silver‑grey cap printed like coarse fabric; large stacked lettering ‘BERGHOFF BREWERY’ with arcs ‘A MIDWEST TRADITION OF CRAFT BREWING’."
+  },
+  {
+    "id": "bsh_gbr_blackale_01",
+    "brand": "Black Sheep",
+    "series": "Black Sheep Ale",
+    "image": "images/BlackSheep/bsh_gbr_blackale_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Black cap with cream calligraphic script arranged radially to spell ‘Black Sheep Ale’; includes three‑ring Celtic knot motif at centre."
+  },{
     "id": "adn_gbr_blue_01",
     "brand": "Adnams",
     "series": "Southwold",
