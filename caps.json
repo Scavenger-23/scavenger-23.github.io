@@ -1,4 +1,93 @@
-[
+[{
+    "id": "kro_deu_pilsaktion_01",
+    "brand": "Krombacher",
+    "series": "Pils – Aktions‑Kronkorken",
+    "image": "images/Krombacher/kro_deu_pilsaktion_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "White‑face cap with green gilt rim (competition text ‘Aktions‑Kronkorken’); Krombacher arms above black logotype, five gold stars and script ‘Pils’."
+  },
+  {
+    "id": "tec_mex_noret_01",
+    "brand": "Tecate",
+    "series": "No Retornable (grey)",
+    "image": "images/Tecate/tec_mex_noret_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Grey cap, thin red rim; white ‘T’ on stylised black eagle shield, legend ‘NO RETORNABLE’ along lower edge."
+  },
+  {
+    "id": "lio_xxx_filigree_01",
+    "brand": "Twin Lions",
+    "series": "Filigree Crest",
+    "image": "images/TwinLions/lio_xxx_filigree_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Gold cap completely covered by cream filigree; centre medallion shows two lions flanking a barrel."
+  },
+  {
+    "id": "tec_mex_mediano_01",
+    "brand": "Tecate",
+    "series": "Media No Retornable (gold)",
+    "image": "images/Tecate/tec_mex_mediano_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Gold version of the non‑returnable cap; black eagle with white outline and ‘T’, wording ‘MEDIA NO RETORNABLE’ below."
+  },
+  {
+    "id": "lio_xxx_anno1853_01",
+    "brand": "Twin Lions",
+    "series": "Anno 1853 Oval",
+    "image": "images/TwinLions/lio_xxx_anno1853_01.jpg",
+    "country": null,
+    "year": 1853,
+    "description": "Weathered gold cap; black oval cartouche with two lions and barrel; small caption ‘ANNO 1853’ underneath."
+  },
+  {
+    "id": "bgs_pol_crest_01",
+    "brand": "Browary Górnośląskie",
+    "series": "Main Crest",
+    "image": "images/BrowaryGornoslaskie/bgs_pol_crest_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Bronze‑gold cap with green‑red crowned hops emblem and wheat sheaves; red banner ‘BROWARY GÓRNOŚLĄSKIE 1890’."
+  },
+  {
+    "id": "kro_deu_weizalk_01",
+    "brand": "Krombacher",
+    "series": "Weizen Alkoholfrei",
+    "image": "images/Krombacher/kro_deu_weizalk_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Oval‑badge cap, blue outer ring; Krombacher crest, black logotype, orange wheat band ‘Weizen’ and footer ‘ALKOHOLFREI’."
+  },
+  {
+    "id": "kro_deu_alkred_01",
+    "brand": "Krombacher",
+    "series": "Pils Alkoholfrei (red)",
+    "image": "images/Krombacher/kro_deu_alkred_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "White cap with fine red border; crest, black ‘Krombacher’ and red ribbon ‘ALKOHOLFREI’; five gold stars."
+  },
+  {
+    "id": "hob_gbr_orange_01",
+    "brand": "Hobgoblin",
+    "series": "Classic Logo (orange)",
+    "image": "images/Hobgoblin/hob_gbr_orange_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Orange cap; black wood‑cut style goblin with axe, circular legend ‘HOBGOBLIN’ twice (upright / inverted)."
+  },
+  {
+    "id": "hob_gbr_blue_01",
+    "brand": "Hobgoblin",
+    "series": "Classic Logo (blue)",
+    "image": "images/Hobgoblin/hob_gbr_blue_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Deep‑blue variant of the goblin cap, gold outline illustration with axe and repeating rim text ‘HOBGOBLIN’."
+  },
   {
     "id": "ste_bel_white_01",
     "brand": "Stella Artois",
