@@ -1,4 +1,83 @@
 [{
+  "id": "she_gbr_classic_01",
+  "brand": "Shepherd Neame",
+  "series": "Classic",
+  "image": "images/ShepherdNeame/she_gbr_classic_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold‑rim cap with blue centre; stylised shepherd’s crook (omega‑shape) and text ring ‘SHEPHERD NEAME · SINCE 1698’."
+},
+{
+  "id": "she_gbr_1698_01",
+  "brand": "Shepherd Neame",
+  "series": "1698 Anniversary",
+  "image": "images/ShepherdNeame/she_gbr_1698_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Blue cap with large gold ‘1698’ and red ribbon ‘300 YEARS’; wording ‘SHEPHERD — NEAME’ around the edge."
+},
+
+
+{
+  "id": "mun_deu_500jahre_01",
+  "brand": "Münchner Bier",
+  "series": "500 Jahre Reinheitsgebot",
+  "image": "images/MuenchnerBier/mun_deu_500jahre_01.jpg",
+  "country": "Germany",
+  "year": 1987,
+  "description": "Silver cap marking 500th anniversary (1487‑1987); smiling monk with stein; banner ‘MÜNCHNER BIER® 500 JAHRE’."
+},
+{
+  "id": "mun_deu_525jahre_01",
+  "brand": "Münchner Bier",
+  "series": "525 Jahre Reinheitsgebot",
+  "image": "images/MuenchnerBier/mun_deu_525jahre_01.jpg",
+  "country": "Germany",
+  "year": 2012,
+  "description": "Silver cap for 525 years (1487‑2012); identical monk motif; banner reads ‘MÜNCHNER BIER® 525 JAHRE’."
+},
+
+
+{
+  "id": "cou_gbr_redrooster_01",
+  "brand": "Courage",
+  "series": "Red Rooster",
+  "image": "images/Courage/cou_gbr_redrooster_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Bright‑red cap with white ring and green‑gold rooster; arched text ‘COURAGE’ along lower rim."
+},
+{
+  "id": "cou_gbr_goldrooster_01",
+  "brand": "Courage",
+  "series": "Gold Rooster",
+  "image": "images/Courage/cou_gbr_goldrooster_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold cap with red rooster outline and faint ‘COURAGE’ circle—weathered / low‑ink variant of the classic design."
+},
+
+
+{
+  "id": "piw_pol_niepast_01",
+  "brand": "Piwo",
+  "series": "Niepasteryzowane",
+  "image": "images/Piwo/piw_pol_niepast_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Cream cap with distressed green stencil text ‘PIWO NIEPASTERYZOWANE’ (unpasteurised beer)."
+},
+{
+  "id": "piw_pol_pszen_01",
+  "brand": "Piwo",
+  "series": "Pszeniczne",
+  "image": "images/Piwo/piw_pol_pszen_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Light‑yellow cap with distressed red stencil text ‘PIWO PSZENICZNE’ (wheat beer)."
+}
+,
+  {
   "id": "pau_deu_classic_01",
   "brand": "Paulaner",
   "series": "Classic",
