@@ -1,5 +1,99 @@
 [
   {
+    "id": "ste_bel_white_01",
+    "brand": "Stella Artois",
+    "series": "White Standard",
+    "image": "images/StellaArtois/ste_bel_white_01.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "White cap with gold cartouche; horn‑in‑wheat crest and upper text ‘ANNO ★ 1366’; three medals at bottom."
+  },
+  {
+    "id": "ste_bel_white_02",
+    "brand": "Stella Artois",
+    "series": "White Standard (2)",
+    "image": "images/StellaArtois/ste_bel_white_02.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "Second example—same white & gold layout but slight print‑shift / scuffing, useful for variant collectors."
+  },
+
+  {
+    "id": "sol_mex_gold_01",
+    "brand": "Sol",
+    "series": "Classic Gold",
+    "image": "images/Sol/sol_mex_gold_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Old‑style pale‑gold cap with large red scroll ‘Sol’; small word ‘CERVEZA’ above."
+  },
+  {
+    "id": "sol_mex_redrim_01",
+    "brand": "Sol",
+    "series": "Sunburst",
+    "image": "images/Sol/sol_mex_redrim_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Red‑rim cap; olive centre with radiating sun rays and stylised sun face; bold red ‘Sol’ plus small ‘CERVEZA’."
+  },
+
+  {
+    "id": "ust_pol_blue_01",
+    "brand": "Ustronianka",
+    "series": "Mineral Water (Blue)",
+    "image": "images/Ustronianka/ust_pol_blue_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Cobalt‑blue cap with white script ‘Ustronianka’ and swoosh underline."
+  },
+  {
+    "id": "ust_pol_orange_01",
+    "brand": "Ustronianka",
+    "series": "Mineral Water (Orange)",
+    "image": "images/Ustronianka/ust_pol_orange_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Orange flavour variant; same white logotype, heavy surface rust on shown specimen."
+  },
+
+  {
+    "id": "wer_deu_pils_01",
+    "brand": "Wernesgrüner",
+    "series": "Pils Legende",
+    "image": "images/Wernesgruener/wer_deu_pils_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Gold‑tone cap with red ‘W’ hops crest; black script ‘Wernesgrüner’ and subtitle ‘PILS LEGENDE’."
+  },
+  {
+    "id": "wer_deu_alko_01",
+    "brand": "Wernesgrüner",
+    "series": "Alkoholfrei",
+    "image": "images/Wernesgruener/wer_deu_alko_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Brushed‑wood effect background; blue lower band with white ‘ALKOHOLFREI’; same red‑crest logo above."
+  },
+
+  {
+    "id": "san_esp_diagonal_01",
+    "brand": "San Miguel",
+    "series": "Diagonal Stripe",
+    "image": "images/SanMiguel/san_esp_diagonal_01.jpg",
+    "country": "Spain",
+    "year": null,
+    "description": "Gold cap with green‑red diagonal tricolour stripe; partial stylised ‘San M…’ logotype in green and red."
+  },
+  {
+    "id": "san_esp_banner_01",
+    "brand": "San Miguel",
+    "series": "White Banner",
+    "image": "images/SanMiguel/san_esp_banner_01.jpg",
+    "country": "Spain",
+    "year": null,
+    "description": "Later design: white ribbon bearing full ‘San Miguel’ word‑mark across gold background with galleon crest."
+  },
+  {
     "id": "tym_pol_frument_01",
     "brand": "Tymbark",
     "series": "FruMent",
