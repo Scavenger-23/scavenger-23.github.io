@@ -1,4 +1,97 @@
-[
+[{
+    "id": "mal_isr_silver_01",
+    "brand": "Malti",
+    "series": "Classic Silver",
+    "image": "images/Malti/mal_isr_silver_01.jpg",
+    "country": "Israel",
+    "year": null,
+    "description": "Light‑grey cap with Hebrew logotype ‘מאלטי’; small handwritten word above and black sunrise/flare motif."
+  },
+  {
+    "id": "mal_isr_yellow_01",
+    "brand": "Malti",
+    "series": "Classic Yellow",
+    "image": "images/Malti/mal_isr_yellow_01.jpg",
+    "country": "Israel",
+    "year": null,
+    "description": "Bright‑yellow cap with identical Hebrew branding; black sunrise/flare symbol over white‑outlined lettering."
+  },
+
+  {
+    "id": "ori_unk_green_01",
+    "brand": "Original",
+    "series": "Green Text",
+    "image": "images/Unknown/ori_unk_green_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Plain green cap with centred white serif word ‘Original’; minimalist design with no other markings."
+  },
+  {
+    "id": "smo_unk_blue_01",
+    "brand": "Smooth",
+    "series": "Blue Text",
+    "image": "images/Unknown/smo_unk_blue_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Plain sky‑blue cap featuring single white word ‘Smooth’ in matching serif font; partner to the ‘Original’ cap."
+  },
+
+  {
+    "id": "lea_unk_yellow_01",
+    "brand": "Green Leaf",
+    "series": "Yellow Field",
+    "image": "images/GreenLeaf/lea_unk_yellow_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Yellow cap displaying a stylised three‑leaf sprout in solid green; no text—a clean eco‑style icon."
+  },
+  {
+    "id": "lea_unk_orange_01",
+    "brand": "Green Leaf",
+    "series": "Orange Field",
+    "image": "images/GreenLeaf/lea_unk_orange_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Orange companion cap with the same green triple‑leaf symbol; otherwise unlettered."
+  },
+
+  {
+    "id": "sal_deu_ice_01",
+    "brand": "Salitos",
+    "series": "Ice",
+    "image": "images/Salitos/sal_deu_ice_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Blue‑rim cap; yellow diamond with dark‑green outline; inscriptions ‘REG. TRADE MARK – SALITOS ICE’; outer ring text ‘IMPORTED · SUPERIOR’."
+  },
+  {
+    "id": "sal_deu_teq_01",
+    "brand": "Salitos",
+    "series": "Tequila",
+    "image": "images/Salitos/sal_deu_teq_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Red field variant; yellow‑green diamond and banner ‘SALITOS TEQUILA’; weathered gold rim, outer ring text faint."
+  },
+
+  {
+    "id": "kol_col_std_01",
+    "brand": "Kola Román",
+    "series": "Standard",
+    "image": "images/KolaRoman/kol_col_std_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Silver cap; large vertical red ‘ROMAN’ with script ‘Kola’ above; Spanish advisory text around rim."
+  },
+  {
+    "id": "kol_col_promo_01",
+    "brand": "Kola Román",
+    "series": "Promoción",
+    "image": "images/KolaRoman/kol_col_promo_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Silver promotional cap: red bar ‘PROMOCION’ under the classic ‘Kola ROMAN’ logotype; fine‑print ingredients in red below."
+  },
   {
     "id": "uli_tur_frutti_01",
     "brand": "Uludağ",
