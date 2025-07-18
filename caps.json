@@ -1,4 +1,98 @@
-[{
+[
+  {
+    "id": "uli_tur_frutti_01",
+    "brand": "Uludağ",
+    "series": "Frutti",
+    "image": "images/Uludag/uli_tur_frutti_01.jpg",
+    "country": "Turkey",
+    "year": null,
+    "description": "Lime‑green cap; bold blue logotype ‘FRUTTI’ with red swoosh; white ‘uludağ’ crest above and Turkish text ‘Doğal Zengin Mineralli Gazlı İçecek’ below."
+  },
+  {
+    "id": "uli_tur_maden_01",
+    "brand": "Uludağ",
+    "series": "Doğal Maden Suyu",
+    "image": "images/Uludag/uli_tur_maden_01.jpg",
+    "country": "Turkey",
+    "year": null,
+    "description": "Dark‑green cap; yellow logotype ‘uludağ’ and legend ‘Doğal Maden Suyu’; small red‑white mountain emblem above."
+  },
+
+  {
+    "id": "mce_peru_plain_01",
+    "brand": "Maestría Cervecera",
+    "series": "Inca Glyph – Plain",
+    "image": "images/MaestriaCervecera/mce_peru_plain_01.jpg",
+    "country": "Peru",
+    "year": null,
+    "description": "Matte gold cap with embossed central Andean glyph; no surrounding text – minimalist emblem version."
+  },
+  {
+    "id": "mce_peru_desde1961_01",
+    "brand": "Maestría Cervecera",
+    "series": "Desde 1961",
+    "image": "images/MaestriaCervecera/mce_peru_desde1961_01.jpg",
+    "country": "Peru",
+    "year": null,
+    "description": "Gold cap with red ring bearing text ‘DESDE 1961 · MAESTRÍA CERVECERA’; same Andean glyph in centre."
+  },
+
+  {
+    "id": "xbe_unknown_31_01",
+    "brand": "X Beer",
+    "series": "3 % vol",
+    "image": "images/XBeer/xbe_unknown_31_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Metallic magenta cap; large white ‘X’ slash over background, lower left reads ‘3 % / 3.1 vol.’"
+  },
+  {
+    "id": "xbe_unknown_50_01",
+    "brand": "X Beer",
+    "series": "5 % vol",
+    "image": "images/XBeer/xbe_unknown_50_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Chrome‑silver cap with sky‑blue ‘X’; bottom legend ‘5 % vol.’ – stronger variant of the brand."
+  },
+
+  {
+    "id": "zde_pol_white_01",
+    "brand": "Złoty Denar",
+    "series": "White Label",
+    "image": "images/ZlotyDenar/zde_pol_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White‑rim cap; inner circle in bronze with gothic script ‘Złoty Denar’; red pennant ‘Premium Golden Beer’ above."
+  },
+  {
+    "id": "zde_pol_green_01",
+    "brand": "Złoty Denar",
+    "series": "Green Label",
+    "image": "images/ZlotyDenar/zde_pol_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green version of the cap; yellowish interior vignette, same gothic ‘Złoty Denar’ logo and red pennant banner."
+  },
+
+  {
+    "id": "eag_unknown_white_01",
+    "brand": "Eagle",
+    "series": "White Field",
+    "image": "images/Eagle/eag_unknown_white_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "White cap with solid black silhouette of a diving eagle, wings spread, talons forward."
+  },
+  {
+    "id": "eag_unknown_blue_01",
+    "brand": "Eagle",
+    "series": "Blue Field",
+    "image": "images/Eagle/eag_unknown_blue_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Bright‑blue cap featuring the same black eagle silhouette in flight motif centred on the field."
+  },{
   "id": "she_gbr_classic_01",
   "brand": "Shepherd Neame",
   "series": "Classic",
