@@ -1,4 +1,98 @@
-[{
+[
+  {
+    "id": "tym_pol_frument_01",
+    "brand": "Tymbark",
+    "series": "FruMent",
+    "image": "images/Tymbark/tym_pol_frument_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green twist‑off cap; big white stacked text ‘FRU / MENT’ over moustache icon, small ‘TYMBARK’ shield above (est. 1936)."
+  },
+  {
+    "id": "tym_pol_twins_01",
+    "brand": "Tymbark",
+    "series": "Twin Cockerels",
+    "image": "images/Tymbark/tym_pol_twins_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White twist‑off cap with minimalist black outline of two facing hens above bold word ‘TYMBARK’."
+  },
+
+  {
+    "id": "scho_deu_hefe_01",
+    "brand": "Schöfferhofer",
+    "series": "Hefeweizen",
+    "image": "images/Schofferhofer/scho_deu_hefe_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Orange‑gold cap; Gothic ‘Schöfferhofer’ over twin shield monogram; black ring text ‘HEFEWEIZEN’ top and bottom."
+  },
+  {
+    "id": "scho_deu_grapefruit_01",
+    "brand": "Schöfferhofer",
+    "series": "Grapefruit Weizen‑Mix",
+    "image": "images/Schofferhofer/scho_deu_grapefruit_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Orange cap variant for grapefruit mix; same Gothic logo with lower panel ‘GRAPEFRUIT – HEFEWEIZEN‑MIX’."
+  },
+
+  {
+    "id": "sie_usa_freshseal_green_01",
+    "brand": "Sierra Nevada",
+    "series": "Fresh Seal Cap (Green)",
+    "image": "images/SierraNevada/sie_usa_freshseal_green_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Speckled emerald cap with white legend ‘SIERRA NEVADA’; outer wording ‘FRESH SEAL CAP – USE BOTTLE OPENER’."
+  },
+  {
+    "id": "sie_usa_freshseal_khaki_01",
+    "brand": "Sierra Nevada",
+    "series": "Fresh Seal Cap (Khaki)",
+    "image": "images/SierraNevada/sie_usa_freshseal_khaki_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Pale olive/khaki version of the Fresh‑Seal cap; black lettering, same bottle‑opener instructions around rim."
+  },
+
+  {
+    "id": "svi_cze_greenring_01",
+    "brand": "Svijany",
+    "series": "Traditional Pivo (Ring‑Text)",
+    "image": "images/Svijany/svi_cze_greenring_01.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "Dark‑green cap; ornate crest with red ‘S’; Gothic ‘Svijany’; gold Czech ring text ‘TRADIČNÍ PIVO · BEZ PASTERIZACE’."
+  },
+  {
+    "id": "svi_cze_black_crest_01",
+    "brand": "Svijany",
+    "series": "Traditional Pivo (Black)",
+    "image": "images/Svijany/svi_cze_black_crest_01.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "Black field variant of Svijany crest; red Gothic initial ‘S’ within heraldic shield, gold logotype and date ‘1564’."
+  },
+
+  {
+    "id": "woo_gbr_red_01",
+    "brand": "Woodpecker",
+    "series": "Standard Red",
+    "image": "images/Woodpecker/woo_gbr_red_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Bright‑red cider cap with distressed camouflage pattern and silver word‑mark ‘WOODPECKER®’ centred."
+  },
+  {
+    "id": "unk_redarcs_01",
+    "brand": "Woodpecker",
+    "series": "Red Double‑Arc",
+    "image": "images/Woodpecker/unk_redarcs_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Weathered red cap showing two stylised opposing red arcs on a silvery disc; no lettering—identity unconfirmed."
+  },{
     "id": "mal_isr_silver_01",
     "brand": "Malti",
     "series": "Classic Silver",
